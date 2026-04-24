@@ -1,0 +1,119 @@
+{
+  "id": "kpop-vocal",
+  "name": "K-Pop Vocal",
+  "description": "Full K-pop experience with Korean vocals, catchy hooks, modern production for retail and QSR",
+  "type": "vocal",
+  "language": "Korean",
+
+  "genres": [
+    "kpop vocal"
+  ],
+
+  "subGenres": [
+    "kpop dance pop catchy hook",
+    "kpop synth pop bright modern",
+    "kpop future bass melodic vocal",
+    "kpop retro pop funky groovy",
+    "kpop tropical pop summer fresh",
+    "kpop power pop uplifting anthem",
+    "kpop edm pop hybrid energetic",
+    "kpop r&b pop smooth catchy"
+  ],
+
+  "moods": [
+    "upbeat and catchy",
+    "energetic and exciting",
+    "fun and playful",
+    "confident and bold",
+    "fresh and youthful",
+    "bright and positive",
+    "trendy and addictive",
+    "cheerful and vibrant"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo groovy", "minBpm": 98, "maxBpm": 112 },
+    { "label": "upbeat dance pop", "minBpm": 115, "maxBpm": 128 },
+    { "label": "high energy", "minBpm": 128, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "bright synth lead hook",
+    "punchy pop drums polished",
+    "synth bass groovy deep",
+    "plucked synth melody catchy",
+    "modern pop production crisp",
+    "snappy claps and snares",
+    "warm layered synth chords",
+    "bright piano pop hook",
+    "funky clean guitar stabs",
+    "sparkling arpeggiated synth"
+  ],
+
+  "useCases": [
+    "bubble tea shop playlist",
+    "korean beauty store",
+    "youth fashion retail",
+    "trendy cafe playlist",
+    "shopping mall k-culture",
+    "lifestyle brand store"
+  ],
+
+  "atmospheres": [
+    "vibrant kpop store energy",
+    "trendy seoul shopping street",
+    "colorful youthful pop aesthetic",
+    "bright modern retail vibe",
+    "k-culture brand experience",
+    "fun dynamic shopping mood"
+  ],
+
+  "vocalStyles": [
+    "bright Korean female vocal soprano catchy",
+    "smooth Korean male vocal tenor melodic",
+    "powerful Korean female vocal high belt",
+    "cool Korean male vocal rapper singer hybrid",
+    "sweet Korean female vocal youthful cute",
+    "energetic Korean male vocal bright high",
+    "airy Korean female vocal breathy trendy",
+    "charismatic Korean male vocal deep confident",
+    "clear Korean female vocal mezzo strong",
+    "warm Korean male vocal smooth falsetto",
+    "dynamic Korean female vocal versatile powerful",
+    "fresh Korean male vocal young bright tenor"
+  ],
+
+  "lyricThemes": [
+    "feeling alive tonight",
+    "dancing with my friends",
+    "you make my heart beat faster",
+    "chasing dreams together",
+    "summer love adventure",
+    "unstoppable confidence",
+    "shining brighter every day",
+    "the party starts now",
+    "falling for your smile",
+    "we own this moment",
+    "electric connection between us",
+    "breaking free and flying high",
+    "sweet as candy crush",
+    "rhythm takes control",
+    "new day new beginning",
+    "your vibe is magnetic",
+    "countdown to happiness",
+    "living in color",
+    "together we are fire",
+    "the world is our stage"
+  ],
+
+  "negativePrompts": [
+    "no slow ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no screaming",
+    "no jazz",
+    "no classical",
+    "no country"
+  ]
+}

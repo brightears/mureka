@@ -1,0 +1,83 @@
+{
+  "id": "jazz-lounge",
+  "name": "Jazz Lounge",
+  "description": "Classic lounge jazz for cafe listening, warm and understated with piano-led arrangements, relaxed swing feel",
+  "type": "instrumental",
+
+  "genres": [
+    "lounge jazz",
+    "cafe jazz",
+    "smooth jazz",
+    "classic jazz"
+  ],
+
+  "subGenres": [
+    "piano trio",
+    "cool jazz",
+    "swing",
+    "bossa nova",
+    "jazz ballad"
+  ],
+
+  "moods": [
+    "warm",
+    "understated",
+    "cozy",
+    "relaxed",
+    "mellow",
+    "intimate",
+    "sophisticated",
+    "smooth",
+    "laid-back",
+    "elegant"
+  ],
+
+  "tempos": [
+    { "label": "slow swing", "minBpm": 80, "maxBpm": 92 },
+    { "label": "relaxed", "minBpm": 88, "maxBpm": 100 },
+    { "label": "moderate swing", "minBpm": 96, "maxBpm": 108 },
+    { "label": "easy groove", "minBpm": 90, "maxBpm": 102 }
+  ],
+
+  "instruments": [
+    "piano",
+    "clean jazz guitar",
+    "upright bass",
+    "brushed drums",
+    "soft brushes",
+    "double bass",
+    "rhodes piano",
+    "acoustic bass",
+    "jazz guitar",
+    "vibraphone"
+  ],
+
+  "useCases": [
+    "cafe background music",
+    "lounge ambiance",
+    "cocktail bar",
+    "restaurant background",
+    "hotel lobby",
+    "wine bar atmosphere",
+    "late night listening"
+  ],
+
+  "atmospheres": [
+    "natural room feel",
+    "intimate club",
+    "late night cafe",
+    "cozy atmosphere",
+    "warm acoustic space",
+    "dimly lit lounge",
+    "rainy evening",
+    "soft candlelight"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no heavy drums"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "kids-toddler-songs",
+  "name": "kids-toddler-songs",
+  "description": "Toddler nursery pop songs (age 2-4) \u2014 bright cheerful songs about animals, colors, family and nature. Cocomelon and Pinkfong inspired style with simple melodies and repetitive hooks for hotel kids clubs",
+  "type": "vocal",
+  "language": "English",
+  "genres": [
+    "Kids Toddler Songs"
+  ],
+  "subGenres": [
+    "nursery pop upbeat cheerful simple storytelling",
+    "children's song bright educational pop story",
+    "toddler pop bouncy simple melody singalong",
+    "nursery rhyme pop playful gentle storytelling"
+  ],
+  "moods": [
+    "bright cheerful and playful very happy",
+    "joyful bouncy and simple warm fun",
+    "warm friendly and energetic cheerful",
+    "upbeat innocent and sweet very simple"
+  ],
+  "tempos": [
+    "gentle 80-90 BPM slow cozy toddler song",
+    "bouncy 95-105 BPM playful toddler",
+    "moderate 88-98 BPM warm singalong",
+    "slow 75-85 BPM gentle bedtime style",
+    "upbeat 100-108 BPM fun action song"
+  ],
+  "instruments": [
+    "bright glockenspiel melody simple warm",
+    "soft piano simple melody cheerful warm",
+    "warm acoustic guitar gentle simple strumming",
+    "bright marimba melody playful simple",
+    "soft accordion warm playful gentle melody",
+    "light xylophone bright cheerful simple",
+    "warm piano with soft toy bells gentle"
+  ],
+  "useCases": [
+    "hotel toddler kids club",
+    "resort children's program age 2-4",
+    "daycare morning welcome session",
+    "toddler active play time"
+  ],
+  "atmospheres": [
+    "bright sunny playroom happy toddlers",
+    "colorful fun playful learning space",
+    "warm friendly nursery joyful",
+    "cheerful outdoor play gentle sunshine"
+  ],
+  "vocalStyles": [
+    "bright young girl voice high pitch cheerful singalong toddler",
+    "warm young boy voice gentle low pitch friendly children's song",
+    "sweet young girl voice soft medium pitch storytelling toddler",
+    "cheerful young boy voice medium pitch bouncy singalong nursery",
+    "gentle older female voice warm medium pitch storyteller toddler",
+    "friendly older male voice deep warm pitch gentle children's",
+    "bright young girl voice medium-high pitch upbeat action song",
+    "soft young boy voice low-medium pitch cozy gentle story",
+    "playful young girl voice high pitch bouncy fun nursery",
+    "warm friendly male narrator voice deep pitch soft story song",
+    "sweet young girl duo voices harmonized gentle singalong",
+    "cheerful young boy voice medium pitch bright simple song",
+    "gentle grandmother-style female voice warm low pitch lullaby",
+    "bright young mixed children's chorus cheerful upbeat singalong"
+  ],
+  "lyricThemes": [
+    "the little duck who found her way back home to mama",
+    "counting five fluffy sheep jumping over the fence one by one",
+    "the tiny caterpillar who turned into a beautiful butterfly",
+    "a baby elephant learning to splash in the river with friends",
+    "good morning sun wake up it's a beautiful happy day",
+    "the friendly farmer says hello to every animal every morning",
+    "going to the market with mama finding fruits and vegetables",
+    "the little star that shines so bright in the nighttime sky",
+    "washing hands before we eat clean and happy every day",
+    "the puppy dog who loves to play and run in the garden",
+    "rain rain falling down flowers grow and smile today",
+    "goodnight moon goodnight stars time to sleep and dream"
+  ],
+  "negativePrompts": [
+    "no sad themes",
+    "no scary content",
+    "no complex lyrics",
+    "no adult themes",
+    "no romance",
+    "no violence",
+    "no minor key sad melody",
+    "no heavy bass",
+    "no aggressive sounds",
+    "no darkness fear",
+    "no separation themes",
+    "no death loss",
+    "no ukulele",
+    "no always same instrument",
+    "no complex arrangement",
+    "no fast confusing changes"
+  ]
+}

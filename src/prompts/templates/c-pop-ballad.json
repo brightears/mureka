@@ -1,0 +1,122 @@
+{
+  "id": "c-pop-ballad",
+  "name": "C-Pop Ballad",
+  "description": "Emotional Chinese pop ballads with piano, strings, and heartfelt vocals",
+  "type": "vocal",
+  "language": "Chinese",
+
+  "genres": [
+    "c-pop ballad"
+  ],
+
+  "subGenres": [
+    "chinese pop ballad emotional piano",
+    "mandarin love ballad warm",
+    "chinese acoustic ballad intimate",
+    "modern c-pop ballad strings",
+    "chinese slow song heartfelt",
+    "mandarin pop ballad cinematic",
+    "chinese romantic ballad gentle",
+    "contemporary c-pop emotional"
+  ],
+
+  "moods": [
+    "emotional and heartfelt",
+    "warm and intimate",
+    "tender and romantic",
+    "nostalgic and bittersweet",
+    "gentle and sincere",
+    "melancholic and beautiful",
+    "hopeful and warm",
+    "dreamy and soft"
+  ],
+
+  "tempos": [
+    { "label": "slow ballad", "minBpm": 60, "maxBpm": 72 },
+    { "label": "gentle ballad", "minBpm": 72, "maxBpm": 82 },
+    { "label": "mid-tempo ballad", "minBpm": 82, "maxBpm": 92 }
+  ],
+
+  "instruments": [
+    "warm piano chords emotional",
+    "soft acoustic guitar gentle",
+    "gentle strings warm sweeping",
+    "soft piano arpeggios flowing",
+    "warm nylon guitar fingerpicked",
+    "gentle orchestral strings background",
+    "soft bass warm subtle",
+    "light percussion gentle brushes",
+    "warm piano melody intimate",
+    "soft cello phrases emotional"
+  ],
+
+  "useCases": [
+    "romantic dinner background",
+    "wedding reception",
+    "emotional film scene",
+    "late night listening",
+    "coffee shop ambiance",
+    "heartfelt occasion"
+  ],
+
+  "atmospheres": [
+    "rainy window reflection",
+    "soft evening candlelight",
+    "quiet bedroom late night",
+    "autumn park golden leaves",
+    "rooftop city lights distant",
+    "gentle morning sunshine",
+    "empty cafe afternoon",
+    "starlit balcony night"
+  ],
+
+  "vocalStyles": [
+    "warm Chinese male vocals emotional tenor",
+    "soft Chinese female vocals intimate mezzo",
+    "gentle Chinese male vocals heartfelt smooth",
+    "emotional Chinese female vocals soprano clear",
+    "intimate Chinese male vocals tender warm",
+    "breathy Chinese female vocals soft delicate",
+    "smooth Chinese male vocals romantic deep",
+    "sweet Chinese female vocals youthful bright",
+    "rich Chinese male vocals baritone emotional",
+    "airy Chinese female vocals gentle flowing",
+    "expressive Chinese male vocals passionate warm",
+    "tender Chinese female vocals romantic soft"
+  ],
+
+  "lyricThemes": [
+    "missing you on rainy nights",
+    "our unforgettable first meeting",
+    "distance cannot separate hearts",
+    "the seasons remind me of you",
+    "walking together under streetlights",
+    "your smile stays in my memory",
+    "waiting for you at our place",
+    "love letters never sent",
+    "the song we used to share",
+    "growing old together someday",
+    "moonlight through the window",
+    "promises whispered at sunset",
+    "the taste of goodbye",
+    "your warmth on cold days",
+    "photographs of happier times",
+    "dreaming of tomorrow with you",
+    "the bridge where we first met",
+    "autumn leaves and old memories",
+    "the courage to say I love you",
+    "our story written in the stars"
+  ],
+
+  "negativePrompts": [
+    "no aggressive",
+    "no rock",
+    "no EDM",
+    "no fast tempo",
+    "no high energy",
+    "no saxophone",
+    "no jazz",
+    "no electronic beats",
+    "no distortion"
+  ]
+}

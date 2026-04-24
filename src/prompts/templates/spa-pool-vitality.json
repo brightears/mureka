@@ -1,0 +1,63 @@
+{
+  "id": "spa-pool-vitality",
+  "name": "spa-pool-vitality",
+  "description": "Spa pool and vitality area music \u2014 acoustic bossa nova and light tropical ambient for pools, hydro areas, vitality pools (90-110 BPM, more energized than treatment rooms)",
+  "type": "instrumental",
+  "genres": [
+    "Spa Pool Vitality"
+  ],
+  "subGenres": [
+    "acoustic bossa nova spa pool relaxed",
+    "light tropical acoustic spa pool ambient",
+    "bossa nova instrumental spa vitality",
+    "acoustic tropical chill spa pool relaxed"
+  ],
+  "moods": [
+    "relaxed and refreshing with gentle energy",
+    "breezy and warm poolside calm",
+    "light and summery with spa refinement",
+    "calm and uplifting gentle poolside"
+  ],
+  "tempos": [
+    "relaxed 90-100 BPM bossa nova",
+    "gentle 95-108 BPM acoustic chill",
+    "100-110 BPM light tropical spa"
+  ],
+  "instruments": [
+    "nylon guitar fingerpicked bossa nova gentle",
+    "soft upright bass bossa groove warm",
+    "brushed percussion very light gentle",
+    "warm piano chords bossa light",
+    "soft marimba melodic phrases light"
+  ],
+  "useCases": [
+    "spa pool deck",
+    "vitality pool area",
+    "hydrotherapy pool",
+    "hotel leisure pool"
+  ],
+  "atmospheres": [
+    "luxury spa pool refreshing daylight calm",
+    "vitality pool terrace warm sunshine",
+    "hotel pool deck relaxed summer serenity",
+    "hydro area bright calm poolside"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no lyrics",
+    "no singing",
+    "no humming",
+    "no voice",
+    "no EDM",
+    "no heavy bass drops",
+    "no aggressive beats",
+    "no distortion",
+    "no electric guitar",
+    "no synth lead",
+    "no saxophone",
+    "no jazz improvisation loud",
+    "no fast tempo",
+    "no orchestra",
+    "no electronic beats"
+  ]
+}

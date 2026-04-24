@@ -1,0 +1,93 @@
+{
+  "id": "kids-little-songs",
+  "name": "kids-little-songs",
+  "description": "Little kids songs (age 4-7) \u2014 Disney-style animated pop with adventure, friendship and magic themes. Upbeat cheerful songs for hotel kids clubs, active play and morning arrival",
+  "type": "vocal",
+  "language": "English",
+  "genres": [
+    "Kids Little Songs"
+  ],
+  "subGenres": [
+    "children's pop storytelling animated warm",
+    "kids pop cheerful adventure story singalong",
+    "animated movie style children's pop storytelling",
+    "children's pop catchy easy singalong story"
+  ],
+  "moods": [
+    "bright upbeat and adventurous very fun",
+    "cheerful magical and warm exciting",
+    "joyful energetic and friendly playful",
+    "uplifting happy and brave cheerful"
+  ],
+  "tempos": [
+    "gentle 88-98 BPM warm story song",
+    "upbeat 108-118 BPM cheerful adventure",
+    "moderate 95-105 BPM warm singalong",
+    "slow 80-90 BPM cozy gentle story",
+    "bouncy 105-115 BPM fun playful pop"
+  ],
+  "instruments": [
+    "warm piano bright pop cheerful",
+    "bright acoustic guitar strumming upbeat warm",
+    "soft warm orchestral strings gentle pop",
+    "bright marimba melody playful cheerful",
+    "warm piano with soft brass accents upbeat",
+    "light synth bells bright warm pop",
+    "acoustic guitar with warm piano gentle pop"
+  ],
+  "useCases": [
+    "hotel kids club age 4-7",
+    "morning arrival welcome session",
+    "active indoor play time",
+    "children's program Disney-style"
+  ],
+  "atmospheres": [
+    "magical adventure playground bright sunshine",
+    "colorful fantasy world cheerful friends",
+    "animated movie opening bright fun",
+    "friendly enchanted forest bright day"
+  ],
+  "vocalStyles": [
+    "warm bright female voice storytelling children's pop",
+    "friendly young male voice animated adventure song",
+    "sweet clear female voice gentle cozy story song",
+    "cheerful young male voice upbeat adventure singalong",
+    "warm female voice with children's chorus echo bright",
+    "gentle friendly female narrator voice soft story pop",
+    "upbeat young male voice fun catchy singalong children",
+    "bright clear female voice uplifting animated pop",
+    "warm deep male voice friendly story song gentle",
+    "playful young female voice bouncy singalong fun",
+    "soft warm female duo voices gentle story children's",
+    "cheerful young male voice simple warm adventure pop"
+  ],
+  "lyricThemes": [
+    "the brave little girl who climbed the tallest mountain",
+    "a friendly dragon who learned to share with the village",
+    "the boy who discovered a magical map in his backyard",
+    "three friends on an adventure through an enchanted forest",
+    "the little mermaid who made friends with all the fish",
+    "a kind witch who used her magic only to help others",
+    "the rainbow bridge that appeared every time it rained",
+    "going on a treasure hunt together best friends forever",
+    "the tiny seed that grew into the biggest tree in the park",
+    "a talking parrot who helped children learn to be kind",
+    "building a fort and inviting everyone in the neighborhood",
+    "the cloud that wanted to become a rainbow someday"
+  ],
+  "negativePrompts": [
+    "no sad themes",
+    "no scary content",
+    "no adult themes",
+    "no romance",
+    "no violence",
+    "no dark emotional themes",
+    "no heavy bass drops",
+    "no aggressive sounds",
+    "no complex adult lyrics",
+    "no death loss fear",
+    "no ukulele",
+    "no repetitive same instrument",
+    "no monotone arrangement"
+  ]
+}

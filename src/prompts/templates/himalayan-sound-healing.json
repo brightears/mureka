@@ -1,0 +1,68 @@
+{
+  "id": "himalayan-sound-healing",
+  "name": "himalayan-sound-healing",
+  "description": "Himalayan and Tibetan sound healing \u2014 singing bowls, crystal bowls, gongs for dedicated sound bath rooms and deep meditation",
+  "type": "instrumental",
+  "genres": [
+    "Himalayan Sound Healing"
+  ],
+  "subGenres": [
+    "tibetan singing bowl healing ambient soundscape",
+    "himalayan sound bath meditative very sparse",
+    "crystal bowl resonance ambient healing",
+    "sound therapy ambient tibetan bowl drone"
+  ],
+  "moods": [
+    "deeply meditative with sacred resonance",
+    "healing and transformative very still",
+    "spiritual and deeply calming with bowl resonance",
+    "profoundly peaceful with sustained tones"
+  ],
+  "tempos": [
+    "no discernible tempo very sparse ambient drone",
+    "very slow 40-55 BPM or pure soundscape",
+    "ultra slow ambient 40-50 BPM"
+  ],
+  "instruments": [
+    "tibetan singing bowl struck resonance sustained",
+    "crystal singing bowl long resonant tone",
+    "himalayan singing bowl rimmed drone sustained",
+    "soft gong resonance long fade sparse",
+    "tingsha bell chime gentle sparse",
+    "tuning fork resonance ambient soft"
+  ],
+  "useCases": [
+    "sound bath room",
+    "dedicated healing chamber",
+    "deep meditation space",
+    "spa sound therapy session"
+  ],
+  "atmospheres": [
+    "himalayan monastery healing ceremony",
+    "tibetan sound bath sacred chamber",
+    "crystal resonance healing space pure",
+    "deep meditation chamber profound stillness"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting voice",
+    "no melody",
+    "no drums",
+    "no percussion rhythm",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no flute melody",
+    "no synth",
+    "no electronic",
+    "no bass",
+    "no orchestra",
+    "no strings",
+    "no fast tempo",
+    "no busy arrangement",
+    "no sharp transients",
+    "no sudden changes"
+  ]
+}

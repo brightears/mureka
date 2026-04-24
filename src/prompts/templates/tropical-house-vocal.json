@@ -1,0 +1,129 @@
+{
+  "id": "tropical-house-vocal",
+  "name": "Tropical House Vocal",
+  "description": "Chill tropical house with smooth airy vocals - Kygo, Lost Frequencies, Robin Schulz style - summer vibes, feel-good melodies",
+  "type": "vocal",
+
+  "genres": [
+    "tropical house vocal"
+  ],
+
+  "subGenres": [
+    "chill tropical house vocal",
+    "Kygo style vocal",
+    "summer house vocal",
+    "melodic tropical vocal",
+    "beach house vocal",
+    "feel-good tropical",
+    "deep tropical vocal"
+  ],
+
+  "moods": [
+    "carefree and breezy",
+    "warm and romantic",
+    "uplifting and positive",
+    "dreamy summer feel",
+    "relaxed and happy",
+    "feel-good vibes",
+    "nostalgic and warm",
+    "sunny and hopeful"
+  ],
+
+  "tempos": [
+    { "label": "chill tropical groove", "minBpm": 100, "maxBpm": 108 },
+    { "label": "relaxed summer tempo", "minBpm": 105, "maxBpm": 112 },
+    { "label": "laid-back beach tempo", "minBpm": 108, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "plucky tropical synth lead",
+    "warm synth pads",
+    "steel drums",
+    "marimba melody",
+    "acoustic guitar strumming",
+    "soft piano chords",
+    "gentle percussion",
+    "airy flute",
+    "tropical shakers",
+    "mellow saxophone"
+  ],
+
+  "useCases": [
+    "summer playlist",
+    "beach party",
+    "vacation soundtrack",
+    "sunset drive",
+    "pool party",
+    "rooftop chill"
+  ],
+
+  "atmospheres": [
+    "sunny beach vibes",
+    "tropical paradise",
+    "warm summer night",
+    "ocean sunset",
+    "carefree holiday",
+    "golden hour mood"
+  ],
+
+  "vocalStyles": [
+    "smooth airy female vocals laid-back",
+    "dreamy female vocals soft and warm",
+    "breathy female vocals summer feel",
+    "gentle female vocals carefree vibe",
+    "light female vocals uplifting tropical",
+    "sweet female vocals romantic summer",
+    "smooth male vocals relaxed and warm",
+    "soft male vocals dreamy tropical",
+    "gentle male vocals laid-back summer",
+    "airy male vocals feel-good vibes",
+    "mellow male vocals carefree mood",
+    "warm male vocals romantic chill"
+  ],
+
+  "lyricThemes": [
+    "summer love and romance",
+    "escaping to the beach",
+    "dancing in the sunset",
+    "feeling free and alive",
+    "island paradise dreams",
+    "chasing the sun",
+    "ocean waves and memories",
+    "endless summer nights",
+    "falling in love on vacation",
+    "warm nights together",
+    "leaving worries behind",
+    "living in the moment",
+    "tropical getaway",
+    "sunset by the sea",
+    "summer fling romance",
+    "barefoot on the beach",
+    "golden hour feelings",
+    "waves crashing gently",
+    "palm trees and starlight",
+    "carefree days ahead",
+    "dancing on the shore",
+    "tropical moonlight",
+    "summer breeze love",
+    "island state of mind",
+    "sun-kissed memories",
+    "paradise found",
+    "sea salt and sunshine",
+    "warm sand between toes",
+    "ocean calling",
+    "summer never ends"
+  ],
+
+  "negativePrompts": [
+    "no harsh vocals",
+    "no screaming",
+    "no rap",
+    "no heavy drops",
+    "no aggressive singing",
+    "no dark themes",
+    "no intense EDM",
+    "no distortion",
+    "no sad lyrics",
+    "no heavy bass drops"
+  ]
+}

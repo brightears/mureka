@@ -1,0 +1,91 @@
+{
+  "id": "chillout-mid",
+  "name": "Chillout Instrumental Mid",
+  "description": "Mid-energy chillout with groove, Cafe del Mar and Buddha Bar style, warm beats and world fusion",
+  "type": "instrumental",
+
+  "genres": [
+    "chillout mid"
+  ],
+
+  "subGenres": [
+    "Cafe del Mar Balearic groove",
+    "Buddha Bar ethnic groove warm",
+    "downtempo groovy atmospheric",
+    "Balearic beat chillout rhythmic",
+    "world fusion downtempo groovy",
+    "ethnic electronica mid-tempo",
+    "trip hop downtempo smooth",
+    "deep chillout rhythmic warm"
+  ],
+
+  "moods": [
+    "groovy and warm",
+    "hypnotic and rhythmic",
+    "exotic and enchanting",
+    "smooth and atmospheric",
+    "sensual and deep",
+    "sophisticated and cool",
+    "immersive and flowing",
+    "sultry and mysterious"
+  ],
+
+  "tempos": [
+    { "label": "chillout groove", "minBpm": 88, "maxBpm": 98 },
+    { "label": "mid-tempo flow", "minBpm": 95, "maxBpm": 105 },
+    { "label": "downtempo drive", "minBpm": 102, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "warm synth pad atmospheric evolving",
+    "soft electronic beats groovy",
+    "ethnic percussion subtle groove",
+    "acoustic guitar fingerpicked warm",
+    "deep bass groove smooth",
+    "ethnic flute melodic",
+    "warm electric piano filtered",
+    "hang drum rhythmic resonant",
+    "world percussion layered subtle",
+    "ambient oud gentle melodic",
+    "kalimba rhythmic gentle",
+    "tabla soft groove"
+  ],
+
+  "useCases": [
+    "hotel bar evening",
+    "rooftop sunset cocktails",
+    "upscale lounge background",
+    "boutique hotel lobby",
+    "poolside bar afternoon",
+    "cocktail party ambient",
+    "beach club sunset",
+    "wine bar evening"
+  ],
+
+  "atmospheres": [
+    "Ibiza sunset golden hour",
+    "warm rooftop evening cocktails",
+    "Mediterranean beach bar twilight",
+    "exotic lounge candlelight",
+    "Balearic coastline sunset",
+    "luxury pool deck evening",
+    "warm ethnic bazaar night",
+    "sophisticated terrace party"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no smooth jazz",
+    "no brass",
+    "no trumpet",
+    "no wind instruments",
+    "no heavy beats",
+    "no EDM drops",
+    "no distortion",
+    "no aggressive",
+    "no loud"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "k-rnb-chill",
+  "name": "K-R&B Chill",
+  "description": "Smooth modern Korean R&B for premium retail, beauty stores, and fashion boutiques",
+  "type": "vocal",
+  "language": "Korean",
+
+  "genres": [
+    "k-rnb chill"
+  ],
+
+  "subGenres": [
+    "korean r&b smooth modern",
+    "k-r&b chill soulful",
+    "korean urban r&b laid-back",
+    "korean r&b pop crossover smooth",
+    "korean neo soul chill",
+    "korean r&b acoustic intimate",
+    "korean slow groove r&b",
+    "korean alternative r&b dreamy"
+  ],
+
+  "moods": [
+    "smooth and cool",
+    "laid-back and stylish",
+    "warm and dreamy",
+    "chill and confident",
+    "sultry and modern",
+    "soft and groovy",
+    "intimate and trendy",
+    "relaxed and sophisticated"
+  ],
+
+  "tempos": [
+    { "label": "slow smooth", "minBpm": 68, "maxBpm": 82 },
+    { "label": "mid-tempo groove", "minBpm": 85, "maxBpm": 100 },
+    { "label": "relaxed upbeat", "minBpm": 100, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "warm electric piano smooth chords",
+    "modern r&b drum programming soft",
+    "deep bass groove round smooth",
+    "soft synth pad warm atmospheric",
+    "clean guitar r&b licks gentle",
+    "finger snaps soft",
+    "warm keys gentle melodic",
+    "lo-fi texture subtle warm",
+    "light percussion shaker groove",
+    "soft strings background minimal"
+  ],
+
+  "useCases": [
+    "fashion boutique background",
+    "beauty store ambiance",
+    "premium retail floor",
+    "lifestyle brand store",
+    "cosmetics retail mood",
+    "trendy restaurant evening"
+  ],
+
+  "atmospheres": [
+    "sleek modern boutique",
+    "stylish urban retail space",
+    "cool premium shopping mood",
+    "trendy seoul gangnam vibe",
+    "sophisticated retail evening",
+    "chic minimalist store",
+    "instagram aesthetic space",
+    "modern lifestyle brand feel"
+  ],
+
+  "vocalStyles": [
+    "smooth Korean male vocal tenor silky",
+    "sultry Korean female vocal alto warm",
+    "gentle Korean male vocal falsetto breathy",
+    "soulful Korean female vocal mezzo rich",
+    "cool Korean male vocal laid-back smooth",
+    "intimate Korean female vocal whispered soft",
+    "warm Korean male vocal baritone gentle",
+    "airy Korean female vocal soprano light",
+    "groovy Korean male vocal rhythmic confident",
+    "tender Korean female vocal gentle flowing",
+    "dreamy Korean male vocal soft romantic",
+    "sweet Korean female vocal clear melodic"
+  ],
+
+  "lyricThemes": [
+    "late night in the city with you",
+    "your style catches my eye",
+    "the vibe between us tonight",
+    "slow dancing in the moonlight",
+    "coffee and conversations",
+    "rainy day together at home",
+    "your voice is my comfort",
+    "lost in this feeling",
+    "driving through seoul at night",
+    "whispered words and gentle touch",
+    "sunset from the rooftop",
+    "falling slowly for you",
+    "the warmth of your presence",
+    "playlist for two",
+    "our secret meeting place",
+    "starlight and city glow",
+    "morning after the rain",
+    "your laughter fills the room",
+    "easy love no rush",
+    "this moment is enough"
+  ],
+
+  "negativePrompts": [
+    "no harsh sounds",
+    "no rock",
+    "no heavy drums",
+    "no EDM",
+    "no saxophone",
+    "no jazz",
+    "no distortion",
+    "no screaming",
+    "no aggressive"
+  ]
+}

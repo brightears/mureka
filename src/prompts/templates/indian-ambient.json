@@ -1,0 +1,88 @@
+{
+  "id": "indian-ambient",
+  "name": "Indian Ambient Meditation",
+  "description": "Indian ambient meditation music with sitar, tanpura, tabla for spas and wellness spaces in India",
+  "type": "instrumental",
+
+  "genres": [
+    "indian ambient"
+  ],
+
+  "subGenres": [
+    "indian ambient meditation sitar",
+    "raga ambient tanpura drone peaceful",
+    "indian spa ambient gentle minimal",
+    "indian meditation soundscape serene",
+    "hindustani ambient flowing gentle",
+    "indian devotional ambient calm",
+    "indian zen ambient sparse peaceful",
+    "raga ambient contemplative still"
+  ],
+
+  "moods": [
+    "meditative and spiritual",
+    "peaceful and flowing",
+    "serene and grounding",
+    "contemplative and deep",
+    "warm and transcendent",
+    "gentle and devotional",
+    "calm and spacious",
+    "sacred and still"
+  ],
+
+  "tempos": [
+    { "label": "very slow meditative", "minBpm": 45, "maxBpm": 60 },
+    { "label": "slow flowing", "minBpm": 58, "maxBpm": 72 },
+    { "label": "gentle drift", "minBpm": 70, "maxBpm": 82 }
+  ],
+
+  "instruments": [
+    "sitar gentle melodic phrases sparse",
+    "tanpura drone warm sustained",
+    "tabla soft gentle rhythmic",
+    "bansuri bamboo flute breathy soft",
+    "santoor hammered dulcimer gentle",
+    "sarangi bowed melodic warm",
+    "singing bowl resonant deep",
+    "temple bells gentle distant",
+    "tambura drone subtle warm",
+    "sitar ambient plucked sparse"
+  ],
+
+  "useCases": [
+    "indian spa treatment room",
+    "ayurvedic wellness center",
+    "yoga studio india",
+    "meditation retreat",
+    "luxury indian hotel spa",
+    "wellness resort india"
+  ],
+
+  "atmospheres": [
+    "temple courtyard morning light",
+    "ganges riverbank dawn",
+    "peaceful ashram meditation",
+    "himalayan mountain stillness",
+    "incense filled sacred space",
+    "lotus pond serene garden",
+    "ancient temple inner sanctum",
+    "warm golden evening prayer"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no chanting",
+    "no singing",
+    "no voice",
+    "no drums heavy",
+    "no electronic",
+    "no synth",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no western instruments",
+    "no loud dynamics",
+    "no fast tempo"
+  ]
+}

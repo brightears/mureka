@@ -1,0 +1,128 @@
+{
+  "id": "nu-disco-vocal",
+  "name": "Nu Disco / Indie Dance Vocal",
+  "description": "Purple Disco Machine style nu disco and indie dance with soulful vocals - funky bass, analog synths, groovy four-on-the-floor beats",
+  "type": "vocal",
+
+  "genres": [
+    "nu disco"
+  ],
+
+  "subGenres": [
+    "disco house vocal",
+    "indie dance",
+    "funky disco house",
+    "modern disco",
+    "retro dance pop",
+    "synth disco",
+    "groovy house",
+    "dance pop disco",
+    "electronic disco",
+    "funky electronic"
+  ],
+
+  "moods": [
+    "euphoric and uplifting",
+    "groovy and danceable",
+    "feel-good and energetic",
+    "warm and funky",
+    "nostalgic yet modern",
+    "sophisticated nightlife",
+    "summer party vibes",
+    "joyful and carefree",
+    "sexy and confident",
+    "infectious and catchy"
+  ],
+
+  "tempos": [
+    { "label": "groovy nu disco", "minBpm": 108, "maxBpm": 115 },
+    { "label": "classic disco house", "minBpm": 115, "maxBpm": 120 },
+    { "label": "uptempo disco", "minBpm": 120, "maxBpm": 124 }
+  ],
+
+  "instruments": [
+    "analog synth bass Juno style",
+    "funky rhythm guitar",
+    "four on the floor disco drums",
+    "warm analog synth pads",
+    "groovy bassline",
+    "crispy disco hi-hats",
+    "funky guitar riffs",
+    "Rhodes electric piano",
+    "shimmering synth arpeggios",
+    "punchy disco kick",
+    "live bass groove",
+    "vintage string synths",
+    "filter sweep synths",
+    "handclaps and percussion",
+    "disco strings"
+  ],
+
+  "vocalStyles": [
+    "soulful female vocal disco diva",
+    "emotive female pop vocal catchy",
+    "smooth female R&B vocal warm",
+    "powerful female dance vocal uplifting",
+    "sultry confident female vocal groovy",
+    "breathy female vocal dreamy disco",
+    "funky male vocal smooth groove",
+    "soulful male R&B vocal warm",
+    "smooth male falsetto vocal disco",
+    "deep male vocal funky baritone",
+    "energetic male vocal upbeat dance",
+    "silky male tenor vocal romantic"
+  ],
+
+  "lyricThemes": [
+    "dancing all night",
+    "feeling the groove",
+    "summer love affair",
+    "disco nights",
+    "letting go on the dance floor",
+    "feeling alive tonight",
+    "under the disco lights",
+    "lost in the music",
+    "feeling hypnotized",
+    "paradise on the dance floor",
+    "heartbeat rhythm",
+    "electric connection",
+    "moving to the beat",
+    "glitter and glamour",
+    "unforgettable night"
+  ],
+
+  "useCases": [
+    "nightclub dance floor",
+    "summer festival",
+    "rooftop party",
+    "fashion show",
+    "pool party",
+    "boutique club night"
+  ],
+
+  "atmospheres": [
+    "late night disco club",
+    "summer rooftop party",
+    "glamorous nightlife",
+    "retro dance floor",
+    "sunset beach club",
+    "sophisticated cocktail lounge",
+    "neon lit dance floor",
+    "euphoric festival moment"
+  ],
+
+  "negativePrompts": [
+    "no slow ballad",
+    "no sad",
+    "no melancholic",
+    "no acoustic only",
+    "no country",
+    "no metal",
+    "no rock",
+    "no rap",
+    "no hip hop",
+    "no trap beats",
+    "no harsh distortion",
+    "no aggressive"
+  ]
+}

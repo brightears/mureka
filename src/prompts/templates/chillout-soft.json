@@ -1,0 +1,88 @@
+{
+  "id": "chillout-soft",
+  "name": "Chillout Instrumental Soft",
+  "description": "Ultra soft downtempo chillout, dreamy ambient electronica, floating and ethereal for lounges and spas",
+  "type": "instrumental",
+
+  "genres": [
+    "chillout soft"
+  ],
+
+  "subGenres": [
+    "soft ambient chillout dreamy",
+    "downtempo ambient very soft floating",
+    "Balearic ambient soft ethereal",
+    "deep ambient chillout gentle",
+    "soft electronica ambient peaceful",
+    "dream ambient downtempo warm",
+    "chill ambient soft spacious",
+    "soft world ambient gentle"
+  ],
+
+  "moods": [
+    "dreamy and floating",
+    "ethereal and soft",
+    "warm and peaceful",
+    "gentle and hypnotic",
+    "serene and spacious",
+    "delicate and soothing",
+    "tranquil and immersive",
+    "tender and atmospheric"
+  ],
+
+  "tempos": [
+    { "label": "very slow ambient", "minBpm": 65, "maxBpm": 78 },
+    { "label": "slow floating", "minBpm": 75, "maxBpm": 85 },
+    { "label": "gentle drift", "minBpm": 82, "maxBpm": 92 }
+  ],
+
+  "instruments": [
+    "warm ambient synth pad soft evolving",
+    "soft electronic pulse gentle subtle",
+    "acoustic guitar fingerpicked very soft",
+    "warm piano chords sparse gentle",
+    "deep soft sub bass barely there",
+    "kalimba gentle melodic soft",
+    "hang drum soft resonant",
+    "ambient string pad warm floating",
+    "soft flute breathy gentle",
+    "marimba gentle soft melodic"
+  ],
+
+  "useCases": [
+    "luxury hotel lobby evening",
+    "spa reception lounge",
+    "boutique hotel ambient",
+    "upscale restaurant soft background",
+    "rooftop sunset session",
+    "resort pool lounge"
+  ],
+
+  "atmospheres": [
+    "sunset fading over the ocean",
+    "warm candlelit lounge evening",
+    "floating in warm water",
+    "twilight Mediterranean terrace",
+    "soft clouds drifting slowly",
+    "gentle evening breeze",
+    "warm golden hour fading",
+    "starlit terrace calm"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no smooth jazz",
+    "no brass",
+    "no trumpet",
+    "no wind instruments",
+    "no heavy beats",
+    "no loud drums",
+    "no EDM drops",
+    "no distortion",
+    "no aggressive",
+    "no fast tempo"
+  ]
+}

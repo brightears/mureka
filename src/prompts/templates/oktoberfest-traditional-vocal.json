@@ -1,0 +1,123 @@
+{
+  "id": "oktoberfest-traditional-vocal",
+  "name": "Oktoberfest Traditional Vocal",
+  "description": "Classic Bavarian drinking songs with German vocals, sing-along beer hall style",
+  "type": "vocal",
+  "language": "German",
+
+  "genres": [
+    "oktoberfest traditional vocal"
+  ],
+
+  "subGenres": [
+    "bavarian drinking song traditional vocal",
+    "german folk song sing-along cheerful",
+    "alpine folk vocal warm hearty",
+    "bavarian beer song festive vocal",
+    "german volksmusik vocal traditional",
+    "tyrolean yodeling folk vocal",
+    "bavarian waltz vocal romantic",
+    "german folk polka vocal lively"
+  ],
+
+  "moods": [
+    "festive and hearty",
+    "jolly and sing-along",
+    "warm and convivial",
+    "cheerful and celebratory",
+    "merry and boisterous",
+    "rustic and charming",
+    "lively and fun",
+    "traditional and warm"
+  ],
+
+  "tempos": [
+    { "label": "waltz moderate", "minBpm": 80, "maxBpm": 100 },
+    { "label": "polka lively", "minBpm": 105, "maxBpm": 125 },
+    { "label": "festive upbeat", "minBpm": 120, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "accordion bavarian warm",
+    "brass ensemble festive",
+    "tuba oom-pah bass",
+    "clarinet bavarian melodic",
+    "zither alpine plucked",
+    "trumpet festive bright",
+    "trombone warm",
+    "live drums polka rhythm",
+    "alphorn deep resonant",
+    "cowbell alpine"
+  ],
+
+  "useCases": [
+    "oktoberfest party",
+    "german beer festival",
+    "beer garden event",
+    "bavarian themed party",
+    "german pub night",
+    "beer hall celebration"
+  ],
+
+  "atmospheres": [
+    "crowded beer hall singing",
+    "festive oktoberfest tent party",
+    "outdoor beer garden celebration",
+    "bavarian mountain festival",
+    "cheerful german pub gathering",
+    "warm alpine lodge party",
+    "lively beer festival evening",
+    "rustic barn dance"
+  ],
+
+  "vocalStyles": [
+    "hearty German male vocal baritone strong beer hall",
+    "bright German female vocal soprano cheerful folk",
+    "deep German male vocal bass booming jolly",
+    "warm German female vocal mezzo sing-along friendly",
+    "powerful German male vocal tenor festive loud",
+    "sweet German female vocal youthful bright alpine",
+    "rough German male vocal low rustic hearty",
+    "clear German female vocal high traditional folk",
+    "bold German male vocal strong commanding festive",
+    "gentle German female vocal warm melodic waltz",
+    "boisterous German male vocal mid-range party sing-along",
+    "rich German female vocal alto warm traditional"
+  ],
+
+  "lyricThemes": [
+    "raise your glass and drink together",
+    "beautiful Bavaria mountains and lakes",
+    "dancing at the beer festival",
+    "friendship and good times",
+    "the best beer in the world",
+    "singing under the stars tonight",
+    "love in the alpine meadows",
+    "cheers to life and happiness",
+    "wandering through the forest",
+    "our favorite beer garden",
+    "the accordion plays our song",
+    "home in the mountains",
+    "harvest time celebration",
+    "dancing polka all night long",
+    "old friends gathering again",
+    "sunshine on the alpine peaks",
+    "the village festival begins",
+    "love and laughter at the table",
+    "the edelweiss on the mountain",
+    "one more round for everyone"
+  ],
+
+  "negativePrompts": [
+    "no harsh screaming",
+    "no rap",
+    "no EDM",
+    "no heavy metal",
+    "no synth",
+    "no electronic beats",
+    "no dark",
+    "no sad",
+    "no saxophone",
+    "no jazz"
+  ]
+}

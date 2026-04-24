@@ -1,0 +1,84 @@
+{
+  "id": "japanese-hotel-lounge",
+  "name": "Japanese Hotel Lounge",
+  "description": "Elegant sophisticated piano-led music for luxury Japanese hotels and fine dining",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese hotel lounge"
+  ],
+
+  "subGenres": [
+    "elegant piano lounge refined",
+    "sophisticated jazz light gentle",
+    "japanese modern lounge warm",
+    "refined instrumental light classical",
+    "elegant ambient piano soft",
+    "japanese luxury lounge understated",
+    "gentle piano trio sophisticated",
+    "modern japanese easy listening elegant"
+  ],
+
+  "moods": [
+    "elegant and refined",
+    "sophisticated and warm",
+    "understated and graceful",
+    "calm and luxurious",
+    "polished and welcoming",
+    "gentle and distinguished",
+    "serene and tasteful",
+    "intimate and classy"
+  ],
+
+  "tempos": [
+    { "label": "slow elegant", "minBpm": 65, "maxBpm": 80 },
+    { "label": "gentle moderate", "minBpm": 80, "maxBpm": 95 },
+    { "label": "light flowing", "minBpm": 92, "maxBpm": 105 }
+  ],
+
+  "instruments": [
+    "grand piano elegant melodic",
+    "soft piano chords warm refined",
+    "gentle vibraphone accents",
+    "upright bass soft subtle",
+    "brushed drums very light delicate",
+    "warm piano arpeggios gentle",
+    "soft strings background minimal",
+    "clean guitar gentle jazz",
+    "piano melody sophisticated simple",
+    "light acoustic bass pizzicato"
+  ],
+
+  "useCases": [
+    "luxury hotel lobby",
+    "japanese fine dining restaurant",
+    "ryokan reception area",
+    "upscale bar and lounge",
+    "hotel breakfast hall",
+    "premium restaurant evening"
+  ],
+
+  "atmospheres": [
+    "polished marble hotel lobby",
+    "elegant japanese dining room",
+    "refined evening ambiance",
+    "luxury ryokan entrance",
+    "tasteful minimal interior",
+    "soft lighting sophisticated space",
+    "zen-inspired luxury lounge",
+    "quiet distinguished evening"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no sax",
+    "no loud drums",
+    "no EDM",
+    "no electronic beats",
+    "no synths",
+    "no distortion",
+    "no aggressive",
+    "no fast tempo"
+  ]
+}

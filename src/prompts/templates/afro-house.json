@@ -1,0 +1,98 @@
+{
+  "id": "afro-house",
+  "name": "Afro House",
+  "description": "Percussive Afro house with polyrhythmic hand drums, warm sub bass, and hypnotic tribal grooves",
+  "type": "instrumental",
+
+  "genres": [
+    "afro house"
+  ],
+
+  "subGenres": [
+    "afro house deep percussive groove",
+    "afro house warm tribal polyrhythmic",
+    "afro deep house meditative organic",
+    "afro house soulful warm percussion",
+    "tribal house percussive layered groove",
+    "organic afro house melodic warm",
+    "afro house hypnotic ceremonial groove",
+    "afro house warm underground percussive"
+  ],
+
+  "moods": [
+    "warm and hypnotic",
+    "deep and percussive",
+    "spiritual and meditative",
+    "earthy and organic",
+    "warm and ceremonial",
+    "mellow and groovy",
+    "dark and hypnotic",
+    "warm and tribal"
+  ],
+
+  "tempos": [
+    { "label": "afro deep groove", "minBpm": 118, "maxBpm": 121 },
+    { "label": "afro house", "minBpm": 120, "maxBpm": 124 },
+    { "label": "tribal house groove", "minBpm": 122, "maxBpm": 126 }
+  ],
+
+  "instruments": [
+    "deep resonant hand drum warm",
+    "polyrhythmic percussion layers organic",
+    "warm deep sub bass smooth",
+    "soft four-on-the-floor kick",
+    "seed-filled shaker organic texture",
+    "wooden mallet percussion tonal warm",
+    "plucked metallic thumb piano sparse",
+    "warm sustained evolving pad filtered",
+    "deep cylindrical tom hits warm",
+    "wooden stick percussion dry accents",
+    "warm atmospheric pad soft background",
+    "gentle organic bongos and congas",
+    "pitched melodic drum warm",
+    "soft breathy wooden flute phrases"
+  ],
+
+  "useCases": [
+    "underground dance event",
+    "late night tribal set",
+    "sunset beach ceremony",
+    "deep listening session",
+    "intimate club set",
+    "outdoor festival warm up"
+  ],
+
+  "atmospheres": [
+    "hypnotic tribal dancefloor",
+    "warm percussive underground groove",
+    "spiritual ceremonial atmosphere",
+    "deep earthy organic warmth",
+    "meditative rhythmic space",
+    "warm dark tribal atmosphere",
+    "organic percussive ceremony",
+    "warm underground ritual groove"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no EDM",
+    "no EDM drops",
+    "no build up",
+    "no bright synth leads",
+    "no harsh synths",
+    "no bright synthesizers",
+    "no aggressive sounds",
+    "no distortion",
+    "no trance",
+    "no fast tempo",
+    "no high energy",
+    "no pop production",
+    "no saxophone",
+    "no guitar",
+    "no rock",
+    "no cheap synths",
+    "no robotic drums",
+    "no progressive house"
+  ]
+}

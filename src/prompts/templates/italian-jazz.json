@@ -1,0 +1,92 @@
+{
+  "id": "italian-jazz",
+  "name": "Italian Jazz",
+  "description": "Melodic Italian jazz with warm piano, upright bass, and Mediterranean elegance",
+  "type": "instrumental",
+
+  "genres": [
+    "italian jazz"
+  ],
+
+  "subGenres": [
+    "italian jazz melodic warm piano",
+    "mediterranean jazz elegant smooth",
+    "italian jazz romantic cinematic",
+    "milan jazz sophisticated warm",
+    "italian jazz intimate melodic",
+    "roman jazz warm elegant groove",
+    "italian jazz bossa influenced warm",
+    "mediterranean jazz melodic refined"
+  ],
+
+  "moods": [
+    "warm and melodic",
+    "elegant and sophisticated",
+    "romantic and intimate",
+    "smooth and refined",
+    "cinematic and warm",
+    "laid-back and elegant",
+    "warm and inviting",
+    "sophisticated and mellow"
+  ],
+
+  "tempos": [
+    { "label": "slow italian jazz", "minBpm": 80, "maxBpm": 90 },
+    { "label": "classic italian jazz", "minBpm": 90, "maxBpm": 100 },
+    { "label": "mid-tempo italian jazz", "minBpm": 100, "maxBpm": 110 }
+  ],
+
+  "instruments": [
+    "warm piano melodic chords elegant",
+    "upright bass smooth walking line",
+    "brushed drums soft jazz groove",
+    "nylon guitar fingerpicked warm",
+    "soft vibraphone melodic accents",
+    "warm double bass pizzicato",
+    "gentle piano trio arrangement",
+    "soft percussion subtle groove",
+    "warm acoustic guitar chords",
+    "light cymbal brushwork gentle",
+    "melodic piano phrases warm",
+    "soft bass groove round smooth"
+  ],
+
+  "useCases": [
+    "fine dining italian restaurant",
+    "upscale wine bar",
+    "boutique hotel lobby",
+    "romantic dinner setting",
+    "sophisticated cocktail bar",
+    "italian trattoria evening"
+  ],
+
+  "atmospheres": [
+    "warm italian evening ambiance",
+    "elegant mediterranean sophistication",
+    "romantic candlelit dinner",
+    "milan jazz club warmth",
+    "sophisticated roman nightlife",
+    "intimate piano bar atmosphere",
+    "warm tuscan evening",
+    "refined italian elegance"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no saxophone",
+    "no sax",
+    "no smooth jazz",
+    "no fusion",
+    "no electric guitar",
+    "no synth",
+    "no electronic",
+    "no EDM",
+    "no rock",
+    "no fast tempo",
+    "no high energy",
+    "no aggressive",
+    "no loud drums",
+    "no cheap sounds"
+  ]
+}

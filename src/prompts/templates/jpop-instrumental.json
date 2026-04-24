@@ -1,0 +1,81 @@
+{
+  "id": "jpop-instrumental",
+  "name": "J-Pop Instrumental",
+  "description": "Modern upbeat J-pop instrumentals, catchy and bright for retail and QSR environments",
+  "type": "instrumental",
+
+  "genres": [
+    "jpop instrumental"
+  ],
+
+  "subGenres": [
+    "jpop dance pop instrumental catchy",
+    "jpop bright melodic upbeat",
+    "jpop synth pop modern fresh",
+    "jpop rock pop energetic bright",
+    "jpop future pop melodic hooky",
+    "jpop kawaii pop cute bright",
+    "jpop anime style uplifting",
+    "jpop electronic pop catchy modern"
+  ],
+
+  "moods": [
+    "upbeat and catchy",
+    "bright and energetic",
+    "fun and cheerful",
+    "fresh and modern",
+    "positive and uplifting",
+    "playful and dynamic",
+    "exciting and lively",
+    "cute and spirited"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo pop", "minBpm": 105, "maxBpm": 118 },
+    { "label": "upbeat energetic", "minBpm": 120, "maxBpm": 135 },
+    { "label": "high energy driving", "minBpm": 135, "maxBpm": 155 }
+  ],
+
+  "instruments": [
+    "bright synth lead catchy hook",
+    "punchy pop rock drums tight",
+    "driving bass guitar energetic",
+    "clean electric guitar bright riff",
+    "sparkling synth arpeggios",
+    "warm piano pop chords bright",
+    "crisp hi-hats and snare",
+    "layered synth chords uplifting",
+    "plucked synth melody hooky",
+    "power chord guitar bright clean"
+  ],
+
+  "useCases": [
+    "japanese retail store",
+    "convenience store background",
+    "shopping mall energy",
+    "fast food restaurant",
+    "game center ambiance",
+    "youth fashion store"
+  ],
+
+  "atmospheres": [
+    "bright akihabara shopping street",
+    "colorful harajuku energy",
+    "lively shibuya crossing vibe",
+    "cheerful japanese shopping mall",
+    "energetic tokyo retail floor",
+    "vibrant anime aesthetic"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no jazz",
+    "no classical",
+    "no traditional"
+  ]
+}

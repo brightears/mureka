@@ -1,0 +1,87 @@
+{
+  "id": "japanese-zen",
+  "name": "Japanese Zen",
+  "description": "Authentic Japanese zen meditation music, shakuhachi and koto, for spa and luxury hotel spaces",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese zen"
+  ],
+
+  "subGenres": [
+    "japanese zen shakuhachi meditation",
+    "japanese koto peaceful flowing",
+    "japanese garden ambient minimal",
+    "japanese temple meditation calm",
+    "japanese onsen relaxation gentle",
+    "zen buddhist meditation sparse",
+    "japanese wabi-sabi ambient quiet",
+    "japanese traditional minimal serene"
+  ],
+
+  "moods": [
+    "deeply peaceful",
+    "zen and still",
+    "meditative and calm",
+    "serene and spacious",
+    "contemplative and quiet",
+    "pure and natural",
+    "tranquil and grounding",
+    "gentle and minimal"
+  ],
+
+  "tempos": [
+    { "label": "very slow meditative", "minBpm": 40, "maxBpm": 55 },
+    { "label": "slow breathing pace", "minBpm": 55, "maxBpm": 68 },
+    { "label": "gentle flowing", "minBpm": 65, "maxBpm": 78 }
+  ],
+
+  "instruments": [
+    "solo shakuhachi flute breathy zen",
+    "solo koto plucked gentle melodic",
+    "temple bell resonant deep",
+    "singing bowl sustained warm",
+    "bamboo water fountain gentle",
+    "solo shamisen soft sparse",
+    "wind chimes natural soft",
+    "koto arpeggios flowing gentle"
+  ],
+
+  "useCases": [
+    "japanese spa treatment room",
+    "onsen relaxation area",
+    "luxury hotel zen space",
+    "meditation room",
+    "japanese garden walk",
+    "ryokan lobby"
+  ],
+
+  "atmospheres": [
+    "zen rock garden stillness",
+    "japanese temple at dawn",
+    "bamboo grove after rain",
+    "moss garden quiet path",
+    "tatami room morning light",
+    "stone lantern garden evening",
+    "mountain onsen mist",
+    "karesansui dry landscape peace"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no percussion",
+    "no synth",
+    "no electronic",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no orchestra",
+    "no ensemble",
+    "no busy arrangement",
+    "no loud dynamics",
+    "no fast tempo",
+    "no western instruments",
+    "no chinese instruments"
+  ]
+}

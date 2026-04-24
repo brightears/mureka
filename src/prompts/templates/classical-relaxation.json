@@ -1,0 +1,43 @@
+{
+  "id": "classical-relaxation",
+  "name": "Classical Relaxation",
+  "description": "Mozart/Haydn style classical chamber music - winning prompt formula.",
+  "type": "instrumental",
+
+  "genres": [
+    "Classical Relaxation"
+  ],
+
+  "subGenres": [
+    "classical chamber music, Haydn style, string quartet"
+  ],
+
+  "moods": [
+    "light, cheerful"
+  ],
+
+  "tempos": [
+    { "label": "moderato 72 BPM", "minBpm": 72, "maxBpm": 72 }
+  ],
+
+  "instruments": [
+    "strings, woodwinds"
+  ],
+
+  "useCases": [
+    "concentration, studying"
+  ],
+
+  "atmospheres": [
+    "concert hall, acoustic"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synths",
+    "no jazz",
+    "no drums",
+    "no guitar",
+    "no electronic"
+  ]
+}

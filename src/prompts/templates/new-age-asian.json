@@ -1,0 +1,93 @@
+{
+  "id": "new-age-asian",
+  "name": "New Age Asian",
+  "description": "Asian-inspired new age with Japanese and Chinese traditional instruments, zen meditation atmosphere",
+  "type": "instrumental",
+
+  "genres": [
+    "asian new age"
+  ],
+
+  "subGenres": [
+    "zen meditation japanese peaceful",
+    "chinese new age guzheng flowing",
+    "asian ambient zen tranquil",
+    "japanese shakuhachi meditation calm",
+    "oriental new age peaceful gentle",
+    "asian zen ambient floating",
+    "chinese meditation gentle flowing",
+    "japanese zen peaceful ambient"
+  ],
+
+  "moods": [
+    "zen and peaceful",
+    "meditative and calm",
+    "tranquil and flowing",
+    "serene and spiritual",
+    "gentle and harmonious",
+    "peaceful and centered",
+    "calm and balanced",
+    "ethereal and zen"
+  ],
+
+  "tempos": [
+    { "label": "very slow zen", "minBpm": 50, "maxBpm": 60 },
+    { "label": "slow meditation", "minBpm": 60, "maxBpm": 70 },
+    { "label": "gentle asian", "minBpm": 70, "maxBpm": 80 }
+  ],
+
+  "instruments": [
+    "shakuhachi flute breathy zen",
+    "guzheng plucked flowing gentle",
+    "koto soft melodic phrases",
+    "bamboo flute soft breathy",
+    "erhu gentle melodic sustained",
+    "tibetan singing bowl resonant",
+    "soft gong deep subtle",
+    "pipa plucked gentle melodic",
+    "ambient pad zen floating",
+    "temple bells soft chime",
+    "nature sounds water flowing",
+    "soft drone tanpura subtle"
+  ],
+
+  "useCases": [
+    "zen meditation room",
+    "asian spa",
+    "yoga studio",
+    "tea ceremony",
+    "japanese restaurant",
+    "wellness retreat"
+  ],
+
+  "atmospheres": [
+    "zen garden tranquility",
+    "peaceful temple atmosphere",
+    "flowing water serenity",
+    "bamboo forest calm",
+    "japanese onsen peace",
+    "lotus pond stillness",
+    "mountain monastery calm",
+    "oriental garden harmony"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no drums",
+    "no drum kit",
+    "no percussion",
+    "no beats",
+    "no bass",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no saxophone",
+    "no jazz",
+    "no rock",
+    "no EDM",
+    "no fast tempo",
+    "no high energy",
+    "no sudden changes"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "thai-traditional-soft",
+  "name": "Thai Traditional Soft",
+  "description": "Soft minimal traditional Thai instrumental music with authentic Thai instruments only",
+  "type": "instrumental",
+
+  "genres": [
+    "thai traditional soft"
+  ],
+
+  "subGenres": [
+    "solo khim thai dulcimer gentle sparse",
+    "solo ranad thai xylophone soft melodic",
+    "solo saw duang thai fiddle warm minimal",
+    "solo khlui thai flute breathy gentle",
+    "thai classical soft flowing minimal",
+    "thai traditional acoustic gentle sparse",
+    "solo jakhe thai zither plucked soft",
+    "solo pi thai oboe gentle melodic"
+  ],
+
+  "moods": [
+    "soft and gentle",
+    "peaceful and serene",
+    "warm and delicate",
+    "graceful and flowing",
+    "calm and minimal",
+    "tender and quiet",
+    "simple and natural",
+    "elegant and refined"
+  ],
+
+  "tempos": [
+    { "label": "very slow gentle", "minBpm": 50, "maxBpm": 65 },
+    { "label": "slow flowing", "minBpm": 62, "maxBpm": 76 },
+    { "label": "soft moderate", "minBpm": 74, "maxBpm": 86 }
+  ],
+
+  "instruments": [
+    "solo khim thai hammered dulcimer soft gentle",
+    "solo ranad ek thai xylophone melodic soft",
+    "solo saw duang thai fiddle warm gentle",
+    "solo khlui thai bamboo flute breathy soft",
+    "solo jakhe thai zither plucked delicate",
+    "solo saw u thai cello warm low gentle"
+  ],
+
+  "useCases": [
+    "thai restaurant background",
+    "thai spa reception",
+    "thai massage room",
+    "thai cultural space",
+    "peaceful dining atmosphere",
+    "thai wellness retreat"
+  ],
+
+  "atmospheres": [
+    "peaceful thai temple courtyard",
+    "quiet thai garden afternoon",
+    "gentle thai riverside evening",
+    "soft candlelit thai dining",
+    "serene thai silk room",
+    "calm thai wooden pavilion"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no percussion",
+    "no synth",
+    "no electronic",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no strings",
+    "no orchestra",
+    "no ensemble",
+    "no multiple instruments",
+    "no busy arrangement",
+    "no loud dynamics",
+    "no fast tempo",
+    "no western instruments",
+    "no modern instruments"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "latin-chill-house",
+  "name": "Latin Chill House",
+  "description": "Smooth Latin-infused deep house for beach bars and hotel lounges - warm congas, bossa influences, relaxed grooves",
+  "type": "instrumental",
+
+  "genres": [
+    "latin chill house"
+  ],
+
+  "subGenres": [
+    "deep latin house",
+    "latin lounge",
+    "bossa house",
+    "afro latin chill",
+    "soulful latin house",
+    "tropical deep house",
+    "balearic latin",
+    "smooth latin groove",
+    "latin jazz house",
+    "beach house latin"
+  ],
+
+  "moods": [
+    "warm and sensual",
+    "smooth and relaxed",
+    "sunset beach vibes",
+    "sophisticated lounge",
+    "romantic and intimate",
+    "breezy and carefree",
+    "mellow and groovy",
+    "tropical warmth",
+    "laid-back summer feel",
+    "elegant and smooth"
+  ],
+
+  "tempos": [
+    { "label": "deep latin groove", "minBpm": 105, "maxBpm": 110 },
+    { "label": "smooth bossa house", "minBpm": 108, "maxBpm": 112 },
+    { "label": "relaxed latin chill", "minBpm": 110, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "soft congas gentle rhythm",
+    "warm bongos subtle groove",
+    "soft shakers and percussion",
+    "warm Rhodes piano chords",
+    "Latin jazz piano soft montuno",
+    "nylon string acoustic guitar",
+    "Spanish guitar fingerpicked",
+    "deep warm smooth bassline",
+    "soft muted trumpet",
+    "warm synth pads atmospheric",
+    "gentle timbales brushed",
+    "soft claves accent",
+    "flugelhorn smooth melody",
+    "vibraphone soft chords"
+  ],
+
+  "useCases": [
+    "beach bar sunset",
+    "hotel pool lounge",
+    "rooftop cocktail bar",
+    "seaside restaurant",
+    "boutique resort lobby",
+    "yacht club lounge"
+  ],
+
+  "atmospheres": [
+    "sunset beach cocktail hour",
+    "warm Mediterranean evening",
+    "tropical resort poolside",
+    "sophisticated seaside lounge",
+    "relaxed Ibiza afternoon",
+    "breezy coastal terrace",
+    "intimate beach club",
+    "elegant waterfront bar"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no voice",
+    "no aggressive beats",
+    "no heavy bass drop",
+    "no reggaeton",
+    "no club energy",
+    "no fast tempo",
+    "no harsh synths",
+    "no EDM drops",
+    "no driving rhythm"
+  ]
+}

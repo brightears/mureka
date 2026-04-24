@@ -1,0 +1,82 @@
+{
+  "id": "fitness-cooldown",
+  "name": "Fitness Cooldown Stretch",
+  "description": "Universal cool-down and stretching music, ambient chill electronica and acoustic, calming 55-85 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness cooldown"
+  ],
+
+  "subGenres": [
+    "ambient chill electronica soft",
+    "downtempo ambient gentle",
+    "acoustic ambient calm soothing",
+    "chill electronica minimal peaceful",
+    "ambient post-workout recovery",
+    "soft electronic ambient calm",
+    "gentle downtempo peaceful",
+    "organic ambient relaxing warm"
+  ],
+
+  "moods": [
+    "calming and releasing",
+    "peaceful and restoring",
+    "gentle and decompressing",
+    "soft and grateful",
+    "warm and winding down",
+    "serene and accomplished",
+    "tender and soothing",
+    "quiet and reflective"
+  ],
+
+  "tempos": [
+    { "label": "slow recovery", "minBpm": 55, "maxBpm": 68 },
+    { "label": "gentle stretch", "minBpm": 65, "maxBpm": 76 },
+    { "label": "light cooldown", "minBpm": 75, "maxBpm": 85 }
+  ],
+
+  "instruments": [
+    "warm ambient pad soft evolving",
+    "gentle piano melody simple",
+    "soft acoustic guitar fingerpicked",
+    "ambient synth wash calming",
+    "gentle strings warm sustained",
+    "soft chimes delicate",
+    "warm piano chords sustained",
+    "ambient texture soft flowing",
+    "gentle electric piano warm",
+    "soft nature-inspired sounds subtle"
+  ],
+
+  "useCases": [
+    "any fitness class cool-down",
+    "post-workout stretching",
+    "guided stretching session",
+    "recovery and foam rolling",
+    "end of class wind down",
+    "savasana closing"
+  ],
+
+  "atmospheres": [
+    "body cooling down releasing",
+    "muscles relaxing stretching",
+    "heart rate lowering gently",
+    "post-workout calm satisfaction",
+    "gentle gratitude and rest",
+    "peaceful end of session"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no beats",
+    "no EDM",
+    "no loud",
+    "no aggressive",
+    "no fast tempo",
+    "no bass drops",
+    "no distortion",
+    "no percussion"
+  ]
+}

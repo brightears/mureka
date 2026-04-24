@@ -1,0 +1,102 @@
+{
+  "id": "electro-swing",
+  "name": "Electro Swing",
+  "description": "Parov Stelar and Caravan Palace style electro swing - vintage 1920s swing meets modern house beats, brass stabs, ragtime piano",
+  "type": "instrumental",
+
+  "genres": [
+    "electro swing"
+  ],
+
+  "subGenres": [
+    "electro swing house",
+    "vintage swing electronic",
+    "neo swing dance",
+    "swing house",
+    "retro swing EDM",
+    "1920s swing electronic fusion",
+    "big band electronic",
+    "Gatsby era dance",
+    "modern swing dance",
+    "vintage jazz electronic"
+  ],
+
+  "moods": [
+    "energetic and playful",
+    "upbeat and danceable",
+    "retro and nostalgic",
+    "fun and quirky",
+    "theatrical and glamorous",
+    "vintage party vibes",
+    "lively and bouncy",
+    "cheerful and swinging",
+    "dynamic and exciting",
+    "Roaring Twenties energy"
+  ],
+
+  "tempos": [
+    { "label": "classic electro swing", "minBpm": 120, "maxBpm": 128 },
+    { "label": "uptempo swing house", "minBpm": 125, "maxBpm": 132 },
+    { "label": "moderate swing groove", "minBpm": 110, "maxBpm": 120 }
+  ],
+
+  "instruments": [
+    "live brass horn stabs",
+    "real trumpet melody",
+    "acoustic trombone riffs",
+    "authentic ragtime piano",
+    "live jazz piano chords",
+    "upright bass groove",
+    "live swing drums",
+    "real clarinet melody",
+    "vintage big band brass",
+    "acoustic piano riffs",
+    "live horn section",
+    "natural drum kit swing",
+    "real instrument recording",
+    "authentic jazz brass",
+    "warm acoustic bass"
+  ],
+
+  "useCases": [
+    "fashion show runway",
+    "Gatsby themed party",
+    "commercial advertising",
+    "dance club",
+    "cocktail party upbeat",
+    "corporate event energetic",
+    "YouTube content",
+    "vintage themed venue"
+  ],
+
+  "atmospheres": [
+    "1920s speakeasy energy",
+    "Roaring Twenties party",
+    "vintage glamour dance floor",
+    "retro futuristic club",
+    "Gatsby era celebration",
+    "swing dance hall modern",
+    "vintage jazz club electronic",
+    "prohibition era party vibe"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no slow tempo",
+    "no ambient",
+    "no chill",
+    "no relaxing",
+    "no sad",
+    "no melancholic",
+    "no heavy metal",
+    "no distortion",
+    "no aggressive drops",
+    "no cheap synth",
+    "no synthetic sounds",
+    "no fake instruments",
+    "no MIDI keyboard",
+    "no robotic",
+    "no artificial"
+  ]
+}

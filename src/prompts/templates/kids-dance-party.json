@@ -1,0 +1,96 @@
+{
+  "id": "kids-dance-party",
+  "name": "kids-dance-party",
+  "description": "Kids dance party (age 6-13) \u2014 high energy electronic dance pop with a strong disco-inspired beat, much more club/party energy than regular kids songs. For special events, pool parties and dance floor moments",
+  "type": "vocal",
+  "language": "English",
+  "genres": [
+    "Kids Dance Party"
+  ],
+  "subGenres": [
+    "kids disco dance pop high energy strong beat",
+    "children's dance floor electronic pop party anthem",
+    "upbeat kids disco pop driving beat party",
+    "high energy children's dance anthem electronic beat"
+  ],
+  "moods": [
+    "super high energy euphoric party dance floor",
+    "electric excitement everyone up dancing now",
+    "pumped up party celebration maximum fun",
+    "pure dance floor joy unstoppable energy"
+  ],
+  "tempos": [
+    "high energy 126-133 BPM dance pop",
+    "fast 128-136 BPM party dance kids",
+    "upbeat 126-135 BPM dance party"
+  ],
+  "instruments": [
+    "driving four-on-the-floor kick drum dance party",
+    "bright synth lead catchy dance hook electronic",
+    "punchy electronic drum machine dance groove strong",
+    "bright disco-inspired bass line bouncy dance",
+    "electronic synth pop bright driving dance beat"
+  ],
+  "useCases": [
+    "kids club dance party event",
+    "pool party activity session",
+    "special event kids entertainment",
+    "end of day celebration dance"
+  ],
+  "atmospheres": [
+    "kids dance floor lights and energy fun",
+    "outdoor pool party summer celebration",
+    "special event disco kids party",
+    "high energy dance session everyone moving"
+  ],
+  "vocalStyles": [
+    "energetic young female pop voice upbeat dance party",
+    "cool young male voice high energy dance pop",
+    "bright young ensemble voices upbeat dance celebration",
+    "powerful young female voice dance pop anthem",
+    "upbeat young male pop voice fun energetic dance",
+    "bright duo young voices male female dance pop",
+    "energetic young female voice party anthem bright",
+    "cool young male voice danceable pop groove",
+    "upbeat young female voice catchy dance hook bright",
+    "fun young male voice celebratory dance pop",
+    "bright young female voice high energy anthem",
+    "lively young ensemble voices dance party fun",
+    "confident young female voice pop dance anthem",
+    "energetic young male voice upbeat fun party"
+  ],
+  "lyricThemes": [
+    "everybody on the dance floor move your feet now",
+    "best party ever jumping dancing having fun",
+    "let the music take you higher dance all night",
+    "hands up everybody we are celebrating today",
+    "come on and dance with me we're unstoppable",
+    "move it move it feel the beat and celebrate",
+    "summer party sun is shining let's all dance",
+    "we came to dance and have the greatest time",
+    "feel the rhythm let your body move and groove",
+    "it's the best day ever dancing with my friends",
+    "one two three everybody jump and shout hooray",
+    "we are all together dancing in the light"
+  ],
+  "negativePrompts": [
+    "no adult content",
+    "no romantic physical themes",
+    "no kissing sexual references",
+    "no violence aggression fighting",
+    "no dark scary themes",
+    "no profanity bad words swearing",
+    "no alcohol drinking party references",
+    "no drug references",
+    "no inappropriate slang",
+    "no body-shaming references",
+    "no sad themes",
+    "no slow ballad",
+    "no slow tempo",
+    "no gentle soft instruments",
+    "no story song",
+    "no acoustic guitar",
+    "no weak beat",
+    "no lullaby"
+  ]
+}

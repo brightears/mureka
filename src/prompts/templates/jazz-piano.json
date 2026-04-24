@@ -1,0 +1,86 @@
+{
+  "id": "jazz-piano",
+  "name": "Jazz Piano",
+  "description": "Piano-focused jazz from intimate solo piano to swinging piano trio, classic jazz harmony and improvisation",
+  "type": "instrumental",
+
+  "genres": [
+    "jazz piano"
+  ],
+
+  "subGenres": [
+    "solo piano jazz",
+    "piano trio jazz",
+    "bebop piano",
+    "cool jazz piano",
+    "jazz piano ballad",
+    "stride piano",
+    "piano swing jazz",
+    "modern jazz piano"
+  ],
+
+  "moods": [
+    "sophisticated",
+    "contemplative",
+    "melodic",
+    "warm",
+    "intimate",
+    "lyrical",
+    "expressive",
+    "elegant",
+    "reflective",
+    "swinging"
+  ],
+
+  "tempos": [
+    { "label": "slow ballad", "minBpm": 60, "maxBpm": 80 },
+    { "label": "moderate swing", "minBpm": 85, "maxBpm": 105 },
+    { "label": "up-tempo swing", "minBpm": 110, "maxBpm": 135 }
+  ],
+
+  "instruments": [
+    "grand piano jazz chords",
+    "piano melodic improvisation",
+    "piano rich harmonic voicings",
+    "upright bass walking line",
+    "brushed drums soft swing",
+    "acoustic bass pizzicato",
+    "light ride cymbal",
+    "piano solo expressive",
+    "warm piano comping",
+    "double bass groove"
+  ],
+
+  "useCases": [
+    "upscale restaurant background",
+    "hotel lobby music",
+    "cocktail bar ambiance",
+    "wine bar background",
+    "late night listening",
+    "fine dining",
+    "jazz club atmosphere"
+  ],
+
+  "atmospheres": [
+    "intimate jazz club",
+    "late night piano bar",
+    "dimly lit stage",
+    "warm concert hall",
+    "smoky basement club",
+    "quiet evening recital",
+    "candlelit room",
+    "after hours session"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no sax",
+    "no guitar",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no strings",
+    "no orchestra"
+  ]
+}

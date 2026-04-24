@@ -1,0 +1,117 @@
+{
+  "id": "spa-general",
+  "name": "General Spa Music",
+  "description": "Luxury 5-star hotel spa music designed for deep relaxation, treatment rooms, and wellness environments. Zoned approach supporting reception, lounges, and treatment areas with gentle, fatigue-free soundscapes suitable for extended 8+ hour listening.",
+  "type": "instrumental",
+
+  "genres": [
+    "ambient spa",
+    "wellness",
+    "relaxation",
+    "new age"
+  ],
+
+  "subGenres": [
+    "piano ambient",
+    "nature ambient",
+    "soft acoustic",
+    "healing soundscape",
+    "meditation ambient",
+    "gentle strings",
+    "water ambient",
+    "forest ambient",
+    "thermal spa",
+    "sanctuary music"
+  ],
+
+  "moods": [
+    "peaceful",
+    "serene",
+    "calming",
+    "nurturing",
+    "tranquil",
+    "soothing",
+    "gentle",
+    "restorative",
+    "contemplative",
+    "blissful",
+    "ethereal",
+    "dreamy",
+    "floating",
+    "soft",
+    "warm"
+  ],
+
+  "tempos": [
+    { "label": "very slow breathing pace", "minBpm": 50, "maxBpm": 58 },
+    { "label": "deep relaxation", "minBpm": 56, "maxBpm": 64 },
+    { "label": "slow meditative", "minBpm": 62, "maxBpm": 70 },
+    { "label": "gentle flow", "minBpm": 68, "maxBpm": 76 },
+    { "label": "soft ambient", "minBpm": 74, "maxBpm": 80 }
+  ],
+
+  "instruments": [
+    "soft piano",
+    "gentle acoustic guitar",
+    "fingerpicked nylon guitar",
+    "soft strings",
+    "warm cello",
+    "soft violin",
+    "ambient pads",
+    "warm synthesizer pads",
+    "soft harp",
+    "crystal singing bowls",
+    "tibetan bowls",
+    "gentle chimes",
+    "wind chimes",
+    "soft flute",
+    "breathy woodwinds",
+    "subtle bells",
+    "soft marimba",
+    "kalimba",
+    "soft vibraphone"
+  ],
+
+  "useCases": [
+    "spa reception area",
+    "treatment room background",
+    "relaxation lounge",
+    "meditation session",
+    "yoga class background",
+    "post-treatment recovery",
+    "massage therapy",
+    "sauna and steam room",
+    "hotel wellness center",
+    "float tank ambient"
+  ],
+
+  "atmospheres": [
+    "misty morning",
+    "gentle rain",
+    "forest glade",
+    "water features",
+    "flowing stream",
+    "ocean waves distant",
+    "bamboo grove",
+    "zen garden",
+    "mountain spring",
+    "morning dew",
+    "soft sunlight",
+    "candlelit sanctuary"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no harsh sounds",
+    "no drums",
+    "no electronic beats",
+    "no sudden volume changes",
+    "no cymbals",
+    "no sharp transients",
+    "no distortion",
+    "no percussion",
+    "no bass drops",
+    "no staccato notes",
+    "no bright high frequencies"
+  ]
+}

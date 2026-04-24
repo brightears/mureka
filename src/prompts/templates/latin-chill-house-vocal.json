@@ -1,0 +1,123 @@
+{
+  "id": "latin-chill-house-vocal",
+  "name": "Latin Chill House Vocal",
+  "description": "Smooth Latin-infused deep house with soulful Spanish vocals for beach bars and hotel lounges",
+  "type": "vocal",
+  "language": "Spanish",
+
+  "genres": [
+    "latin chill house vocal"
+  ],
+
+  "subGenres": [
+    "deep latin house vocal",
+    "latin lounge vocal",
+    "bossa house vocal",
+    "soulful latin house vocal",
+    "tropical deep house vocal",
+    "smooth latin groove vocal",
+    "latin jazz house vocal",
+    "beach house latin vocal"
+  ],
+
+  "moods": [
+    "warm and sensual",
+    "smooth and romantic",
+    "sunset beach vibes",
+    "sophisticated lounge",
+    "intimate and passionate",
+    "breezy and carefree",
+    "mellow and soulful",
+    "tropical warmth",
+    "laid-back summer feel",
+    "elegant and smooth"
+  ],
+
+  "tempos": [
+    { "label": "deep latin groove", "minBpm": 105, "maxBpm": 110 },
+    { "label": "smooth bossa house", "minBpm": 108, "maxBpm": 112 },
+    { "label": "relaxed latin chill", "minBpm": 110, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "soft congas gentle rhythm",
+    "warm bongos subtle groove",
+    "soft shakers and percussion",
+    "warm Rhodes piano chords",
+    "Latin jazz piano soft montuno",
+    "nylon string acoustic guitar",
+    "Spanish guitar fingerpicked",
+    "deep warm smooth bassline",
+    "soft muted trumpet",
+    "warm synth pads atmospheric",
+    "gentle timbales brushed",
+    "flugelhorn smooth melody"
+  ],
+
+  "useCases": [
+    "beach bar sunset",
+    "hotel pool lounge",
+    "rooftop cocktail bar",
+    "seaside restaurant",
+    "boutique resort lobby",
+    "yacht club lounge"
+  ],
+
+  "atmospheres": [
+    "sunset beach cocktail hour",
+    "warm Mediterranean evening",
+    "tropical resort poolside",
+    "sophisticated seaside lounge",
+    "relaxed Ibiza afternoon",
+    "breezy coastal terrace",
+    "intimate beach club",
+    "elegant waterfront bar"
+  ],
+
+  "vocalStyles": [
+    "smooth Spanish female vocal sensual breathy",
+    "soulful Latina diva vocal warm intimate",
+    "soft female vocal Spanish romantic",
+    "breathy female vocal Latin smooth",
+    "elegant female vocal bossa style",
+    "passionate female vocal Spanish soulful",
+    "warm Spanish male vocal smooth baritone",
+    "soulful Latin male vocal romantic crooner",
+    "soft male vocal Spanish intimate",
+    "smooth male tenor vocal Latin jazz",
+    "deep male vocal Spanish sensual",
+    "romantic male vocal Latin soulful"
+  ],
+
+  "lyricThemes": [
+    "sunset love on the beach",
+    "dancing under the stars",
+    "summer romance by the sea",
+    "feeling the tropical breeze",
+    "love in paradise",
+    "nights by the ocean",
+    "lost in your eyes tonight",
+    "warm summer memories",
+    "beautiful evening together",
+    "rhythm of the waves",
+    "passion under moonlight",
+    "dreaming of you",
+    "gentle touch of love",
+    "paradise with you",
+    "endless summer nights"
+  ],
+
+  "negativePrompts": [
+    "no aggressive beats",
+    "no heavy bass drop",
+    "no reggaeton style",
+    "no club energy",
+    "no fast tempo",
+    "no harsh synths",
+    "no EDM drops",
+    "no driving rhythm",
+    "no screaming",
+    "no rap",
+    "no auto-tune heavy"
+  ]
+}

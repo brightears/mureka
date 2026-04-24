@@ -1,0 +1,81 @@
+{
+  "id": "spa-wellness",
+  "name": "Thai Spa Minimal Ambient",
+  "description": "Thai-inspired minimal ambient spa music. Very sparse, very low energy. Solo instruments only. No drums, no orchestra, no bass.",
+  "type": "instrumental",
+
+  "genres": [
+    "Spa Wellness"
+  ],
+
+  "subGenres": [
+    "Thai-inspired minimal ambient spa soundscape very sparse texture",
+    "Southeast Asian wellness ambient with solo instruments only",
+    "minimal ambient soundscape very low energy sparse arrangement",
+    "Thai spa ambient with breath-like pulse weightless and unhurried",
+    "ultra minimal wellness soundscape solo flute and soft pads only",
+    "sparse ambient spa texture with single instrument focus"
+  ],
+
+  "moods": [
+    "very sparse and minimal with weightless unhurried feel",
+    "ultra low energy with breath-like pulse",
+    "airy tranquil immersive with gentle fades",
+    "deepening stillness with sustained serenity",
+    "peaceful dissolution with uninterrupted calm",
+    "gentle arrival into sparse ambient space"
+  ],
+
+  "tempos": [
+    { "label": "ultra slow minimal", "minBpm": 64, "maxBpm": 68 },
+    { "label": "very slow breath-like", "minBpm": 66, "maxBpm": 70 },
+    { "label": "slow free-flowing", "minBpm": 68, "maxBpm": 72 }
+  ],
+
+  "instruments": [
+    "solo soft bamboo khlui flute phrases very sparse",
+    "delicate khim Thai dulcimer patterns minimal",
+    "warm sustained synth drone single layer only",
+    "soft solo pad texture with long decay",
+    "gentle solo bowed texture drifting subtly",
+    "single soft ambient pad very minimal"
+  ],
+
+  "useCases": [
+    "Thai spa treatment ultra calm minimal",
+    "minimal ambient wellness soundscape",
+    "sparse meditation background solo instruments",
+    "ultra low energy massage therapy",
+    "minimal spa reception ambient"
+  ],
+
+  "atmospheres": [
+    "very sparse arrangement with only one or two sound elements",
+    "soft flowing water blended seamlessly in distant background",
+    "ultra minimal texture with long reverbs and gentle fades",
+    "solo instrument focus with ambient pad support only",
+    "soundscape mode ethereal very low energy minimal layers"
+  ],
+
+  "negativePrompts": [
+    "[no vocals]",
+    "[no drums]",
+    "[no drum kit]",
+    "[no percussion]",
+    "[no beats]",
+    "[no rhythm]",
+    "[no bass]",
+    "[no bass line]",
+    "[no orchestra]",
+    "[no orchestral]",
+    "[no full ensemble]",
+    "[no guitar]",
+    "[no piano chords]",
+    "[no busy arrangement]",
+    "[no complex layers]",
+    "[no sharp transients]",
+    "[no sudden changes]",
+    "[no high energy]",
+    "[sparse only]"
+  ]
+}

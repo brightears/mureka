@@ -1,0 +1,77 @@
+{
+  "id": "lounge-jazz",
+  "name": "Lounge Jazz",
+  "description": "Classic lounge jazz for evening listening, sophisticated and understated",
+  "type": "instrumental",
+
+  "genres": [
+    "lounge jazz"
+  ],
+
+  "subGenres": [
+    "cool jazz",
+    "piano trio",
+    "swing",
+    "jazz ballad",
+    "bossa nova"
+  ],
+
+  "moods": [
+    "sophisticated",
+    "elegant",
+    "understated",
+    "smooth",
+    "mellow",
+    "intimate",
+    "refined",
+    "classy",
+    "warm",
+    "relaxed"
+  ],
+
+  "tempos": [
+    { "label": "slow swing", "minBpm": 82, "maxBpm": 96 },
+    { "label": "relaxed", "minBpm": 90, "maxBpm": 102 },
+    { "label": "moderate swing", "minBpm": 96, "maxBpm": 108 }
+  ],
+
+  "instruments": [
+    "piano",
+    "clean jazz guitar",
+    "upright bass",
+    "brushed drums",
+    "soft brushes",
+    "double bass",
+    "rhodes piano",
+    "vibraphone",
+    "acoustic bass"
+  ],
+
+  "useCases": [
+    "lounge ambiance",
+    "cocktail bar",
+    "hotel lobby",
+    "wine bar atmosphere",
+    "evening reception",
+    "fine dining"
+  ],
+
+  "atmospheres": [
+    "dimly lit lounge",
+    "intimate club",
+    "late night",
+    "candlelit room",
+    "velvet curtains",
+    "soft leather",
+    "evening elegance",
+    "quiet sophistication"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no heavy drums"
+  ]
+}

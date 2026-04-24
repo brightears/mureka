@@ -1,0 +1,104 @@
+{
+  "id": "chinese-new-year-vocal",
+  "name": "Chinese New Year Vocal (春节歌曲)",
+  "description": "Festive Chinese New Year songs with Mandarin vocals - prosperity blessings, good fortune wishes, family reunion themes",
+  "type": "vocal",
+
+  "genres": [
+    "Chinese New Year Vocal"
+  ],
+
+  "subGenres": [
+    "Mandarin pop festive",
+    "Chinese New Year blessing song",
+    "modern CNY pop with traditional instruments",
+    "festive Mandopop"
+  ],
+
+  "moods": [
+    "optimistic",
+    "bright",
+    "celebratory",
+    "joyful",
+    "festive",
+    "cheerful",
+    "prosperous",
+    "warm",
+    "happy",
+    "energetic"
+  ],
+
+  "tempos": [
+    { "label": "upbeat festive", "minBpm": 120, "maxBpm": 140 },
+    { "label": "driving celebration", "minBpm": 115, "maxBpm": 135 },
+    { "label": "lively pop beat", "minBpm": 110, "maxBpm": 130 }
+  ],
+
+  "instruments": [
+    "suona horn bright",
+    "guzheng zither elegant",
+    "gongs and cymbals",
+    "festive drums",
+    "erhu fiddle",
+    "pipa lute",
+    "modern pop production",
+    "bright synths"
+  ],
+
+  "useCases": [
+    "Chinese New Year party",
+    "Spring Festival celebration",
+    "shopping mall festive",
+    "family reunion gathering",
+    "Lunar New Year karaoke"
+  ],
+
+  "atmospheres": [
+    "pentatonic melody",
+    "catchy repetitive chorus",
+    "prosperity wishes",
+    "good fortune blessing",
+    "family reunion warmth"
+  ],
+
+  "vocalStyles": [
+    "cheerful Mandarin vocals",
+    "bright festive singing",
+    "joyful Chinese pop vocals",
+    "warm celebratory voice",
+    "catchy sing-along style",
+    "energetic Mandarin delivery",
+    "traditional blessing vocal style",
+    "modern C-pop festive vocals"
+  ],
+
+  "lyricThemes": [
+    "Gong Xi Fa Cai wishing prosperity and wealth",
+    "Hao Yun good luck blessings for the new year",
+    "Tuan Yuan family reunion happiness",
+    "welcoming the God of Fortune Cai Shen",
+    "red envelope hongbao joy",
+    "spring arriving with new beginnings",
+    "fireworks and celebration under red lanterns",
+    "wishing health wealth and happiness",
+    "prosperity in the year of the dragon",
+    "family gathering around the dinner table",
+    "lucky wishes for friends and family",
+    "celebrating with lion and dragon dances",
+    "new year new fortune new happiness",
+    "blessings of longevity and success",
+    "joy and laughter filling the home"
+  ],
+
+  "negativePrompts": [
+    "no sad lyrics",
+    "no melancholy",
+    "no sorrow",
+    "no loss",
+    "no slow ballad",
+    "no minor key",
+    "no English",
+    "no rap",
+    "no rock"
+  ]
+}

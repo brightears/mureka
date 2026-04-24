@@ -1,0 +1,128 @@
+{
+  "id": "cafe-jazz-vocal",
+  "name": "Cafe Jazz Vocal",
+  "description": "Warm cafe jazz with vocals for cozy listening, piano-led with clean guitar and upright bass",
+  "type": "vocal",
+
+  "genres": [
+    "cafe jazz vocal"
+  ],
+
+  "subGenres": [
+    "piano trio",
+    "cool jazz",
+    "bossa nova",
+    "jazz ballad",
+    "swing"
+  ],
+
+  "moods": [
+    "warm",
+    "cozy",
+    "relaxed",
+    "mellow",
+    "intimate",
+    "smooth",
+    "laid-back",
+    "gentle",
+    "soft",
+    "easy"
+  ],
+
+  "tempos": [
+    { "label": "slow swing", "minBpm": 80, "maxBpm": 96 },
+    { "label": "relaxed", "minBpm": 88, "maxBpm": 100 },
+    { "label": "easy groove", "minBpm": 92, "maxBpm": 104 }
+  ],
+
+  "instruments": [
+    "piano",
+    "clean jazz guitar",
+    "upright bass",
+    "brushed drums",
+    "soft brushes",
+    "acoustic bass",
+    "jazz guitar",
+    "vibraphone",
+    "double bass"
+  ],
+
+  "useCases": [
+    "cafe background music",
+    "coffee shop ambiance",
+    "restaurant background",
+    "brunch music",
+    "morning cafe",
+    "afternoon relaxation"
+  ],
+
+  "atmospheres": [
+    "natural room feel",
+    "cozy cafe",
+    "warm acoustic space",
+    "morning light",
+    "rainy afternoon",
+    "soft sunlight",
+    "quiet corner",
+    "window seat"
+  ],
+
+  "vocalStyles": [
+    "smooth female vocals",
+    "crooning male voice",
+    "jazz scatting",
+    "soft harmonies",
+    "warm breathy vocals",
+    "gentle jazz singing",
+    "intimate vocal delivery",
+    "classic jazz vocal style",
+    "mellow female voice",
+    "smooth male crooner",
+    "soft whispered vocals",
+    "laid-back vocal phrasing"
+  ],
+
+  "lyricThemes": [
+    "morning coffee moments",
+    "rainy afternoon cafe",
+    "love and companionship",
+    "quiet contemplation",
+    "cozy conversations",
+    "simple pleasures",
+    "city cafe life",
+    "relaxing Sunday",
+    "warm cup of tea",
+    "watching the world go by",
+    "lazy weekend morning",
+    "first light of day",
+    "peaceful solitude",
+    "comfort in small things",
+    "friendly familiar faces",
+    "bookshop memories",
+    "window watching rain",
+    "soft jazz on the radio",
+    "home away from home",
+    "afternoon daydreams",
+    "gentle conversations",
+    "favorite corner table",
+    "steaming latte art",
+    "handwritten letters",
+    "old photographs",
+    "autumn leaves falling",
+    "spring morning sunshine",
+    "comfort food and warmth",
+    "quiet neighborhood streets",
+    "gentle background stories"
+  ],
+
+  "negativePrompts": [
+    "no harsh vocals",
+    "no screaming",
+    "no rap",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no heavy drums",
+    "no aggressive singing"
+  ]
+}

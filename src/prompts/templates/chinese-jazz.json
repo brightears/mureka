@@ -1,0 +1,83 @@
+{
+  "id": "chinese-jazz",
+  "name": "Chinese Jazz",
+  "description": "Jazz fusion with traditional Chinese instruments, unique East-meets-West crossover",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese jazz"
+  ],
+
+  "subGenres": [
+    "chinese jazz fusion warm",
+    "guzheng jazz trio",
+    "erhu jazz melodic",
+    "chinese cool jazz",
+    "oriental jazz fusion modern",
+    "pipa jazz crossover",
+    "asian jazz lounge warm",
+    "chinese bossa jazz gentle"
+  ],
+
+  "moods": [
+    "warm and sophisticated",
+    "elegant and exotic",
+    "smooth and flowing",
+    "intimate and refined",
+    "contemplative and cool",
+    "mellow and graceful",
+    "romantic and gentle",
+    "relaxed and worldly"
+  ],
+
+  "tempos": [
+    { "label": "slow jazz ballad", "minBpm": 65, "maxBpm": 80 },
+    { "label": "relaxed swing", "minBpm": 82, "maxBpm": 100 },
+    { "label": "moderate groove", "minBpm": 100, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "guzheng melodic jazz phrasing",
+    "erhu smooth jazz melody",
+    "pipa plucked jazz chords",
+    "dizi bamboo flute gentle",
+    "jazz piano warm comping",
+    "upright bass walking line",
+    "brushed drums soft swing",
+    "vibraphone gentle accents",
+    "warm piano jazz chords",
+    "acoustic bass pizzicato"
+  ],
+
+  "useCases": [
+    "upscale chinese restaurant",
+    "asian fusion restaurant",
+    "cocktail bar with asian theme",
+    "hotel lobby lounge",
+    "wine bar evening",
+    "fine dining background"
+  ],
+
+  "atmospheres": [
+    "elegant fusion dining room",
+    "moonlit asian garden lounge",
+    "intimate crossover club",
+    "sophisticated east-west evening",
+    "warm candlelit fusion space",
+    "quiet late night session",
+    "refined tea and jazz parlor",
+    "stylish urban asian bar"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no sax",
+    "no smooth jazz",
+    "no electronic sounds",
+    "no synths",
+    "no heavy drums",
+    "no distortion",
+    "no EDM"
+  ]
+}

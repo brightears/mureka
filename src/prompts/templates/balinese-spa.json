@@ -1,0 +1,74 @@
+{
+  "id": "balinese-spa",
+  "name": "balinese-spa",
+  "description": "Balinese temple garden spa ambient \u2014 gender metallophone, suling bamboo flute, gamelan gong resonance for treatment rooms and outdoor salas",
+  "type": "instrumental",
+  "genres": [
+    "Balinese Spa"
+  ],
+  "subGenres": [
+    "balinese gamelan ambient spa very sparse",
+    "balinese temple ambient slow meditative",
+    "balinese ritual spa soundscape minimal",
+    "gamelan ambient healing very slow sparse"
+  ],
+  "moods": [
+    "serene and spiritual with tropical warmth",
+    "meditative and ceremonial very calm",
+    "peaceful and sacred with gentle resonance",
+    "tranquil and flowing with tropical stillness"
+  ],
+  "tempos": [
+    "ultra slow 48-60 BPM very sparse",
+    "very slow 50-62 BPM meditative gamelan ambient",
+    "50-60 BPM ultra slow healing spa"
+  ],
+  "instruments": [
+    "solo gender metallophone soft gentle phrases very sparse",
+    "solo suling bamboo flute breathy soft sparse",
+    "gamelan gong resonance long sustained very soft ambient",
+    "solo bronze metallophone gentle slow phrases sparse",
+    "soft balinese temple bells gentle chime sparse"
+  ],
+  "useCases": [
+    "balinese spa treatment room",
+    "outdoor treatment sala",
+    "balinese resort wellness",
+    "tropical spa therapy room"
+  ],
+  "atmospheres": [
+    "balinese temple garden tropical stillness",
+    "sacred ritual space warm tropical calm",
+    "lotus pond reflection peaceful Bali",
+    "outdoor treatment sala jungle serenity"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no fast gamelan interlocking patterns",
+    "no kecak",
+    "no drums",
+    "no kendang drum",
+    "no fast tempo",
+    "no busy arrangement",
+    "no complex layers",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no synth",
+    "no electronic",
+    "no bass",
+    "no saxophone",
+    "no strings orchestra",
+    "no percussion fills",
+    "no rhythm pattern",
+    "no upbeat tempo",
+    "no lively",
+    "no energetic",
+    "no fast metallophone phrases",
+    "no complex interlocking"
+  ]
+}

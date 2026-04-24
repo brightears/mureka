@@ -1,0 +1,69 @@
+{
+  "id": "deep-sleep-healing",
+  "name": "deep-sleep-healing",
+  "description": "Deep sleep and healing ambient \u2014 ultra-slow drones, binaural-inspired soundscapes for float tanks, meditation pods, and deep relaxation rooms",
+  "type": "instrumental",
+  "genres": [
+    "Deep Sleep Healing"
+  ],
+  "subGenres": [
+    "deep ambient drone healing soundscape ultra slow",
+    "sleep healing ambient drone minimal very sparse",
+    "delta wave ambient healing drone meditative",
+    "deep relaxation healing drone ambient soundscape"
+  ],
+  "moods": [
+    "profoundly calm and deeply restful",
+    "weightless and floating deeply healing",
+    "utterly still and deeply meditative",
+    "timeless and deeply peaceful drone"
+  ],
+  "tempos": [
+    "no tempo pure ambient drone soundscape",
+    "very slow 40-50 BPM or no pulse",
+    "ultra slow ambient no discernible beat"
+  ],
+  "instruments": [
+    "warm sustained drone pad very low frequency",
+    "single sustained tone gentle evolving very slow",
+    "soft ambient drone warm resonance minimal",
+    "warm low sustained pad minimal one or two layers only",
+    "single sine wave ambient tone very gentle sustained"
+  ],
+  "useCases": [
+    "float tank room",
+    "meditation pod",
+    "deep relaxation lounge",
+    "immersion therapy room"
+  ],
+  "atmospheres": [
+    "float tank sensory stillness infinite calm",
+    "meditation pod zero gravity weightless",
+    "healing chamber profound rest deep silence",
+    "deep relaxation space timeless void peaceful"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no melody",
+    "no melodic phrases",
+    "no drums",
+    "no percussion",
+    "no bass rhythm",
+    "no rhythm",
+    "no guitar",
+    "no piano melody",
+    "no saxophone",
+    "no strings melody",
+    "no fast tempo",
+    "no busy arrangement",
+    "no sharp transients",
+    "no sudden changes",
+    "no bright sounds",
+    "no high frequency",
+    "no complex layers"
+  ]
+}

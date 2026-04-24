@@ -1,0 +1,66 @@
+{
+  "id": "spa-outdoor-terrace",
+  "name": "spa-outdoor-terrace",
+  "description": "Spa outdoor terrace and garden ambient — warm acoustic piano with nature sounds and light ethnic touches for pool gardens, outdoor relaxation areas and rooftop terraces",
+  "type": "instrumental",
+  "genres": ["Spa Outdoor Terrace"],
+  "subGenres": [
+    "spa garden ambient warm acoustic piano nature",
+    "outdoor relaxation ambient piano nature sounds sparse",
+    "spa terrace ambient warm acoustic gentle nature",
+    "wellness garden ambient piano light ethnic sparse"
+  ],
+  "moods": [
+    "warm and peaceful with gentle outdoor serenity",
+    "sunlit and calm with natural warmth",
+    "tranquil and open with soft garden stillness",
+    "gentle and unhurried with warm afternoon calm"
+  ],
+  "tempos": [
+    "very slow 60-72 BPM gentle and unhurried",
+    "slow 62-75 BPM warm outdoor calm",
+    "60-70 BPM very gentle spa garden"
+  ],
+  "instruments": [
+    "warm piano soft sparse phrases gentle outdoor",
+    "soft acoustic guitar fingerpicked gentle nature",
+    "light bamboo flute sparse breathy phrases",
+    "warm piano with gentle harp arpeggios sparse",
+    "solo piano warm single notes reverb nature"
+  ],
+  "useCases": [
+    "spa pool garden relaxation",
+    "outdoor spa terrace",
+    "rooftop wellness lounge",
+    "garden relaxation area"
+  ],
+  "atmospheres": [
+    "tropical garden spa warm afternoon stillness",
+    "rooftop terrace warm sunset serene",
+    "outdoor relaxation pavilion gentle breeze",
+    "wellness garden natural warmth peaceful"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no voice",
+    "no drums",
+    "no percussion",
+    "no bass",
+    "no rhythm section",
+    "no synth",
+    "no electronic",
+    "no orchestra",
+    "no saxophone",
+    "no busy arrangement",
+    "no fast tempo",
+    "no upbeat",
+    "no lively",
+    "no energetic",
+    "no EDM",
+    "no bossa nova groove",
+    "no latin rhythm",
+    "no jazz improvisation"
+  ]
+}

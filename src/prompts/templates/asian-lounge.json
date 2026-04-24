@@ -1,0 +1,92 @@
+{
+  "id": "asian-lounge",
+  "name": "Asian Lounge",
+  "description": "Elegant Asian lounge instrumental, warm and refined for upscale Asian restaurants, hotels, and spas across the region",
+  "type": "instrumental",
+
+  "genres": [
+    "asian lounge"
+  ],
+
+  "subGenres": [
+    "asian lounge warm melodic refined",
+    "southeast asian lounge gentle elegant",
+    "asian acoustic soft warm inviting",
+    "oriental lounge background gentle",
+    "asian ambient lounge warm exotic",
+    "east asian acoustic gentle melodic",
+    "asian elegant dining music warm",
+    "tropical asian lounge refined soft"
+  ],
+
+  "moods": [
+    "warm and refined",
+    "gentle and inviting",
+    "elegant and exotic",
+    "soft and melodic",
+    "pleasant and sophisticated",
+    "graceful and warm",
+    "delicate and flowing",
+    "serene and welcoming"
+  ],
+
+  "tempos": [
+    { "label": "slow gentle", "minBpm": 65, "maxBpm": 78 },
+    { "label": "moderate graceful", "minBpm": 78, "maxBpm": 92 },
+    { "label": "light flowing", "minBpm": 90, "maxBpm": 105 }
+  ],
+
+  "instruments": [
+    "ranad ek thai xylophone soft melodic",
+    "khim thai dulcimer gentle shimmering",
+    "khlui thai flute breathy soft melodic",
+    "saw duang thai fiddle warm gentle",
+    "jakhe thai zither plucked soft",
+    "angklung bamboo gentle shimmering",
+    "gamelan soft gentle metallic",
+    "gentle bell chimes soft",
+    "soft wooden percussion gentle",
+    "bamboo xylophone warm melodic"
+  ],
+
+  "useCases": [
+    "upscale asian restaurant",
+    "asian hotel lobby",
+    "asian spa reception",
+    "tropical resort lounge",
+    "asian fine dining",
+    "southeast asian restaurant",
+    "pan-asian restaurant",
+    "asian boutique hotel"
+  ],
+
+  "atmospheres": [
+    "elegant asian dining room warm",
+    "tropical evening restaurant",
+    "warm asian hotel lobby golden",
+    "refined oriental interior",
+    "gentle evening tropical terrace",
+    "warm exotic garden dining",
+    "sophisticated asian lounge",
+    "pleasant resort evening tropical"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synth",
+    "no electronic",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no saxophone",
+    "no jazz",
+    "no drums heavy",
+    "no chinese erhu",
+    "no chinese guzheng",
+    "no chinese pipa",
+    "no indian sitar",
+    "no indian tabla",
+    "no western instruments",
+    "no loud dynamics"
+  ]
+}

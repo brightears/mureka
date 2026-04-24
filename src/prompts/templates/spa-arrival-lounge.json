@@ -1,0 +1,74 @@
+{
+  "id": "spa-arrival-lounge",
+  "name": "spa-arrival-lounge",
+  "description": "Luxury spa arrival lounge music \u2014 welcoming piano with acoustic guitar and light ethnic flute for reception and waiting areas, slightly more energized than treatment rooms",
+  "type": "instrumental",
+  "genres": [
+    "Spa Arrival Lounge"
+  ],
+  "subGenres": [
+    "luxury spa reception ambient warm piano",
+    "spa lounge arrival ambient warm acoustic",
+    "wellness reception ambient calm melodic piano",
+    "boutique hotel spa reception piano ambient"
+  ],
+  "moods": [
+    "welcoming and serene warm luxury calm",
+    "peaceful and elegant softly inviting",
+    "calm and refined warmly melodic",
+    "gentle and gracious softly luxurious"
+  ],
+  "tempos": [
+    "ultra slow 55-65 BPM very gentle spa",
+    "very slow 58-65 BPM soft and unhurried",
+    "slow 55-62 BPM spa reception calm"
+  ],
+  "instruments": [
+    "warm piano soft melodic phrases gentle",
+    "solo acoustic guitar fingerpicked warm sparse",
+    "soft ethnic bamboo flute gentle phrases",
+    "warm piano chords with gentle guitar",
+    "piano with soft harp arpeggios gentle"
+  ],
+  "useCases": [
+    "spa reception area",
+    "wellness center lobby",
+    "luxury hotel spa waiting area",
+    "spa changing room"
+  ],
+  "atmospheres": [
+    "luxury spa reception warm candlelit welcome",
+    "five star wellness center elegant arrival",
+    "boutique hotel spa lobby warm serene",
+    "wellness retreat reception graceful calm"
+  ],
+  "negativePrompts": [
+    "no lyrics",
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no voice",
+    "no drums",
+    "no percussion",
+    "no bass",
+    "no rhythm section",
+    "no synth",
+    "no electronic",
+    "no orchestra",
+    "no saxophone",
+    "no busy arrangement",
+    "no fast tempo",
+    "no EDM",
+    "no jazz improvisation",
+    "no upbeat tempo",
+    "no lively",
+    "no fast piano",
+    "no energetic",
+    "no beat",
+    "no pulse",
+    "no upbeat melody",
+    "no lively phrases",
+    "no allegro",
+    "no fast notes"
+  ]
+}

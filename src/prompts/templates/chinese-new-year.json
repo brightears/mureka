@@ -1,0 +1,82 @@
+{
+  "id": "chinese-new-year",
+  "name": "Chinese New Year Instrumental (春节)",
+  "description": "Festive Chinese New Year instrumental - high-energy orchestral fusion with traditional Chinese instruments, pentatonic melodies, Spring Festival Overture style",
+  "type": "instrumental",
+
+  "genres": [
+    "Chinese New Year Instrumental"
+  ],
+
+  "subGenres": [
+    "Spring Festival Overture style orchestral fusion",
+    "festive orchestral Chinese",
+    "lion dance percussion ensemble",
+    "traditional Chinese New Year celebration",
+    "pentatonic festive orchestra"
+  ],
+
+  "moods": [
+    "boisterous",
+    "grand",
+    "celebratory",
+    "optimistic",
+    "bright",
+    "high-energy",
+    "festive",
+    "joyful",
+    "triumphant",
+    "majestic"
+  ],
+
+  "tempos": [
+    { "label": "fast parade energy", "minBpm": 130, "maxBpm": 150 },
+    { "label": "driving festive beat", "minBpm": 120, "maxBpm": 140 },
+    { "label": "lively celebration", "minBpm": 115, "maxBpm": 135 }
+  ],
+
+  "instruments": [
+    "suona double-reed horn piercing bright",
+    "deep resonant gongs",
+    "large festival drums",
+    "crashing cymbals",
+    "guzheng zither bright plucks",
+    "erhu two-stringed fiddle expressive melody",
+    "pipa lute percussive plucks",
+    "brass section",
+    "orchestral strings"
+  ],
+
+  "useCases": [
+    "Chinese New Year celebration",
+    "Spring Festival party",
+    "lion dance performance",
+    "parade background",
+    "Lunar New Year event",
+    "Chinatown festival"
+  ],
+
+  "atmospheres": [
+    "pentatonic scale harmony",
+    "Spring Festival Overture grandeur",
+    "lion dance energy",
+    "parade excitement",
+    "family reunion warmth",
+    "prosperity and good fortune",
+    "orchestral fusion majesty",
+    "Chinese folk melody"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no sad",
+    "no melancholy",
+    "no minor key",
+    "no slow",
+    "no ambient",
+    "no meditation",
+    "no relaxation",
+    "no sorrow",
+    "no loss"
+  ]
+}

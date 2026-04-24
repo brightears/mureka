@@ -1,0 +1,81 @@
+{
+  "id": "fitness-warmup",
+  "name": "Fitness Warmup Groove",
+  "description": "Universal warm-up music for any fitness class, groove-building Amapiano and lo-fi house, 90-115 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness warmup"
+  ],
+
+  "subGenres": [
+    "amapiano warm groove building",
+    "lo-fi house gentle warm",
+    "chill house groove building",
+    "afro house light warm groove",
+    "deep house warm intro",
+    "minimal house gentle groove",
+    "organic house warm building",
+    "soft electronic groove warm"
+  ],
+
+  "moods": [
+    "warming and building",
+    "groovy and inviting",
+    "anticipation and energy building",
+    "smooth and awakening",
+    "positive and warming up",
+    "easy and groove-finding",
+    "light and activating",
+    "chill but moving"
+  ],
+
+  "tempos": [
+    { "label": "easy start", "minBpm": 90, "maxBpm": 100 },
+    { "label": "building groove", "minBpm": 100, "maxBpm": 108 },
+    { "label": "ready to go", "minBpm": 108, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "log drum amapiano warm",
+    "soft kick drum gentle pulse",
+    "warm bass groove smooth",
+    "lo-fi house beat soft",
+    "warm synth pad building",
+    "light hi-hats gentle swing",
+    "soft percussion shaker groove",
+    "warm electric piano chords",
+    "gentle clap pattern light",
+    "ambient pad warm evolving"
+  ],
+
+  "useCases": [
+    "any fitness class warm-up",
+    "group class opening",
+    "gym arrival music",
+    "pre-workout activation",
+    "dynamic stretching music",
+    "movement prep session"
+  ],
+
+  "atmospheres": [
+    "energy slowly building",
+    "body waking up moving",
+    "anticipation before intensity",
+    "easy groove finding rhythm",
+    "group gathering warming up",
+    "transition from rest to movement"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no aggressive",
+    "no heavy drops",
+    "no fast tempo",
+    "no intense",
+    "no dark",
+    "no saxophone",
+    "no jazz",
+    "no classical"
+  ]
+}

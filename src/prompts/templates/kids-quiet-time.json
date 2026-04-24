@@ -1,0 +1,66 @@
+{
+  "id": "kids-quiet-time",
+  "name": "kids-quiet-time",
+  "description": "Kids quiet time instrumental (all ages) \u2014 soft gentle background music for crafts, meals, story time and rest periods. Works across all age groups, parent-friendly, non-distracting",
+  "type": "instrumental",
+  "genres": [
+    "Kids Quiet Time"
+  ],
+  "subGenres": [
+    "children's soft instrumental very gentle slow relaxing",
+    "kids quiet background soft piano slow warm",
+    "gentle children's lullaby instrumental very slow calm",
+    "soft whimsical background very slow children relaxing"
+  ],
+  "moods": [
+    "gentle warm and softly cheerful calm",
+    "peaceful and quietly playful soft",
+    "calm and nurturing warm soft focus",
+    "gently uplifting and soft peaceful"
+  ],
+  "tempos": [
+    "very slow 58-68 BPM gentle and calm",
+    "slow 60-72 BPM soft children's background",
+    "ultra slow 55-65 BPM relaxing quiet time"
+  ],
+  "instruments": [
+    "solo soft piano gentle warm sparse phrases only",
+    "solo warm glockenspiel gentle soft melody only",
+    "solo light acoustic guitar warm gentle arpeggios only",
+    "solo soft music box melody gentle warm only",
+    "solo warm marimba gentle slow phrases only",
+    "solo soft harp gentle arpeggios warm only",
+    "solo warm celesta gentle soft melody only"
+  ],
+  "useCases": [
+    "kids club craft and art time",
+    "children's meal and snack time",
+    "story time background",
+    "rest and quiet activity period"
+  ],
+  "atmospheres": [
+    "warm sunny playroom calm and focused",
+    "gentle afternoon craft session peaceful",
+    "cozy story corner warm and inviting",
+    "soft gentle learning space calm"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no fast tempo",
+    "no drums",
+    "no heavy percussion",
+    "no bass drops",
+    "no aggressive sounds",
+    "no loud dynamics",
+    "no sharp transients",
+    "no scary sounds",
+    "no complex arrangement",
+    "no EDM",
+    "no fast tempo",
+    "no upbeat",
+    "no lively",
+    "no beat",
+    "no pulse"
+  ]
+}

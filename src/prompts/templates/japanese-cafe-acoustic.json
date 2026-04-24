@@ -1,0 +1,84 @@
+{
+  "id": "japanese-cafe-acoustic",
+  "name": "Japanese Café Acoustic",
+  "description": "Warm kissaten-style Japanese cafe music, soft acoustic guitar and piano, cozy and inviting",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese cafe acoustic"
+  ],
+
+  "subGenres": [
+    "kissaten cafe acoustic warm",
+    "japanese acoustic guitar soft gentle",
+    "japanese cafe piano light melodic",
+    "japanese soft pop instrumental acoustic",
+    "japanese bossa cafe gentle warm",
+    "japanese easy listening acoustic cozy",
+    "japanese acoustic duo guitar piano",
+    "japanese light jazz cafe soft"
+  ],
+
+  "moods": [
+    "warm and cozy",
+    "gentle and inviting",
+    "soft and pleasant",
+    "light and comfortable",
+    "mellow and relaxed",
+    "sweet and calm",
+    "cheerful and gentle",
+    "nostalgic and warm"
+  ],
+
+  "tempos": [
+    { "label": "slow gentle", "minBpm": 70, "maxBpm": 85 },
+    { "label": "relaxed moderate", "minBpm": 85, "maxBpm": 100 },
+    { "label": "light flowing", "minBpm": 98, "maxBpm": 110 }
+  ],
+
+  "instruments": [
+    "acoustic guitar fingerpicked warm gentle",
+    "soft piano chords melodic simple",
+    "nylon guitar soft delicate",
+    "warm piano melody light",
+    "light ukulele cheerful gentle",
+    "soft brushed drums very light",
+    "gentle bass warm subtle",
+    "acoustic guitar strummed soft warm",
+    "glockenspiel light sparkle accents",
+    "warm electric piano soft mellow"
+  ],
+
+  "useCases": [
+    "japanese cafe background",
+    "kissaten coffee shop",
+    "casual japanese restaurant",
+    "bakery and patisserie",
+    "ramen shop ambiance",
+    "japanese brunch cafe"
+  ],
+
+  "atmospheres": [
+    "cozy wooden kissaten interior",
+    "morning sunlight through cafe window",
+    "warm afternoon coffee moment",
+    "quiet neighborhood cafe corner",
+    "gentle rain outside cafe",
+    "soft music and fresh coffee",
+    "vintage japanese cafe warmth",
+    "comfortable reading nook"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no heavy drums",
+    "no EDM",
+    "no loud",
+    "no aggressive",
+    "no dark",
+    "no saxophone",
+    "no distortion",
+    "no synths",
+    "no electronic beats"
+  ]
+}

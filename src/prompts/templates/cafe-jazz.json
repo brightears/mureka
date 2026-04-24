@@ -1,0 +1,77 @@
+{
+  "id": "cafe-jazz",
+  "name": "Cafe Jazz",
+  "description": "Warm cafe jazz for background listening, piano-led with clean guitar and upright bass",
+  "type": "instrumental",
+
+  "genres": [
+    "cafe jazz"
+  ],
+
+  "subGenres": [
+    "piano trio",
+    "cool jazz",
+    "bossa nova",
+    "jazz ballad",
+    "swing"
+  ],
+
+  "moods": [
+    "warm",
+    "cozy",
+    "relaxed",
+    "mellow",
+    "intimate",
+    "smooth",
+    "laid-back",
+    "gentle",
+    "soft",
+    "easy"
+  ],
+
+  "tempos": [
+    { "label": "slow swing", "minBpm": 80, "maxBpm": 96 },
+    { "label": "relaxed", "minBpm": 88, "maxBpm": 100 },
+    { "label": "easy groove", "minBpm": 92, "maxBpm": 104 }
+  ],
+
+  "instruments": [
+    "piano",
+    "clean jazz guitar",
+    "upright bass",
+    "brushed drums",
+    "soft brushes",
+    "acoustic bass",
+    "jazz guitar",
+    "vibraphone",
+    "double bass"
+  ],
+
+  "useCases": [
+    "cafe background music",
+    "coffee shop ambiance",
+    "restaurant background",
+    "brunch music",
+    "morning cafe",
+    "afternoon relaxation"
+  ],
+
+  "atmospheres": [
+    "natural room feel",
+    "cozy cafe",
+    "warm acoustic space",
+    "morning light",
+    "rainy afternoon",
+    "soft sunlight",
+    "quiet corner",
+    "window seat"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no heavy drums"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mediterranean-hammam",
+  "name": "mediterranean-hammam",
+  "description": "Mediterranean hammam and Turkish bath ambient \u2014 oud, soft darbuka, Middle Eastern ambient for hammam spa experiences",
+  "type": "instrumental",
+  "genres": [
+    "Mediterranean Hammam"
+  ],
+  "subGenres": [
+    "arabic ambient spa oud meditative sparse",
+    "middle eastern ambient hammam calm",
+    "mediterranean ambient oud sparse healing",
+    "turkish bath ambient ethnic minimal spa"
+  ],
+  "moods": [
+    "warm and mystical with middle eastern calm",
+    "serene and exotic with mediterranean warmth",
+    "meditative and ancient with oud resonance",
+    "peaceful and sensual very gentle"
+  ],
+  "tempos": [
+    "ultra slow 45-58 BPM or no discernible pulse",
+    "very slow 48-60 BPM drone and oud sparse",
+    "50-60 BPM very slow hammam ambient"
+  ],
+  "instruments": [
+    "solo oud plucked sparse phrases meditative",
+    "oud soft fingerpicked ambient minimal",
+    "soft darbuka very quiet gentle breath",
+    "qanun plucked sparse ambient gentle",
+    "nay flute breathy sparse phrases soft"
+  ],
+  "useCases": [
+    "hammam spa treatment",
+    "turkish bath ambient",
+    "moroccan spa riad",
+    "middle eastern wellness center"
+  ],
+  "atmospheres": [
+    "mediterranean hammam steam warmth ancient",
+    "turkish bath historic stone arch calm",
+    "moroccan riad spa courtyard evening",
+    "middle eastern healing space warm candlelit"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no fast darbuka rhythm",
+    "no belly dance rhythm",
+    "no fast percussion",
+    "no complex percussion",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no synth",
+    "no electronic",
+    "no bass",
+    "no orchestra",
+    "no saxophone",
+    "no strings",
+    "no busy arrangement",
+    "no fast tempo",
+    "no dramatic",
+    "no dance music",
+    "no upbeat tempo",
+    "no lively",
+    "no dance rhythm",
+    "no energetic",
+    "no fast phrases"
+  ]
+}

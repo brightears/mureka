@@ -1,0 +1,82 @@
+{
+  "id": "city-pop-instrumental",
+  "name": "City Pop Instrumental",
+  "description": "80s Japanese city pop retro funk, bright synths, funky bass lines, nostalgic and trendy",
+  "type": "instrumental",
+
+  "genres": [
+    "city pop instrumental"
+  ],
+
+  "subGenres": [
+    "japanese city pop retro funk",
+    "80s japanese pop funk bright",
+    "city pop disco boogie groovy",
+    "japanese retro synth pop warm",
+    "city pop AOR soft rock smooth",
+    "japanese 80s funk fusion melodic",
+    "city pop light disco breezy",
+    "japanese retro boogie funky bright"
+  ],
+
+  "moods": [
+    "bright and nostalgic",
+    "funky and groovy",
+    "breezy and uplifting",
+    "warm and retro",
+    "smooth and cool",
+    "playful and stylish",
+    "summery and carefree",
+    "cheerful and sophisticated"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo groove", "minBpm": 95, "maxBpm": 110 },
+    { "label": "upbeat funky", "minBpm": 110, "maxBpm": 122 },
+    { "label": "disco boogie", "minBpm": 118, "maxBpm": 132 }
+  ],
+
+  "instruments": [
+    "funky slap bass bright",
+    "warm analog synth pad retro",
+    "bright electric piano chords funky",
+    "clean electric guitar rhythm funk",
+    "tight disco drums groovy",
+    "retro synth lead melodic warm",
+    "brass stabs punchy bright",
+    "smooth bass guitar groove",
+    "shimmering synth arpeggios retro",
+    "crisp rhythm guitar clean staccato"
+  ],
+
+  "useCases": [
+    "trendy retail store",
+    "fashion boutique",
+    "lifestyle brand shop",
+    "vinyl record store",
+    "japanese restaurant modern",
+    "hip cafe bar evening"
+  ],
+
+  "atmospheres": [
+    "neon-lit tokyo nightlife 1980s",
+    "sunset drive along the coast",
+    "breezy summer rooftop evening",
+    "retro japanese shopping arcade",
+    "stylish shibuya street vibe",
+    "warm nostalgic summer night",
+    "vintage japanese nightclub glow",
+    "cool evening city cruise"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no aggressive",
+    "no classical",
+    "no traditional"
+  ]
+}

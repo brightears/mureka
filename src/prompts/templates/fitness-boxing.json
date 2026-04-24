@@ -1,0 +1,81 @@
+{
+  "id": "fitness-boxing",
+  "name": "Fitness Boxing Combat",
+  "description": "Boxing and kickboxing workout music, aggressive trap and hard beats, punch-rhythm matching 130-155 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness boxing"
+  ],
+
+  "subGenres": [
+    "trap workout aggressive hard",
+    "hard electronic beats punchy",
+    "dark trap heavy bass",
+    "combat workout aggressive driving",
+    "grime instrumental dark energy",
+    "hard hip hop beat aggressive",
+    "industrial electronic heavy dark",
+    "dark EDM aggressive powerful"
+  ],
+
+  "moods": [
+    "aggressive and fierce",
+    "dark and powerful",
+    "menacing and strong",
+    "raw and gritty",
+    "punchy and hard hitting",
+    "intimidating and bold",
+    "ruthless and focused",
+    "warrior energy"
+  ],
+
+  "tempos": [
+    { "label": "combat ready", "minBpm": 130, "maxBpm": 142 },
+    { "label": "heavy bag pace", "minBpm": 140, "maxBpm": 150 },
+    { "label": "fight intensity", "minBpm": 148, "maxBpm": 155 }
+  ],
+
+  "instruments": [
+    "heavy 808 bass deep",
+    "hard hitting trap drums",
+    "sharp snare punchy crisp",
+    "dark synth bass growling",
+    "aggressive hi-hats rapid",
+    "deep sub bass rumbling",
+    "dark atmospheric pad tension",
+    "hard kick drum punchy",
+    "brass stabs aggressive dark",
+    "distorted bass heavy"
+  ],
+
+  "useCases": [
+    "boxing fitness class",
+    "kickboxing cardio workout",
+    "combat fitness training",
+    "heavy bag session",
+    "martial arts cardio",
+    "fight training"
+  ],
+
+  "atmospheres": [
+    "dark boxing gym intensity",
+    "fight night energy",
+    "ring walk aggression",
+    "underground gym raw",
+    "combat zone focused",
+    "warrior training ground"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no soft",
+    "no chill",
+    "no ambient",
+    "no acoustic",
+    "no jazz",
+    "no classical",
+    "no happy",
+    "no bright"
+  ]
+}

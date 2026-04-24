@@ -1,0 +1,103 @@
+{
+  "id": "indian-traditional-minimal",
+  "name": "Indian Traditional Minimal",
+  "description": "Ultra minimal traditional Indian music, solo or duo acoustic, live intimate performance feel",
+  "type": "instrumental",
+
+  "genres": [
+    "indian traditional minimal"
+  ],
+
+  "subGenres": [
+    "solo sitar very sparse single note phrases",
+    "solo bansuri flute very sparse breathy single phrases",
+    "solo sarod very sparse deep single plucked notes",
+    "solo santoor very sparse single shimmering notes",
+    "solo sarangi very sparse single bowed phrases",
+    "solo sitar ultra minimal raga single notes only",
+    "solo bansuri ultra minimal single long breathy notes",
+    "solo tanpura drone only single sustained tone"
+  ],
+
+  "moods": [
+    "very sparse and minimal",
+    "ultra minimal single instrument",
+    "bare and stripped back",
+    "almost silent with single notes",
+    "very low energy sparse",
+    "extremely minimal and quiet",
+    "one or two notes at a time only",
+    "spacious with long silence between notes"
+  ],
+
+  "tempos": [
+    { "label": "very slow sparse", "minBpm": 50, "maxBpm": 68 },
+    { "label": "slow gentle", "minBpm": 65, "maxBpm": 80 },
+    { "label": "moderate flowing", "minBpm": 78, "maxBpm": 95 }
+  ],
+
+  "instruments": [
+    "solo sitar single notes very sparse only",
+    "solo bansuri single breathy notes very sparse only",
+    "solo sarod single plucked notes very sparse only",
+    "solo santoor single shimmering notes very sparse only"
+  ],
+
+  "useCases": [
+    "fine dining indian restaurant",
+    "intimate indian dinner",
+    "indian cultural event",
+    "private dining room",
+    "traditional indian restaurant",
+    "indian heritage hotel"
+  ],
+
+  "atmospheres": [
+    "intimate live performance small room",
+    "single musician playing softly",
+    "duo performing in corner of restaurant",
+    "quiet evening live music",
+    "natural acoustic room sound",
+    "close mic single instrument warmth",
+    "small gathering gentle music",
+    "private recital intimate space"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no synth",
+    "no synthesizer",
+    "no electronic",
+    "no ambient pad",
+    "no drone pad",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no bass line",
+    "no sub bass",
+    "no low frequency",
+    "no orchestra",
+    "no strings ensemble",
+    "no western instruments",
+    "no saxophone",
+    "no jazz",
+    "no multiple instruments",
+    "no ensemble",
+    "no tabla",
+    "no percussion",
+    "no drums",
+    "no rhythm",
+    "no busy arrangement",
+    "no complex melody",
+    "no fast notes",
+    "no loud dynamics",
+    "no arabian",
+    "no oud",
+    "no middle eastern",
+    "no chinese"
+  ]
+}

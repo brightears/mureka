@@ -1,0 +1,122 @@
+{
+  "id": "spanish-cafe-vocal",
+  "name": "Spanish Cafe Vocal",
+  "description": "Warm Spanish cafe music with vocals, flamenco and Latin influences, romantic and inviting",
+  "type": "vocal",
+  "language": "Spanish",
+
+  "genres": [
+    "spanish cafe vocal"
+  ],
+
+  "subGenres": [
+    "spanish acoustic cafe warm",
+    "flamenco pop soft romantic",
+    "spanish bossa cafe gentle",
+    "latin acoustic cafe mellow",
+    "spanish guitar vocal intimate",
+    "modern spanish pop acoustic",
+    "spanish rumba cafe light",
+    "mediterranean cafe vocal warm"
+  ],
+
+  "moods": [
+    "warm and romantic",
+    "passionate and gentle",
+    "sunny and inviting",
+    "relaxed and soulful",
+    "intimate and tender",
+    "cheerful and warm",
+    "breezy and Mediterranean",
+    "nostalgic and heartfelt"
+  ],
+
+  "tempos": [
+    { "label": "slow romantic", "minBpm": 70, "maxBpm": 85 },
+    { "label": "relaxed groove", "minBpm": 88, "maxBpm": 105 },
+    { "label": "light upbeat", "minBpm": 105, "maxBpm": 120 }
+  ],
+
+  "instruments": [
+    "spanish acoustic guitar fingerpicked warm",
+    "nylon guitar flamenco soft",
+    "soft cajon percussion gentle",
+    "warm piano chords simple",
+    "palmas clapping light rhythmic",
+    "acoustic bass warm subtle",
+    "soft flamenco guitar rasgueado",
+    "gentle percussion shaker light",
+    "warm acoustic guitar strummed",
+    "light bongo gentle groove"
+  ],
+
+  "useCases": [
+    "cafe pausa ambiance",
+    "spanish restaurant background",
+    "mediterranean cafe",
+    "tapas bar evening",
+    "wine bar atmosphere",
+    "brunch cafe setting"
+  ],
+
+  "atmospheres": [
+    "sunny spanish terrace afternoon",
+    "warm mediterranean cafe evening",
+    "intimate tapas bar candlelight",
+    "breezy seaside cafe",
+    "cobblestone plaza cafe",
+    "warm golden hour terrace",
+    "relaxed spanish courtyard",
+    "gentle evening cafe setting"
+  ],
+
+  "vocalStyles": [
+    "warm Spanish male vocal tenor romantic",
+    "soft Spanish female vocal mezzo gentle",
+    "passionate Spanish male vocal baritone soulful",
+    "sweet Spanish female vocal soprano clear",
+    "intimate Spanish male vocal smooth tender",
+    "breathy Spanish female vocal alto warm",
+    "expressive Spanish male vocal emotional deep",
+    "gentle Spanish female vocal soft flowing",
+    "rich Spanish male vocal warm melodic",
+    "airy Spanish female vocal light delicate",
+    "romantic Spanish male vocal gentle crooner",
+    "bright Spanish female vocal youthful fresh"
+  ],
+
+  "lyricThemes": [
+    "sunlight on the terrace",
+    "coffee and conversation",
+    "dancing under the stars",
+    "the warmth of your hand",
+    "summer evenings by the sea",
+    "walking through old streets together",
+    "your smile like morning sun",
+    "lazy afternoon with you",
+    "the taste of sweet wine",
+    "flowers in the courtyard",
+    "love letters from Barcelona",
+    "moonlight over the plaza",
+    "the rhythm of our hearts",
+    "dreaming of the coast",
+    "golden days together",
+    "whispered words at sunset",
+    "the beauty of simple moments",
+    "rain on terracotta roofs",
+    "your voice carries me home",
+    "a toast to love and life"
+  ],
+
+  "negativePrompts": [
+    "no harsh sounds",
+    "no heavy metal",
+    "no EDM",
+    "no rap",
+    "no screaming",
+    "no saxophone",
+    "no electronic beats",
+    "no distortion",
+    "no aggressive"
+  ]
+}

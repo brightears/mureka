@@ -1,0 +1,84 @@
+{
+  "id": "tropical-house",
+  "name": "Tropical House",
+  "description": "Chill tropical house in the style of Kygo, Thomas Jack, Sam Feldt - relaxed beach vibes, plucky synths, warm summer feel",
+  "type": "instrumental",
+
+  "genres": [
+    "tropical house"
+  ],
+
+  "subGenres": [
+    "chill tropical house",
+    "deep tropical house",
+    "Kygo style tropical",
+    "summer house",
+    "beach house",
+    "Balearic house",
+    "melodic tropical house"
+  ],
+
+  "moods": [
+    "relaxed and sunny",
+    "carefree summer vibes",
+    "warm and uplifting",
+    "breezy and laid-back",
+    "dreamy and escapist",
+    "feel-good and positive",
+    "mellow and chill",
+    "romantic sunset mood"
+  ],
+
+  "tempos": [
+    { "label": "chill tropical groove", "minBpm": 100, "maxBpm": 108 },
+    { "label": "relaxed summer tempo", "minBpm": 105, "maxBpm": 112 },
+    { "label": "laid-back beach tempo", "minBpm": 108, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "plucky tropical synth lead",
+    "warm synth pads",
+    "steel drums",
+    "marimba melody",
+    "pan flute",
+    "acoustic guitar strumming",
+    "soft saxophone",
+    "gentle bongos",
+    "shakers and tambourine",
+    "mellow piano chords",
+    "tropical percussion",
+    "airy flute melody"
+  ],
+
+  "useCases": [
+    "beach lounge",
+    "pool party",
+    "summer playlist",
+    "sunset chill",
+    "vacation vibes",
+    "rooftop bar",
+    "cafe background"
+  ],
+
+  "atmospheres": [
+    "sunny beach atmosphere",
+    "tropical island escape",
+    "warm summer evening",
+    "ocean breeze feeling",
+    "carefree vacation mood",
+    "golden hour sunset"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no harsh sounds",
+    "no heavy drops",
+    "no aggressive bass",
+    "no dark atmosphere",
+    "no intense buildup",
+    "no hard EDM",
+    "no distortion",
+    "no heavy drums",
+    "no industrial sounds"
+  ]
+}

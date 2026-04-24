@@ -1,0 +1,83 @@
+{
+  "id": "vietnamese-tet",
+  "name": "Vietnamese Tết (Lunar New Year)",
+  "description": "Authentic Vietnamese Tết music - festive spring celebration with traditional and modern styles",
+  "type": "instrumental",
+
+  "genres": [
+    "Vietnamese traditional folk",
+    "Vietnamese folk",
+    "Southern Vietnamese folk",
+    "V-Pop instrumental",
+    "Asian world music"
+  ],
+
+  "subGenres": [
+    "Dan Tranh zither",
+    "Don Ca Tai Tu",
+    "spring festival",
+    "lunar new year celebration",
+    "Mekong Delta folk"
+  ],
+
+  "moods": [
+    "festive",
+    "joyful",
+    "bright",
+    "optimistic",
+    "cheerful",
+    "celebratory",
+    "warm",
+    "nostalgic",
+    "spring",
+    "happy"
+  ],
+
+  "tempos": [
+    { "label": "upbeat festive", "minBpm": 120, "maxBpm": 140 },
+    { "label": "fast celebration", "minBpm": 130, "maxBpm": 150 },
+    { "label": "moderate spring", "minBpm": 100, "maxBpm": 120 },
+    { "label": "gentle nostalgic", "minBpm": 70, "maxBpm": 90 }
+  ],
+
+  "instruments": [
+    "Dan Tranh zither",
+    "bamboo flute",
+    "Asian zither",
+    "wooden percussion",
+    "woodblocks",
+    "gongs",
+    "traditional drums",
+    "bright piano",
+    "plucked strings",
+    "wind chimes"
+  ],
+
+  "useCases": [
+    "spring festival celebration",
+    "lunar new year party",
+    "family reunion background",
+    "festive shopping ambiance",
+    "Tết holiday music",
+    "spring homecoming"
+  ],
+
+  "atmospheres": [
+    "pentatonic scale",
+    "Asian melodic",
+    "sparkling spring",
+    "acoustic traditional",
+    "festive ensemble",
+    "warm celebration",
+    "bending strings",
+    "improvisational folk"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no western pop",
+    "no generic meditation",
+    "no heavy bass",
+    "no distortion"
+  ]
+}

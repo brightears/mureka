@@ -1,0 +1,124 @@
+{
+  "id": "progressive-house-vocal",
+  "name": "Progressive House Vocal",
+  "description": "Melodic progressive house with uplifting vocals, warm synth pads, and driving grooves",
+  "type": "vocal",
+
+  "genres": [
+    "progressive house vocal"
+  ],
+
+  "subGenres": [
+    "progressive house melodic warm",
+    "progressive house atmospheric driving",
+    "melodic house uplifting smooth",
+    "progressive house deep emotional",
+    "melodic progressive warm layered",
+    "progressive house rolling hypnotic",
+    "progressive deep house atmospheric",
+    "melodic house modern refined"
+  ],
+
+  "moods": [
+    "driving and uplifting",
+    "warm and melodic",
+    "atmospheric and immersive",
+    "hypnotic and forward-moving",
+    "smooth and confident",
+    "deep and emotional",
+    "warm and expansive",
+    "refined and energetic"
+  ],
+
+  "tempos": [
+    { "label": "melodic house groove", "minBpm": 122, "maxBpm": 125 },
+    { "label": "progressive house", "minBpm": 124, "maxBpm": 127 },
+    { "label": "driving progressive", "minBpm": 126, "maxBpm": 128 }
+  ],
+
+  "instruments": [
+    "warm evolving synth pad filtered",
+    "plucked synth melody clean",
+    "soft arpeggiated synth sequence",
+    "four-on-the-floor kick punchy",
+    "crisp open hi-hats driving",
+    "soft clap on backbeat",
+    "warm sub bass rolling smooth",
+    "gentle synth chord stabs filtered",
+    "long reverb pad atmospheric wash",
+    "soft ride cymbal pattern",
+    "warm detuned lead synth gentle",
+    "subtle shaker groove organic"
+  ],
+
+  "useCases": [
+    "modern retail space",
+    "fitness studio session",
+    "fashion runway backdrop",
+    "corporate event",
+    "late night urban drive",
+    "rooftop sunset session"
+  ],
+
+  "atmospheres": [
+    "driving late night urban energy",
+    "warm uplifting sunset rooftop",
+    "modern polished club atmosphere",
+    "atmospheric melodic journey",
+    "refined underground warmth",
+    "expansive neon-lit cityscape",
+    "smooth confident groove",
+    "warm intimate progressive set"
+  ],
+
+  "vocalStyles": [
+    "airy female vocals breathy melodic high pitch",
+    "powerful female vocals uplifting anthemic belting",
+    "ethereal female vocals soft atmospheric whisper",
+    "soulful female alto vocals warm rich tone",
+    "bright female pop vocals energetic catchy",
+    "intimate female vocals low sultry dreamy",
+    "smooth male vocals warm confident baritone",
+    "deep male vocals emotional low pitch intimate",
+    "high male tenor vocals uplifting soaring",
+    "raspy male vocals raw emotional gritty",
+    "soft male falsetto vocals airy floating ethereal",
+    "warm male vocals melodic mid-range soulful"
+  ],
+
+  "lyricThemes": [
+    "chasing the light and never looking back",
+    "feeling alive under city lights",
+    "lost in the rhythm of the night",
+    "rising above and finding freedom",
+    "together we are unstoppable",
+    "the night is ours to own",
+    "following the beat of your heart",
+    "letting go and feeling free",
+    "dancing through the night together",
+    "finding yourself in the music",
+    "running toward the horizon",
+    "the sound of our heartbeat"
+  ],
+
+  "negativePrompts": [
+    "no aggressive drops",
+    "no big room",
+    "no festival",
+    "no dubstep",
+    "no distortion",
+    "no harsh synths",
+    "no screaming synths",
+    "no snare rolls",
+    "no trap",
+    "no saxophone",
+    "no guitar",
+    "no rock",
+    "no jazz",
+    "no acoustic instruments",
+    "no cheap synths",
+    "no robotic drums",
+    "no trance",
+    "no heavy bass drops"
+  ]
+}

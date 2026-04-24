@@ -1,0 +1,95 @@
+{
+  "id": "jazztronica",
+  "name": "Jazztronica",
+  "description": "Electronic jazz fusion with programmed beats, synth textures, and jazz harmonic elements",
+  "type": "instrumental",
+
+  "genres": [
+    "jazztronica"
+  ],
+
+  "subGenres": [
+    "nu jazz electronic beat driven",
+    "broken beat electronic jazz fusion",
+    "future jazz electronic programmed",
+    "electronic jazz deep house groove",
+    "nu jazz glitchy electronic warm",
+    "electro jazz broken beat deep",
+    "future jazz electronic atmospheric beat",
+    "electronic jazz fusion downtempo beat"
+  ],
+
+  "moods": [
+    "futuristic and groovy",
+    "electronic and warm",
+    "deep and beat-driven",
+    "experimental and hypnotic",
+    "funky and electronic",
+    "cool and futuristic",
+    "glitchy and atmospheric",
+    "deep and modern"
+  ],
+
+  "tempos": [
+    { "label": "broken beat groove", "minBpm": 95, "maxBpm": 105 },
+    { "label": "nu jazz electronic", "minBpm": 105, "maxBpm": 112 },
+    { "label": "jazz house electronic", "minBpm": 112, "maxBpm": 120 }
+  ],
+
+  "instruments": [
+    "programmed electronic drum pattern broken beat",
+    "warm synth pad filtered evolving wide",
+    "deep electronic sub bass pulsing",
+    "glitchy percussion layers textured",
+    "warm electric piano chords filtered sparse",
+    "soft synth arpeggio sequence hypnotic",
+    "electronic hi-hat pattern intricate",
+    "deep kick drum electronic punchy",
+    "warm analog synth stab filtered",
+    "soft vibraphone melody sparse electronic",
+    "filtered bass pluck funky deep",
+    "ambient synth drone texture evolving"
+  ],
+
+  "useCases": [
+    "underground electronic club",
+    "art gallery opening",
+    "modern cocktail bar",
+    "late night listening session",
+    "boutique fashion store",
+    "experimental music venue"
+  ],
+
+  "atmospheres": [
+    "futuristic electronic jazz space",
+    "deep underground beat-driven groove",
+    "modern electronic club warmth",
+    "experimental broken beat atmosphere",
+    "nocturnal electronic jazz session",
+    "glitchy warm electronic groove",
+    "deep hypnotic electronic jazz",
+    "modern futuristic beat space"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no smooth jazz",
+    "no traditional jazz",
+    "no swing",
+    "no big band",
+    "no saxophone",
+    "no acoustic drums only",
+    "no EDM drops",
+    "no aggressive sounds",
+    "no distortion",
+    "no trance",
+    "no big room",
+    "no guitar",
+    "no rock",
+    "no cheap synths",
+    "no classical",
+    "no country",
+    "no lounge"
+  ]
+}

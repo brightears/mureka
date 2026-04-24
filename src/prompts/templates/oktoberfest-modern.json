@@ -1,0 +1,81 @@
+{
+  "id": "oktoberfest-modern",
+  "name": "Oktoberfest Modern Instrumental",
+  "description": "Modern German party instrumental, schlager-pop meets folk, upbeat and energetic for modern beer events",
+  "type": "instrumental",
+
+  "genres": [
+    "oktoberfest modern"
+  ],
+
+  "subGenres": [
+    "modern schlager pop instrumental upbeat",
+    "german party pop folk energetic",
+    "modern bavarian pop bright fun",
+    "euro folk pop party instrumental",
+    "modern german festival music bright",
+    "schlager dance pop instrumental catchy",
+    "contemporary oktoberfest pop energetic",
+    "modern alpine pop fresh upbeat"
+  ],
+
+  "moods": [
+    "upbeat and party",
+    "energetic and fun",
+    "catchy and bright",
+    "modern and festive",
+    "feel-good and danceable",
+    "exciting and celebratory",
+    "happy and infectious",
+    "fresh and lively"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo groovy", "minBpm": 110, "maxBpm": 125 },
+    { "label": "upbeat party", "minBpm": 125, "maxBpm": 138 },
+    { "label": "high energy dance", "minBpm": 135, "maxBpm": 150 }
+  ],
+
+  "instruments": [
+    "accordion modern pop style",
+    "bright synth lead catchy",
+    "punchy pop drums tight",
+    "bass guitar groovy driving",
+    "brass stabs festive bright",
+    "electric guitar clean bright riff",
+    "modern pop production polished",
+    "claps and stomps rhythmic",
+    "trumpet pop bright punchy",
+    "accordion melody catchy hook"
+  ],
+
+  "useCases": [
+    "modern oktoberfest party",
+    "german beer festival modern",
+    "apres ski party",
+    "german themed club night",
+    "modern beer hall event",
+    "party playlist german"
+  ],
+
+  "atmospheres": [
+    "modern beer festival party",
+    "energetic german club night",
+    "apres ski bar fun",
+    "contemporary oktoberfest tent",
+    "modern german party energy",
+    "bright festival celebration"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no ballad",
+    "no sad",
+    "no dark",
+    "no jazz",
+    "no classical",
+    "no ambient",
+    "no chill"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "korean-cafe-chill",
+  "name": "Korean Cafe Chill",
+  "description": "Trendy Korean cafe aesthetic, soft warm instrumental, modern and cozy for QSR and retail seating areas",
+  "type": "instrumental",
+
+  "genres": [
+    "korean cafe chill"
+  ],
+
+  "subGenres": [
+    "korean cafe acoustic soft",
+    "korean lo-fi chill warm",
+    "korean indie pop instrumental light",
+    "korean soft pop instrumental cozy",
+    "korean acoustic cafe gentle",
+    "korean chill hop warm mellow",
+    "korean bossa cafe light",
+    "korean easy listening modern soft"
+  ],
+
+  "moods": [
+    "warm and cozy",
+    "soft and trendy",
+    "gentle and inviting",
+    "mellow and pleasant",
+    "light and comfortable",
+    "relaxed and modern",
+    "sweet and calm",
+    "cheerful and soft"
+  ],
+
+  "tempos": [
+    { "label": "slow cozy", "minBpm": 72, "maxBpm": 88 },
+    { "label": "relaxed groove", "minBpm": 88, "maxBpm": 102 },
+    { "label": "light upbeat", "minBpm": 100, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "warm acoustic guitar fingerpicked gentle",
+    "soft piano chords cozy",
+    "light ukulele strummed cheerful",
+    "warm electric piano mellow",
+    "soft brushed drums light",
+    "gentle bass warm subtle",
+    "light glockenspiel sparkle",
+    "soft acoustic guitar strummed warm",
+    "warm piano melody simple",
+    "gentle shaker and light percussion"
+  ],
+
+  "useCases": [
+    "bubble tea shop seating area",
+    "korean cafe ambiance",
+    "lifestyle retail browsing",
+    "dessert shop background",
+    "beauty store relaxed area",
+    "bookshop cafe corner"
+  ],
+
+  "atmospheres": [
+    "cozy korean cafe afternoon",
+    "warm minimalist cafe interior",
+    "soft sunlight through window",
+    "trendy seoul cafe aesthetic",
+    "pastel colored cozy space",
+    "comfortable seating area vibe",
+    "instagram-worthy cafe mood",
+    "gentle afternoon browsing"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no heavy drums",
+    "no EDM",
+    "no loud",
+    "no aggressive",
+    "no dark",
+    "no saxophone",
+    "no jazz",
+    "no distortion"
+  ]
+}

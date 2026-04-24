@@ -1,0 +1,77 @@
+{
+  "id": "nordic-forest-spa",
+  "name": "nordic-forest-spa",
+  "description": "Nordic forest spa ambient \u2014 piano with nature soundscape, Scandinavian minimal calm for sauna, steam and relaxation rooms",
+  "type": "instrumental",
+  "genres": [
+    "Nordic Forest Spa"
+  ],
+  "subGenres": [
+    "nordic ambient spa piano nature very sparse",
+    "scandinavian forest soundscape minimal ambient",
+    "nordic spa minimal piano nature sounds",
+    "forest ambient healing piano sparse phrases"
+  ],
+  "moods": [
+    "serene and pristine with nordic forest calm",
+    "pure and minimal with natural stillness",
+    "peaceful and cold-air-fresh very sparse",
+    "contemplative and grounded with forest presence"
+  ],
+  "tempos": [
+    "ultra slow 50-60 BPM very sparse minimal",
+    "very slow 52-62 BPM long silences between notes",
+    "slow 50-58 BPM nordic ambient no beat"
+  ],
+  "instruments": [
+    "solo piano soft sparse phrases with long silence",
+    "soft piano gentle single notes very minimal",
+    "warm sustained piano chords very sparse",
+    "single piano notes reverb forest ambient",
+    "gentle acoustic guitar single notes sparse minimal"
+  ],
+  "useCases": [
+    "sauna relaxation room",
+    "steam room ambient",
+    "nordic spa lounge",
+    "forest wellness retreat"
+  ],
+  "atmospheres": [
+    "nordic pine forest tranquil misty morning",
+    "scandinavian sauna birch forest serene",
+    "frozen lake reflection pristine stillness",
+    "arctic spa snowfall gentle peaceful"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no voice",
+    "no drums",
+    "no percussion",
+    "no bass",
+    "no rhythm",
+    "no synth",
+    "no electronic",
+    "no orchestra",
+    "no strings ensemble",
+    "no busy arrangement",
+    "no complex layers",
+    "no warm tropical sounds",
+    "no asian instruments",
+    "no saxophone",
+    "no guitar solo",
+    "no fast tempo",
+    "no multiple instruments simultaneously",
+    "no upbeat tempo",
+    "no lively",
+    "no energetic",
+    "no fast piano phrases",
+    "no beat",
+    "no pulse",
+    "no upbeat melody",
+    "no lively phrases",
+    "no allegro",
+    "no fast notes"
+  ]
+}

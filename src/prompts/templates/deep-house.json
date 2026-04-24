@@ -1,0 +1,103 @@
+{
+  "id": "deep-house",
+  "name": "Deep House",
+  "description": "Warm hypnotic deep house with filtered pads, four-on-the-floor grooves, and analog textures",
+  "type": "instrumental",
+
+  "genres": [
+    "deep house"
+  ],
+
+  "subGenres": [
+    "classic deep house warm soulful",
+    "deep house warm analog groove",
+    "deep house introspective mellow",
+    "deep house dreamy filtered warm",
+    "deep house warm minimal low-key",
+    "deep house mellow filtered deep",
+    "deep house rolling warm laid-back",
+    "deep house soulful warm underground"
+  ],
+
+  "moods": [
+    "warm and soulful",
+    "understated and mellow",
+    "contemplative and gentle",
+    "deep and laid-back",
+    "mellow and smooth",
+    "introspective and warm",
+    "smooth and low-key",
+    "warm and subdued"
+  ],
+
+  "tempos": [
+    { "label": "classic deep house", "minBpm": 120, "maxBpm": 123 },
+    { "label": "deep house", "minBpm": 118, "maxBpm": 122 },
+    { "label": "deep house groove", "minBpm": 122, "maxBpm": 125 }
+  ],
+
+  "instruments": [
+    "filtered warm pad evolving",
+    "soft 909 kick drum",
+    "subtle clap on backbeat",
+    "gentle hi-hats humanized swing",
+    "deep sub bass warm filtered",
+    "warm electric piano chords filtered",
+    "soft sustained organ pad",
+    "deep warm bass round smooth",
+    "long reverb pad wash",
+    "soft shaker organic groove",
+    "warm analog pad chords",
+    "soft congas subtle groove",
+    "soft muted trumpet phrase"
+  ],
+
+  "useCases": [
+    "late night underground club",
+    "after hours session",
+    "deep listening session",
+    "warm up DJ set",
+    "late night drive",
+    "intimate underground set"
+  ],
+
+  "atmospheres": [
+    "soulful analog warmth",
+    "late night warm underground vibe",
+    "intimate dimly lit atmosphere",
+    "deep after hours mood",
+    "introspective midnight session",
+    "warm dark minimal space",
+    "mellow underground warmth",
+    "subdued late night groove"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no EDM",
+    "no EDM drops",
+    "no build up",
+    "no aggressive sounds",
+    "no distortion",
+    "no harsh synths",
+    "no bright synth leads",
+    "no trance builds",
+    "no acid bass",
+    "no fast tempo",
+    "no high energy",
+    "no heavy percussion",
+    "no sharp transients",
+    "no cheap synths",
+    "no robotic drums",
+    "no tropical",
+    "no marimba",
+    "no steel drums",
+    "no guitar",
+    "no rock",
+    "no saxophone",
+    "no bright synthesizers",
+    "no progressive house",
+    "no big room"
+  ]
+}

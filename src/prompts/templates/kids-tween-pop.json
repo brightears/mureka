@@ -1,0 +1,84 @@
+{
+  "id": "kids-tween-pop",
+  "name": "kids-tween-pop",
+  "description": "Tween pop (age 10-13) — clean contemporary pop with empowerment, friendship and summer fun themes. Current production style for hotel kids club tweens who want to feel grown-up but content stays venue-safe",
+  "type": "vocal",
+  "language": "English",
+  "genres": ["Kids Tween Pop"],
+  "subGenres": [
+    "tween pop upbeat contemporary clean",
+    "clean pop upbeat empowerment fun",
+    "upbeat contemporary pop tween dance",
+    "clean pop hook-driven bright energetic"
+  ],
+  "moods": [
+    "confident upbeat and empowering cool",
+    "fun energetic and bright contemporary",
+    "uplifting positive and bold modern",
+    "high energy cool and confident pop"
+  ],
+  "tempos": [
+    "upbeat 122-130 BPM tween pop",
+    "energetic 124-135 BPM clean pop",
+    "danceable 122-135 BPM contemporary"
+  ],
+  "instruments": [
+    "modern synth pop bright upbeat driving",
+    "clean electric guitar pop hook bright",
+    "punchy modern drums pop groove",
+    "bright synth bass pop contemporary",
+    "catchy synth lead hook modern pop"
+  ],
+  "useCases": [
+    "hotel kids club age 10-13",
+    "tween lounge afternoon session",
+    "teen activity background music",
+    "kids club cool down hangout"
+  ],
+  "atmospheres": [
+    "cool modern youth lounge energetic",
+    "vibrant summer hangout fun confident",
+    "upbeat youth party fun atmosphere",
+    "modern pop concert energy bright"
+  ],
+  "vocalStyles": [
+    "confident young female pop voice contemporary bright clear",
+    "cool young male pop voice modern upbeat",
+    "energetic young female voice empowering upbeat contemporary",
+    "smooth young male pop voice confident friendly",
+    "bright young female voice catchy pop hook driven modern",
+    "upbeat young duo male female pop contemporary",
+    "powerful young female voice uplifting contemporary pop",
+    "cool young male voice fun energetic modern pop",
+    "confident young female pop voice strong bright clear",
+    "upbeat young male voice cheerful cool contemporary",
+    "energetic young female voice dance pop bright modern",
+    "warm young male voice friendly uplifting pop contemporary"
+  ],
+  "lyricThemes": [
+    "being yourself is everything owning who you are",
+    "best friends forever loyalty through everything",
+    "summer nights good vibes memories to keep forever",
+    "chasing dreams nothing is impossible believe",
+    "feeling on top of the world confidence shining bright",
+    "new beginnings fresh start exciting adventure ahead",
+    "we light up the room together unstoppable",
+    "living in the moment dance like nobody watching",
+    "true friendship is the realest thing stronger together",
+    "bright future ahead it's our time to rise and shine",
+    "fun times good music best people life is great",
+    "we are young we are free this is our moment"
+  ],
+  "negativePrompts": [
+    "no romantic physical love content",
+    "no adult party themes alcohol",
+    "no violence aggression dark themes",
+    "no profanity slang explicit",
+    "no sad emotional breakup",
+    "no scary dark imagery",
+    "no babyish childish sounds",
+    "no nursery style",
+    "no substance references",
+    "no inappropriate content"
+  ]
+}

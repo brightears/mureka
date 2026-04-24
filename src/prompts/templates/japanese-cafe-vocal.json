@@ -1,0 +1,126 @@
+{
+  "id": "japanese-cafe-vocal",
+  "name": "Japanese Cafe Vocal",
+  "description": "Soft Japanese cafe music with gentle vocals, acoustic and warm, for coffee shops and casual dining",
+  "type": "vocal",
+  "language": "Japanese",
+
+  "genres": [
+    "japanese cafe vocal"
+  ],
+
+  "subGenres": [
+    "japanese acoustic cafe vocal soft",
+    "japanese soft pop vocal gentle",
+    "japanese cafe bossa vocal warm",
+    "japanese indie folk vocal intimate",
+    "japanese easy listening vocal light",
+    "japanese acoustic pop vocal mellow",
+    "japanese lo-fi cafe vocal cozy",
+    "japanese light pop vocal sweet"
+  ],
+
+  "moods": [
+    "warm and cozy",
+    "gentle and sweet",
+    "soft and intimate",
+    "light and pleasant",
+    "mellow and dreamy",
+    "nostalgic and tender",
+    "cheerful and calm",
+    "comfortable and inviting"
+  ],
+
+  "tempos": [
+    { "label": "slow gentle", "minBpm": 72, "maxBpm": 86 },
+    { "label": "relaxed moderate", "minBpm": 86, "maxBpm": 100 },
+    { "label": "light flowing", "minBpm": 98, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "acoustic guitar fingerpicked warm gentle",
+    "soft piano chords simple melodic",
+    "nylon guitar soft delicate",
+    "warm piano melody light",
+    "light ukulele cheerful",
+    "soft brushed drums very light",
+    "gentle bass warm subtle",
+    "glockenspiel light sparkle",
+    "warm electric piano soft",
+    "acoustic guitar strummed gentle"
+  ],
+
+  "useCases": [
+    "japanese coffee shop",
+    "japanese cafe background",
+    "casual japanese dining",
+    "bakery and patisserie",
+    "japanese brunch cafe",
+    "bookstore cafe"
+  ],
+
+  "atmospheres": [
+    "cozy japanese kissaten morning",
+    "warm afternoon cafe sunlight",
+    "gentle rain outside window",
+    "quiet neighborhood coffee shop",
+    "soft music and fresh coffee",
+    "comfortable reading corner",
+    "vintage cafe warmth",
+    "lazy weekend morning cafe"
+  ],
+
+  "vocalStyles": [
+    "deep Japanese male vocal low baritone warm mature",
+    "high pitched Japanese female vocal bright soprano youthful",
+    "powerful Japanese male vocal strong tenor confident",
+    "breathy Japanese female vocal intimate mezzo whispered",
+    "raspy Japanese male vocal rough low deep gravelly",
+    "sweet Japanese female vocal cute high pitched light",
+    "smooth Japanese male vocal falsetto high pitch gentle",
+    "airy Japanese female vocal delicate soprano floating",
+    "young Japanese male vocal fresh bright high tenor",
+    "rich Japanese female vocal alto low warm soulful",
+    "deep Japanese male vocal bass rumbling low gentle",
+    "dreamy Japanese female vocal soft flowing mid range",
+    "husky Japanese male vocal mid range warm rough",
+    "clear Japanese female vocal pure high crystalline",
+    "energetic Japanese male vocal bright tenor upbeat",
+    "gentle Japanese female vocal low alto intimate quiet"
+  ],
+
+  "lyricThemes": [
+    "morning sunlight through the window",
+    "the warmth of a coffee cup",
+    "gentle rain and quiet thoughts",
+    "walking through autumn streets",
+    "your smile across the table",
+    "lazy afternoon daydreams",
+    "cherry blossoms in the breeze",
+    "small moments of happiness",
+    "letters to a dear friend",
+    "the comfort of familiar places",
+    "stars visible from the rooftop",
+    "a melody hummed softly",
+    "warm memories of summer",
+    "the sound of wind chimes",
+    "finding peace in simple things",
+    "twilight walk along the river",
+    "the scent of fresh bread morning",
+    "counting clouds on a quiet day",
+    "your laughter like a melody",
+    "home is where you are"
+  ],
+
+  "negativePrompts": [
+    "no harsh vocals",
+    "no screaming",
+    "no rap",
+    "no heavy drums",
+    "no EDM",
+    "no distortion",
+    "no aggressive",
+    "no loud",
+    "no saxophone"
+  ]
+}

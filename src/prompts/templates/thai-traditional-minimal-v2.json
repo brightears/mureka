@@ -1,0 +1,94 @@
+{
+  "id": "thai-traditional-minimal-v2",
+  "name": "Thai Traditional Minimal V2",
+  "description": "Ultra minimal Thai instrumental, solo acoustic traditional instruments only, sparse and gentle",
+  "type": "instrumental",
+
+  "genres": [
+    "thai traditional minimal"
+  ],
+
+  "subGenres": [
+    "solo ranad ek thai xylophone very sparse",
+    "solo khim thai dulcimer very sparse gentle",
+    "solo khlui thai flute very sparse breathy",
+    "solo saw duang thai fiddle very sparse",
+    "solo jakhe thai zither very sparse plucked",
+    "solo angklung bamboo very sparse gentle",
+    "solo bamboo xylophone very sparse melodic",
+    "solo thai wooden percussion very sparse gentle"
+  ],
+
+  "moods": [
+    "very sparse and minimal",
+    "ultra minimal single instrument",
+    "bare and stripped back",
+    "gentle single notes sparse",
+    "very low energy quiet",
+    "extremely minimal delicate",
+    "spacious with silence between notes",
+    "pure and simple acoustic"
+  ],
+
+  "tempos": [
+    { "label": "very slow sparse", "minBpm": 50, "maxBpm": 65 },
+    { "label": "slow gentle", "minBpm": 62, "maxBpm": 76 },
+    { "label": "soft flowing", "minBpm": 74, "maxBpm": 88 }
+  ],
+
+  "instruments": [
+    "solo ranad ek thai xylophone single notes only",
+    "solo khim thai dulcimer single shimmering notes only",
+    "solo khlui thai flute single breathy notes only",
+    "solo jakhe thai zither single plucked notes only"
+  ],
+
+  "useCases": [
+    "thai restaurant quiet background",
+    "thai spa treatment room",
+    "thai massage room",
+    "peaceful thai dining",
+    "thai wellness retreat",
+    "thai cultural space"
+  ],
+
+  "atmospheres": [
+    "quiet thai restaurant evening",
+    "single musician playing softly",
+    "peaceful thai garden",
+    "gentle tropical evening",
+    "warm wooden thai interior",
+    "simple natural acoustic space"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no synth",
+    "no synthesizer",
+    "no electronic",
+    "no ambient pad",
+    "no drone",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no bass line",
+    "no sub bass",
+    "no orchestra",
+    "no ensemble",
+    "no multiple instruments",
+    "no percussion",
+    "no drums",
+    "no chinese erhu",
+    "no chinese guzheng",
+    "no chinese pipa",
+    "no indian sitar",
+    "no indian tabla",
+    "no western instruments",
+    "no loud dynamics",
+    "no busy arrangement"
+  ]
+}

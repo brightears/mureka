@@ -1,0 +1,84 @@
+{
+  "id": "kids-adventure-pop",
+  "name": "kids-adventure-pop",
+  "description": "Kids adventure pop (age 7-10) — energetic family pop with confidence, teamwork and summer themes. KIDZ BOP inspired style for active play, outdoor activities and afternoon sessions",
+  "type": "vocal",
+  "language": "English",
+  "genres": ["Kids Adventure Pop"],
+  "subGenres": [
+    "kids pop upbeat energetic family friendly",
+    "children's pop-rock fun adventure",
+    "upbeat family pop bright energetic",
+    "kids pop catchy hook driven upbeat"
+  ],
+  "moods": [
+    "energetic uplifting and confident exciting",
+    "fun adventurous and bold upbeat",
+    "cheerful powerful and optimistic bright",
+    "high energy playful and cool upbeat"
+  ],
+  "tempos": [
+    "energetic 115-125 BPM kids pop",
+    "upbeat 118-128 BPM family pop",
+    "fun 115-128 BPM bright and punchy"
+  ],
+  "instruments": [
+    "bright electric guitar pop upbeat clean",
+    "driving synth pop energetic bright",
+    "punchy drums upbeat pop groove",
+    "warm bass pop groove upbeat",
+    "bright piano pop hook catchy"
+  ],
+  "useCases": [
+    "hotel kids club age 7-10",
+    "outdoor activity session",
+    "sports and games background",
+    "afternoon active play block"
+  ],
+  "atmospheres": [
+    "sunny outdoor adventure playground",
+    "summer camp high energy fun",
+    "sports day energetic achievement",
+    "kids on a mission together exciting"
+  ],
+  "vocalStyles": [
+    "upbeat young female pop voice confident energetic age 10-style",
+    "cool young male voice energetic pop fun",
+    "bright young female voice powerful uplifting pop",
+    "energetic young male pop voice bold adventurous",
+    "duo young voices male female upbeat pop fun",
+    "confident young female pop voice bright clear",
+    "cool young male voice upbeat fun catchy pop",
+    "energetic young duo voices harmonized upbeat pop",
+    "bright young female voice catchy pop hook driven",
+    "warm young male voice friendly energetic pop",
+    "strong young female voice empowering fun pop",
+    "upbeat young male voice cheerful cool pop"
+  ],
+  "lyricThemes": [
+    "we are champions today is our day to shine",
+    "summer adventures best friends together memories",
+    "standing up for what's right being brave and strong",
+    "teamwork makes the dream work we win together",
+    "chasing our dreams nothing can stop us now",
+    "being yourself is the coolest thing ever",
+    "best summer ever sun beach friends laughter",
+    "sports and games giving it everything we've got",
+    "we've got the whole world in our hands adventure",
+    "school's out time to have the best time ever",
+    "making new friends from all around the world",
+    "we can do it together reaching for the stars"
+  ],
+  "negativePrompts": [
+    "no romantic love themes",
+    "no adult themes",
+    "no sad emotional ballad",
+    "no violence aggression",
+    "no dark themes",
+    "no babyish nursery sounds",
+    "no complex adult lyrics",
+    "no profanity slang",
+    "no scary content",
+    "no substance references"
+  ]
+}

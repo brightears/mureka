@@ -1,0 +1,95 @@
+{
+  "id": "new-age-piano",
+  "name": "New Age Piano",
+  "description": "Solo piano new age with gentle melodic phrases, soft dynamics, and peaceful atmosphere",
+  "type": "instrumental",
+
+  "genres": [
+    "new age piano"
+  ],
+
+  "subGenres": [
+    "new age solo piano gentle",
+    "new age piano melodic peaceful",
+    "piano ambient soft flowing",
+    "new age piano intimate warm",
+    "solo piano meditation calm",
+    "new age piano contemplative gentle",
+    "piano new age reflective soft",
+    "new age piano serene melodic"
+  ],
+
+  "moods": [
+    "gentle and melodic",
+    "peaceful and contemplative",
+    "soft and flowing",
+    "warm and intimate",
+    "calm and reflective",
+    "serene and gentle",
+    "tender and peaceful",
+    "quiet and soothing"
+  ],
+
+  "tempos": [
+    { "label": "very slow piano", "minBpm": 55, "maxBpm": 65 },
+    { "label": "slow piano meditation", "minBpm": 65, "maxBpm": 75 },
+    { "label": "gentle piano", "minBpm": 75, "maxBpm": 85 }
+  ],
+
+  "instruments": [
+    "solo piano soft melodic",
+    "gentle piano arpeggios flowing",
+    "warm piano chords sustained",
+    "soft piano phrases intimate",
+    "piano melody gentle expressive",
+    "piano soft dynamics peaceful",
+    "warm piano solo contemplative",
+    "gentle piano notes sparse",
+    "soft piano harmonies warm",
+    "piano gentle touch tender",
+    "ambient piano reverb soft",
+    "piano solo intimate gentle"
+  ],
+
+  "useCases": [
+    "spa treatment room",
+    "meditation space",
+    "reading room",
+    "hotel lobby morning",
+    "wellness center",
+    "peaceful study"
+  ],
+
+  "atmospheres": [
+    "intimate piano recital",
+    "peaceful morning light",
+    "gentle contemplative space",
+    "soft ambient warmth",
+    "quiet reflective moment",
+    "serene solo performance",
+    "warm intimate setting",
+    "calm peaceful sanctuary"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no drums",
+    "no drum kit",
+    "no percussion",
+    "no beats",
+    "no bass",
+    "no other instruments",
+    "no orchestra",
+    "no strings",
+    "no synth",
+    "no saxophone",
+    "no jazz",
+    "no classical concerto",
+    "no rock",
+    "no EDM",
+    "no fast tempo",
+    "no loud dynamics",
+    "no sudden changes"
+  ]
+}

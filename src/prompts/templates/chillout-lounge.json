@@ -1,0 +1,105 @@
+{
+  "id": "chillout-lounge",
+  "name": "Chillout Lounge",
+  "description": "Cafe del Mar and Buddha Bar style downtempo chillout for luxury hotel bars and lobbies - Balearic sunset vibes, ethnic fusion, ambient electronica",
+  "type": "instrumental",
+
+  "genres": [
+    "downtempo chillout"
+  ],
+
+  "subGenres": [
+    "Cafe del Mar Balearic ambient",
+    "Buddha Bar ethnic electronica",
+    "downtempo ambient",
+    "Ibiza sunset chillout",
+    "Oriental ambient electronica",
+    "deep ambient chillout",
+    "world fusion electronica",
+    "ethnic downtempo",
+    "Balearic beat ambient",
+    "trip hop downtempo"
+  ],
+
+  "moods": [
+    "warm and atmospheric",
+    "dreamy and hypnotic",
+    "serene and contemplative",
+    "sensual and mysterious",
+    "relaxed and refined",
+    "exotic and enchanting",
+    "deep and immersive",
+    "ethereal and floating",
+    "tranquil and peaceful",
+    "ambient and spacious"
+  ],
+
+  "tempos": [
+    { "label": "deep ambient", "minBpm": 75, "maxBpm": 85 },
+    { "label": "chillout groove", "minBpm": 85, "maxBpm": 95 },
+    { "label": "Balearic downtempo", "minBpm": 90, "maxBpm": 100 }
+  ],
+
+  "instruments": [
+    "warm atmospheric synth pads",
+    "soft electronic beats",
+    "ethnic flute melody",
+    "acoustic guitar fingerpicked",
+    "deep sub bass",
+    "subtle electronic percussion",
+    "warm synth keys",
+    "ambient string pads",
+    "world percussion subtle",
+    "clean electric guitar ambient",
+    "soft piano chords",
+    "ethnic oud melody",
+    "gentle tabla rhythm",
+    "long reverb pads",
+    "sitar ambient texture",
+    "hang drum",
+    "kalimba gentle",
+    "marimba soft",
+    "ambient synth arpeggios"
+  ],
+
+  "useCases": [
+    "hotel lobby ambient",
+    "upscale bar background",
+    "boutique hotel reception",
+    "rooftop sunset session",
+    "spa ambient area",
+    "restaurant background",
+    "cocktail hour ambient",
+    "resort pool ambient"
+  ],
+
+  "atmospheres": [
+    "Ibiza sunset atmosphere",
+    "warm Mediterranean evening",
+    "exotic Oriental ambiance",
+    "dreamy Balearic coastline",
+    "intimate candlelit ambiance",
+    "luxury resort twilight",
+    "deep electronic space",
+    "ethnic fusion atmosphere"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no smooth jazz",
+    "no wind instruments",
+    "no brass",
+    "no trumpet",
+    "no clarinet",
+    "no harsh sounds",
+    "no heavy beats",
+    "no aggressive bass",
+    "no loud drums",
+    "no EDM drops",
+    "no distortion"
+  ]
+}

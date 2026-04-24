@@ -1,0 +1,80 @@
+{
+  "id": "indian-raga-spa",
+  "name": "indian-raga-spa",
+  "description": "Indian Ayurvedic raga-inspired spa \u2014 tanpura drone with solo bansuri flute, for Ayurvedic treatment rooms and Indian wellness centers",
+  "type": "instrumental",
+  "genres": [
+    "Indian Raga Spa"
+  ],
+  "subGenres": [
+    "indian raga ambient meditation tanpura drone sparse",
+    "ayurvedic healing music bansuri flute tanpura",
+    "indian classical ambient raga slow meditative",
+    "raga chikitsa healing ambient very sparse"
+  ],
+  "moods": [
+    "deeply meditative with ancient Indian calm",
+    "healing and spiritual with raga tranquility",
+    "serene and devotional very slow peaceful",
+    "meditative and timeless with drone resonance"
+  ],
+  "tempos": [
+    "ultra slow 40-50 BPM drone ambient",
+    "very slow 42-52 BPM raga style no beat",
+    "slow 45-52 BPM tanpura drone bansuri sparse"
+  ],
+  "instruments": [
+    "tanpura drone continuous sustained resonance",
+    "solo bansuri flute breathy slow phrases sparse",
+    "solo bansuri bamboo flute meditative gentle",
+    "tanpura sustained drone with bansuri melodic phrases",
+    "soft veena plucked sparse phrases gentle"
+  ],
+  "useCases": [
+    "ayurvedic treatment room",
+    "indian wellness center spa",
+    "yoga studio relaxation",
+    "ayurveda massage therapy"
+  ],
+  "atmospheres": [
+    "ayurvedic treatment room sacred healing",
+    "indian ashram meditation gentle dawn",
+    "raga healing ceremony ancient calm",
+    "sacred healing temple profound stillness"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no tabla",
+    "no percussion",
+    "no drums",
+    "no rhythm pattern",
+    "no fast tempo",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no synth",
+    "no electronic",
+    "no bass line",
+    "no orchestra",
+    "no saxophone",
+    "no busy arrangement",
+    "no sitar melody fast",
+    "no complex layers",
+    "no upbeat tempo",
+    "no lively",
+    "no energetic",
+    "no fast melodic runs",
+    "no virtuosic",
+    "no fast bansuri phrases",
+    "no beat",
+    "no pulse",
+    "no upbeat melody",
+    "no lively phrases",
+    "no allegro",
+    "no fast notes"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "chillout-soft-vocal",
+  "name": "Chillout Vocal Soft",
+  "description": "Cafe del Mar downtempo electronic with ethereal vocals, ambient lounge, not pop",
+  "type": "vocal",
+  "language": "English",
+
+  "genres": [
+    "chillout soft vocal"
+  ],
+
+  "subGenres": [
+    "Cafe del Mar downtempo vocal ambient",
+    "Balearic chillout vocal ethereal",
+    "ambient downtempo vocal lounge",
+    "deep chillout vocal atmospheric dreamy",
+    "trip hop vocal ambient slow",
+    "downtempo electronic vocal floating",
+    "ambient lounge vocal soft",
+    "Zero 7 style chillout vocal warm"
+  ],
+
+  "moods": [
+    "dreamy and floating",
+    "atmospheric and deep",
+    "hypnotic and warm",
+    "ethereal and immersive",
+    "serene and spacious",
+    "sensual and mysterious",
+    "ambient and contemplative",
+    "intimate and deep"
+  ],
+
+  "tempos": [
+    { "label": "very slow ambient", "minBpm": 65, "maxBpm": 78 },
+    { "label": "slow downtempo", "minBpm": 75, "maxBpm": 85 },
+    { "label": "gentle drift", "minBpm": 82, "maxBpm": 92 }
+  ],
+
+  "instruments": [
+    "warm ambient synth pad slow evolving",
+    "soft downtempo beat very subtle",
+    "deep sub bass warm gentle",
+    "ambient guitar reverb drenched",
+    "warm atmospheric strings pad",
+    "soft electronic texture subtle",
+    "ethnic ambient flute distant",
+    "hang drum gentle resonant",
+    "soft piano chords sparse reverb",
+    "ambient texture organic warm"
+  ],
+
+  "useCases": [
+    "luxury lounge evening ambient",
+    "boutique hotel sunset",
+    "spa lounge area",
+    "rooftop sunset session",
+    "resort evening ambiance",
+    "upscale bar twilight"
+  ],
+
+  "atmospheres": [
+    "Cafe del Mar sunset atmosphere",
+    "warm Balearic coastline dusk",
+    "floating in warm ambient space",
+    "deep lounge candlelit evening",
+    "Mediterranean twilight terrace",
+    "dreamy seaside ambient dusk",
+    "intimate ambient lounge",
+    "soft golden hour fading"
+  ],
+
+  "vocalStyles": [
+    "ethereal female vocal breathy floating ambient",
+    "deep male vocal warm low ambient lounge",
+    "airy female vocal whispered distant dreamy",
+    "smooth male vocal low baritone downtempo",
+    "angelic female vocal soft soprano atmospheric",
+    "deep male vocal bass calm hypnotic",
+    "breathy female vocal intimate alto warm ambient",
+    "falsetto male vocal gentle floating distant",
+    "crystal female vocal pure reverb drenched ambient",
+    "warm male vocal low tender downtempo",
+    "dreamy female vocal soft layered ethereal",
+    "gentle male vocal deep baritone atmospheric"
+  ],
+
+  "lyricThemes": [
+    "drifting through the sunset",
+    "ocean waves carry us away",
+    "breathing in the evening air",
+    "stars reflected in still water",
+    "floating through a dream",
+    "the warmth of this moment",
+    "clouds dissolving slowly",
+    "gentle light on the horizon",
+    "time slowing down around us",
+    "the silence between heartbeats",
+    "waves kissing the shore",
+    "wrapped in twilight warmth",
+    "a whisper carried on the breeze",
+    "melting into the evening",
+    "the space between the notes",
+    "carried by the current",
+    "peace in the present moment",
+    "fading into the horizon",
+    "the sound of distant waves",
+    "dissolving into warm light"
+  ],
+
+  "negativePrompts": [
+    "no pop vocals",
+    "no pop music",
+    "no electro pop",
+    "no catchy hooks",
+    "no upbeat",
+    "no bright",
+    "no energetic",
+    "no saxophone",
+    "no jazz",
+    "no smooth jazz",
+    "no brass",
+    "no wind instruments",
+    "no heavy beats",
+    "no loud drums",
+    "no EDM drops",
+    "no distortion",
+    "no aggressive",
+    "no fast tempo"
+  ]
+}

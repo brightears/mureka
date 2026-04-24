@@ -1,0 +1,121 @@
+{
+  "id": "chinese-rnb",
+  "name": "Chinese R&B",
+  "description": "Modern Chinese R&B with smooth production, soulful vocals, and contemporary beats",
+  "type": "vocal",
+  "language": "Chinese",
+
+  "genres": [
+    "chinese rnb"
+  ],
+
+  "subGenres": [
+    "chinese r&b smooth modern",
+    "mandarin r&b soulful",
+    "chinese urban r&b contemporary",
+    "chinese r&b slow jam",
+    "mandarin neo soul smooth",
+    "chinese r&b pop crossover",
+    "chinese r&b acoustic warm",
+    "modern mandarin soul groove"
+  ],
+
+  "moods": [
+    "smooth and sultry",
+    "warm and soulful",
+    "laid-back and groovy",
+    "intimate and sensual",
+    "cool and confident",
+    "romantic and tender",
+    "dreamy and atmospheric",
+    "deep and emotional"
+  ],
+
+  "tempos": [
+    { "label": "slow jam", "minBpm": 60, "maxBpm": 75 },
+    { "label": "mid-tempo groove", "minBpm": 78, "maxBpm": 95 },
+    { "label": "uptempo r&b", "minBpm": 98, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "warm electric piano chords smooth",
+    "modern r&b drum programming",
+    "deep bass groove round",
+    "soft synth pad atmospheric",
+    "clean guitar r&b licks",
+    "warm keys gentle chords",
+    "finger snaps and claps",
+    "lo-fi texture subtle",
+    "warm bass guitar smooth",
+    "light percussion shaker"
+  ],
+
+  "useCases": [
+    "late night playlist",
+    "urban lounge background",
+    "boutique hotel lobby",
+    "fashion brand music",
+    "date night atmosphere",
+    "modern bar ambiance"
+  ],
+
+  "atmospheres": [
+    "late night city skyline",
+    "neon-lit urban evening",
+    "intimate rooftop lounge",
+    "stylish downtown bar",
+    "midnight drive through city",
+    "soft rain on windows",
+    "dimly lit loft apartment",
+    "cool urban night scene"
+  ],
+
+  "vocalStyles": [
+    "smooth Chinese male vocal tenor silky",
+    "sultry Chinese female vocal alto warm",
+    "gentle Chinese male vocal falsetto breathy",
+    "soulful Chinese female vocal mezzo rich",
+    "cool Chinese male vocal laid-back smooth",
+    "intimate Chinese female vocal whispered soft",
+    "warm Chinese male vocal baritone deep",
+    "airy Chinese female vocal soprano light",
+    "groovy Chinese male vocal rhythmic confident",
+    "emotional Chinese female vocal powerful expressive",
+    "tender Chinese male vocal soft romantic",
+    "sweet Chinese female vocal gentle flowing"
+  ],
+
+  "lyricThemes": [
+    "late night conversations with you",
+    "the way you move in the light",
+    "falling deeper every moment",
+    "your perfume lingers in the air",
+    "slow dancing in our apartment",
+    "city lights reflect in your eyes",
+    "the vibe between us tonight",
+    "cannot stop thinking about you",
+    "whispered promises at midnight",
+    "your voice is my favorite song",
+    "lost in this feeling together",
+    "driving through the night with you",
+    "morning coffee side by side",
+    "the rhythm of your heartbeat",
+    "secret glances across the room",
+    "rainy Sunday wrapped in sheets",
+    "your laughter fills the silence",
+    "the space between hello and goodbye",
+    "counting stars from our balcony",
+    "chemistry that words cannot describe"
+  ],
+
+  "negativePrompts": [
+    "no harsh sounds",
+    "no rock",
+    "no heavy drums",
+    "no EDM",
+    "no saxophone",
+    "no jazz",
+    "no distortion",
+    "no country"
+  ]
+}

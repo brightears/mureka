@@ -1,0 +1,86 @@
+{
+  "id": "chinese-instrumental-chill",
+  "name": "Chinese Instrumental Chill",
+  "description": "Peaceful traditional Chinese instrumental music for restaurant background, meditation, and relaxation",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese traditional",
+    "oriental",
+    "asian ambient"
+  ],
+
+  "subGenres": [
+    "guzheng",
+    "erhu",
+    "pipa",
+    "bamboo flute",
+    "yangqin",
+    "xiao",
+    "chinese zither"
+  ],
+
+  "moods": [
+    "peaceful",
+    "serene",
+    "meditative",
+    "contemplative",
+    "gentle",
+    "flowing",
+    "tranquil",
+    "calm",
+    "soothing",
+    "relaxing"
+  ],
+
+  "tempos": [
+    { "label": "very slow", "minBpm": 50, "maxBpm": 60 },
+    { "label": "slow", "minBpm": 60, "maxBpm": 75 },
+    { "label": "gentle", "minBpm": 70, "maxBpm": 85 },
+    { "label": "moderate", "minBpm": 80, "maxBpm": 95 }
+  ],
+
+  "instruments": [
+    "guzheng",
+    "erhu",
+    "pipa",
+    "bamboo flute",
+    "yangqin",
+    "xiao",
+    "chinese bells",
+    "soft strings",
+    "chinese harp",
+    "wind chimes",
+    "soft percussion"
+  ],
+
+  "useCases": [
+    "restaurant background music",
+    "meditation music",
+    "relaxation",
+    "spa background",
+    "tea house ambiance",
+    "zen garden atmosphere",
+    "ambient background"
+  ],
+
+  "atmospheres": [
+    "flowing water sounds",
+    "mountain mist",
+    "bamboo forest",
+    "tea ceremony",
+    "ancient temple",
+    "moonlit garden",
+    "spring rain",
+    "autumn leaves",
+    "morning dew"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no modern instruments",
+    "no electronic sounds",
+    "no distortion"
+  ]
+}

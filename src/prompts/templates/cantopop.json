@@ -1,0 +1,120 @@
+{
+  "id": "cantopop",
+  "name": "Cantopop",
+  "description": "Hong Kong-style Cantonese pop music with melodic hooks and emotional delivery",
+  "type": "vocal",
+  "language": "Chinese",
+
+  "genres": [
+    "cantopop"
+  ],
+
+  "subGenres": [
+    "cantopop ballad emotional",
+    "cantopop dance pop upbeat",
+    "cantopop rock pop energetic",
+    "modern cantopop melodic",
+    "classic cantopop romantic",
+    "cantopop mid-tempo warm",
+    "cantopop acoustic intimate",
+    "contemporary cantopop fresh"
+  ],
+
+  "moods": [
+    "emotional and dramatic",
+    "romantic and longing",
+    "upbeat and catchy",
+    "nostalgic and warm",
+    "energetic and exciting",
+    "tender and sincere",
+    "bittersweet and touching",
+    "hopeful and bright"
+  ],
+
+  "tempos": [
+    { "label": "slow ballad", "minBpm": 65, "maxBpm": 78 },
+    { "label": "mid-tempo pop", "minBpm": 85, "maxBpm": 105 },
+    { "label": "upbeat dance", "minBpm": 110, "maxBpm": 128 }
+  ],
+
+  "instruments": [
+    "piano pop chords bright",
+    "electric guitar clean melodic",
+    "synth pad warm atmospheric",
+    "acoustic guitar strummed gentle",
+    "modern pop drums tight",
+    "bass guitar groove smooth",
+    "strings dramatic sweeping",
+    "synth arpeggios bright",
+    "warm piano ballad accompaniment",
+    "light electronic production modern"
+  ],
+
+  "useCases": [
+    "karaoke night",
+    "radio playlist",
+    "hong kong film soundtrack",
+    "shopping mall background",
+    "driving music",
+    "party playlist"
+  ],
+
+  "atmospheres": [
+    "neon-lit hong kong streets",
+    "victoria harbour night view",
+    "rainy city evening",
+    "rooftop party energy",
+    "nostalgic old hong kong",
+    "modern urban lifestyle",
+    "late night taxi ride",
+    "sunset over the harbour"
+  ],
+
+  "vocalStyles": [
+    "powerful Cantonese male vocal tenor dramatic",
+    "sweet Cantonese female vocal soprano melodic",
+    "smooth Cantonese male vocal baritone warm",
+    "emotional Cantonese female vocal mezzo expressive",
+    "energetic Cantonese male vocal bright high",
+    "gentle Cantonese female vocal soft intimate",
+    "raspy Cantonese male vocal deep soulful",
+    "clear Cantonese female vocal youthful fresh",
+    "passionate Cantonese male vocal strong resonant",
+    "airy Cantonese female vocal breathy romantic",
+    "bold Cantonese male vocal powerful dynamic",
+    "tender Cantonese female vocal warm gentle"
+  ],
+
+  "lyricThemes": [
+    "love story in the big city",
+    "chasing dreams in Hong Kong",
+    "memories of childhood streets",
+    "heartbreak under neon lights",
+    "dancing through the night",
+    "the one who got away",
+    "finding yourself in the crowd",
+    "summer love at the beach",
+    "letters to my younger self",
+    "the taste of home cooking",
+    "running in the rain together",
+    "midnight ferry crossing",
+    "old songs on the radio",
+    "courage to start again",
+    "streetlight confessions",
+    "our favorite rooftop view",
+    "leaving and coming back",
+    "the friend who understands",
+    "new beginnings in the city",
+    "fireworks over the harbour"
+  ],
+
+  "negativePrompts": [
+    "no harsh screaming",
+    "no heavy metal",
+    "no rap",
+    "no country",
+    "no saxophone",
+    "no jazz",
+    "no distortion"
+  ]
+}

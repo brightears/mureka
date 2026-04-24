@@ -1,0 +1,96 @@
+{
+  "id": "progressive-house",
+  "name": "Progressive House",
+  "description": "Melodic progressive house with warm synth pads, driving grooves, and uplifting arpeggiated sequences",
+  "type": "instrumental",
+
+  "genres": [
+    "progressive house"
+  ],
+
+  "subGenres": [
+    "progressive house melodic warm",
+    "progressive house atmospheric driving",
+    "melodic house uplifting smooth",
+    "progressive house deep emotional",
+    "melodic progressive warm layered",
+    "progressive house rolling hypnotic",
+    "progressive deep house atmospheric",
+    "melodic house modern refined"
+  ],
+
+  "moods": [
+    "driving and uplifting",
+    "warm and melodic",
+    "atmospheric and immersive",
+    "hypnotic and forward-moving",
+    "smooth and confident",
+    "deep and emotional",
+    "warm and expansive",
+    "refined and energetic"
+  ],
+
+  "tempos": [
+    { "label": "melodic house groove", "minBpm": 122, "maxBpm": 125 },
+    { "label": "progressive house", "minBpm": 124, "maxBpm": 127 },
+    { "label": "driving progressive", "minBpm": 126, "maxBpm": 128 }
+  ],
+
+  "instruments": [
+    "warm evolving synth pad filtered",
+    "plucked synth melody clean",
+    "soft arpeggiated synth sequence",
+    "four-on-the-floor kick punchy",
+    "crisp open hi-hats driving",
+    "soft clap on backbeat",
+    "warm sub bass rolling smooth",
+    "gentle synth chord stabs filtered",
+    "long reverb pad atmospheric wash",
+    "soft ride cymbal pattern",
+    "warm detuned lead synth gentle",
+    "subtle shaker groove organic"
+  ],
+
+  "useCases": [
+    "modern retail space",
+    "fitness studio session",
+    "fashion runway backdrop",
+    "corporate event",
+    "late night urban drive",
+    "rooftop sunset session"
+  ],
+
+  "atmospheres": [
+    "driving late night urban energy",
+    "warm uplifting sunset rooftop",
+    "modern polished club atmosphere",
+    "atmospheric melodic journey",
+    "refined underground warmth",
+    "expansive neon-lit cityscape",
+    "smooth confident groove",
+    "warm intimate progressive set"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no aggressive drops",
+    "no big room",
+    "no festival",
+    "no dubstep",
+    "no distortion",
+    "no harsh synths",
+    "no screaming synths",
+    "no snare rolls",
+    "no trap",
+    "no saxophone",
+    "no guitar",
+    "no rock",
+    "no jazz",
+    "no acoustic instruments",
+    "no cheap synths",
+    "no robotic drums",
+    "no trance",
+    "no heavy bass drops"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "italian-vocal-midtempo",
+  "name": "Italian Vocal Mid-Tempo",
+  "description": "Modern Italian pop with warm vocals, elegant production, and uplifting energy",
+  "type": "vocal",
+  "language": "Italian",
+
+  "genres": [
+    "italian pop"
+  ],
+
+  "subGenres": [
+    "italian pop modern warm",
+    "italian pop elegant upbeat",
+    "italian contemporary pop melodic",
+    "italian pop summer warm",
+    "modern italian pop refined",
+    "italian pop uplifting elegant",
+    "italian dance pop soft",
+    "italian pop radio friendly warm"
+  ],
+
+  "moods": [
+    "uplifting and warm",
+    "elegant and energetic",
+    "joyful and melodic",
+    "modern and sophisticated",
+    "sunny and positive",
+    "warm and danceable",
+    "refined and upbeat",
+    "feel-good and elegant"
+  ],
+
+  "tempos": [
+    { "label": "moderate italian pop", "minBpm": 95, "maxBpm": 105 },
+    { "label": "upbeat italian pop", "minBpm": 105, "maxBpm": 112 },
+    { "label": "energetic italian pop", "minBpm": 112, "maxBpm": 118 }
+  ],
+
+  "instruments": [
+    "warm piano chords melodic",
+    "soft acoustic guitar rhythmic",
+    "modern drums polished groove",
+    "warm bass groove smooth",
+    "light synth pad warm",
+    "acoustic guitar strummed upbeat",
+    "soft strings warm background",
+    "gentle percussion groove",
+    "warm electric piano chords",
+    "soft claps rhythmic accent",
+    "melodic piano hook warm",
+    "light tambourine groove"
+  ],
+
+  "useCases": [
+    "italian restaurant daytime",
+    "casual dining",
+    "retail store",
+    "summer cafe",
+    "hotel breakfast",
+    "italian fashion retail"
+  ],
+
+  "atmospheres": [
+    "sunny italian afternoon",
+    "modern milan energy",
+    "summer mediterranean vibe",
+    "elegant roman daytime",
+    "warm positive atmosphere",
+    "refined italian lifestyle",
+    "joyful italian spirit",
+    "contemporary italian elegance"
+  ],
+
+  "vocalStyles": [
+    "warm italian male vocals melodic modern",
+    "bright italian female vocals uplifting pop",
+    "smooth italian male vocals contemporary warm",
+    "energetic italian female vocals elegant catchy",
+    "modern italian male vocals warm radio",
+    "melodic italian female vocals sunny positive",
+    "confident italian male vocals smooth upbeat",
+    "warm italian female vocals modern refined",
+    "uplifting italian male vocals elegant pop",
+    "joyful italian female vocals warm melodic",
+    "contemporary italian male vocals bright smooth",
+    "positive italian female vocals warm energetic"
+  ],
+
+  "lyricThemes": [
+    "celebrating life and love",
+    "summer days by the sea",
+    "dancing through the night",
+    "feeling alive and free",
+    "the joy of being together",
+    "beautiful moments in life",
+    "sunshine and happiness",
+    "living in the moment",
+    "the rhythm of our hearts",
+    "dreams coming true",
+    "love and laughter",
+    "this beautiful life"
+  ],
+
+  "negativePrompts": [
+    "no aggressive",
+    "no rock",
+    "no heavy EDM",
+    "no harsh sounds",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no slow ballad",
+    "no sad",
+    "no melancholic",
+    "no distortion",
+    "no cheap synths"
+  ]
+}

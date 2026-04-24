@@ -1,0 +1,87 @@
+{
+  "id": "chinese-tea-house",
+  "name": "Chinese Tea House",
+  "description": "Elegant refined Chinese music for tea ceremonies, traditional restaurants, and cultural spaces",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese tea house"
+  ],
+
+  "subGenres": [
+    "chinese tea ceremony elegant",
+    "traditional chinese refined gentle",
+    "chinese classical light graceful",
+    "chinese chamber music intimate",
+    "chinese garden music peaceful",
+    "silk and bamboo ensemble soft",
+    "chinese literati music refined",
+    "traditional chinese court music gentle"
+  ],
+
+  "moods": [
+    "elegant and refined",
+    "peaceful and graceful",
+    "warm and inviting",
+    "gentle and cultured",
+    "serene and sophisticated",
+    "contemplative and calm",
+    "delicate and beautiful",
+    "harmonious and balanced"
+  ],
+
+  "tempos": [
+    { "label": "slow and gentle", "minBpm": 55, "maxBpm": 68 },
+    { "label": "graceful moderate", "minBpm": 68, "maxBpm": 82 },
+    { "label": "light flowing", "minBpm": 80, "maxBpm": 92 }
+  ],
+
+  "instruments": [
+    "guzheng gentle plucked melodic",
+    "pipa soft delicate phrases",
+    "erhu gentle melodic warm",
+    "dizi bamboo flute soft breathy",
+    "xiao vertical flute gentle calm",
+    "yangqin light shimmering",
+    "guqin ancient sparse plucked",
+    "soft chinese bells gentle",
+    "bamboo percussion light",
+    "silk string ensemble warm"
+  ],
+
+  "useCases": [
+    "chinese tea house background",
+    "traditional chinese restaurant",
+    "tea ceremony accompaniment",
+    "chinese cultural center",
+    "silk shop ambiance",
+    "chinese garden visit",
+    "calligraphy session",
+    "dim sum restaurant"
+  ],
+
+  "atmospheres": [
+    "elegant tea room warm wood",
+    "traditional courtyard afternoon",
+    "bamboo screen filtered sunlight",
+    "antique furniture quiet room",
+    "garden view through lattice window",
+    "porcelain cups and flowing tea",
+    "calligraphy brushes and ink stone",
+    "silk curtains gentle breeze"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no heavy percussion",
+    "no modern instruments",
+    "no electronic sounds",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no synths",
+    "no loud dynamics",
+    "no fast tempo"
+  ]
+}

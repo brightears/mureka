@@ -1,0 +1,91 @@
+{
+  "id": "italian-lounge",
+  "name": "Italian Lounge",
+  "description": "Sophisticated Italian lounge with bossa influences, nylon guitar, and aperitivo vibes",
+  "type": "instrumental",
+
+  "genres": [
+    "italian lounge"
+  ],
+
+  "subGenres": [
+    "italian lounge bossa warm",
+    "mediterranean lounge elegant smooth",
+    "aperitivo music relaxed sophisticated",
+    "italian bossa lounge warm",
+    "mediterranean chill elegant",
+    "italian sunset lounge warm",
+    "dolce vita lounge smooth",
+    "italian riviera lounge relaxed"
+  ],
+
+  "moods": [
+    "sophisticated and relaxed",
+    "warm and elegant",
+    "smooth and inviting",
+    "laid-back and refined",
+    "breezy and warm",
+    "sunset and mellow",
+    "chic and effortless",
+    "mediterranean and warm"
+  ],
+
+  "tempos": [
+    { "label": "slow italian lounge", "minBpm": 85, "maxBpm": 92 },
+    { "label": "aperitivo tempo", "minBpm": 92, "maxBpm": 100 },
+    { "label": "mid-tempo lounge", "minBpm": 100, "maxBpm": 105 }
+  ],
+
+  "instruments": [
+    "nylon guitar fingerpicked warm bossa",
+    "soft piano chords elegant",
+    "light percussion shaker subtle",
+    "warm bass groove smooth",
+    "gentle bossa rhythm guitar",
+    "soft brushed drums light",
+    "warm acoustic guitar melodic",
+    "light congas subtle groove",
+    "soft vibraphone accents warm",
+    "gentle piano melodic phrases",
+    "warm upright bass soft",
+    "light tambourine rhythm subtle"
+  ],
+
+  "useCases": [
+    "italian hotel lobby",
+    "rooftop aperitivo bar",
+    "mediterranean restaurant",
+    "sunset cocktail lounge",
+    "boutique hotel terrace",
+    "italian cafe afternoon"
+  ],
+
+  "atmospheres": [
+    "sunset aperitivo on terrace",
+    "italian riviera evening",
+    "sophisticated milan lounge",
+    "warm mediterranean sunset",
+    "elegant roman rooftop",
+    "dolce vita afternoon",
+    "amalfi coast sunset",
+    "refined italian elegance"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no saxophone",
+    "no sax",
+    "no jazz solo",
+    "no electric guitar",
+    "no synth",
+    "no electronic beats",
+    "no EDM",
+    "no rock",
+    "no fast tempo",
+    "no high energy",
+    "no aggressive",
+    "no loud",
+    "no cheap sounds"
+  ]
+}

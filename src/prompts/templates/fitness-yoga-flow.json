@@ -1,0 +1,82 @@
+{
+  "id": "fitness-yoga-flow",
+  "name": "Fitness Yoga Flow",
+  "description": "Vinyasa and power yoga music, ambient electronica and world fusion, breath-supportive 70-100 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness yoga flow"
+  ],
+
+  "subGenres": [
+    "ambient electronica gentle flowing",
+    "world fusion yoga atmospheric",
+    "lo-fi ambient organic gentle",
+    "downtempo organic world",
+    "ethnic ambient soft flowing",
+    "organic electronica breath pace",
+    "world ambient yoga gentle",
+    "minimal electronica soft organic"
+  ],
+
+  "moods": [
+    "flowing and expansive",
+    "grounding and centered",
+    "peaceful yet present",
+    "warm and opening",
+    "breath-like and steady",
+    "spiritual and calm",
+    "gentle and embodied",
+    "serene and focused"
+  ],
+
+  "tempos": [
+    { "label": "slow flow", "minBpm": 70, "maxBpm": 82 },
+    { "label": "moderate vinyasa", "minBpm": 82, "maxBpm": 92 },
+    { "label": "active flow", "minBpm": 90, "maxBpm": 100 }
+  ],
+
+  "instruments": [
+    "warm ambient pad evolving",
+    "soft tabla gentle pulse",
+    "ethnic flute breathy melodic",
+    "sitar drone soft texture",
+    "gentle acoustic guitar fingerpicked",
+    "singing bowl resonant",
+    "soft hand drum subtle",
+    "ambient synth wash warm",
+    "kalimba gentle melodic",
+    "tanpura drone subtle"
+  ],
+
+  "useCases": [
+    "vinyasa yoga class",
+    "power yoga session",
+    "hot yoga class",
+    "yoga studio flow",
+    "mindful movement class",
+    "breath and movement practice"
+  ],
+
+  "atmospheres": [
+    "warm yoga studio morning",
+    "open spacious movement",
+    "breath and flow connected",
+    "grounded present practice",
+    "expanding awareness space",
+    "gentle movement meditation"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no heavy beats",
+    "no EDM",
+    "no loud",
+    "no aggressive",
+    "no fast tempo",
+    "no distortion",
+    "no saxophone",
+    "no jazz"
+  ]
+}

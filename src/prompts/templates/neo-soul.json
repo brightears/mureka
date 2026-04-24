@@ -1,0 +1,97 @@
+{
+  "id": "neo-soul",
+  "name": "Neo Soul",
+  "description": "Chillhop neo soul with lo-fi beats, warm electric piano, and head-nodding hip-hop grooves",
+  "type": "instrumental",
+
+  "genres": [
+    "chillhop"
+  ],
+
+  "subGenres": [
+    "chillhop lo-fi soul warm beats",
+    "lo-fi hip-hop soul warm groove",
+    "chillhop boom bap soul deep",
+    "lo-fi beat tape soulful warm",
+    "chillhop vinyl warm head-nodding",
+    "lo-fi soul hip-hop groove deep",
+    "chillhop warm beats organic groove",
+    "lo-fi hip-hop soulful laid-back"
+  ],
+
+  "moods": [
+    "laid-back and head-nodding",
+    "warm and lo-fi",
+    "deep and groovy",
+    "chill and soulful",
+    "mellow and beat-driven",
+    "cool and effortless",
+    "warm and vinyl",
+    "relaxed and hip-hop"
+  ],
+
+  "tempos": [
+    { "label": "slow chillhop groove", "minBpm": 75, "maxBpm": 82 },
+    { "label": "classic chillhop beat", "minBpm": 82, "maxBpm": 88 },
+    { "label": "chillhop mid-tempo", "minBpm": 88, "maxBpm": 95 }
+  ],
+
+  "instruments": [
+    "lo-fi boom bap drum beat vinyl",
+    "warm electric piano chords soulful",
+    "deep bass groove round smooth",
+    "vinyl crackle lo-fi texture warm",
+    "real congas and hand percussion organic",
+    "real vibraphone soft melodic accents",
+    "gentle shaker organic groove",
+    "lo-fi drum loop chopped warm",
+    "warm keys soulful chords deep",
+    "soft bass pluck deep groove",
+    "real hand percussion subtle groove",
+    "tape saturated warm texture"
+  ],
+
+  "useCases": [
+    "boutique hotel lobby",
+    "coffee shop background",
+    "late night study session",
+    "rooftop sunset session",
+    "co-working space",
+    "urban lounge"
+  ],
+
+  "atmospheres": [
+    "lo-fi vinyl warm late night",
+    "chillhop beat tape atmosphere",
+    "warm head-nodding groove session",
+    "cozy lo-fi hip-hop warmth",
+    "deep laid-back beat atmosphere",
+    "warm analog tape feel",
+    "effortlessly cool beat session",
+    "late night lo-fi warmth"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no saxophone",
+    "no sax",
+    "no smooth jazz",
+    "no jazz",
+    "no jazz solo",
+    "no brass",
+    "no horn",
+    "no slap bass",
+    "no distortion",
+    "no harsh sounds",
+    "no EDM",
+    "no rock",
+    "no classical",
+    "no fast tempo",
+    "no high energy",
+    "no cheap synths",
+    "no robotic drums",
+    "no bright sounds",
+    "no pop"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "italian-traditional",
+  "name": "Italian Traditional",
+  "description": "Traditional Italian restaurant music with mandolin, accordion, and Mediterranean warmth",
+  "type": "instrumental",
+
+  "genres": [
+    "italian traditional"
+  ],
+
+  "subGenres": [
+    "italian folk warm melodic",
+    "neapolitan style romantic warm",
+    "mediterranean folk traditional",
+    "italian rustic warm acoustic",
+    "sicilian folk melodic warm",
+    "tuscan folk gentle romantic",
+    "italian acoustic traditional warm",
+    "southern italian folk melodic"
+  ],
+
+  "moods": [
+    "warm and nostalgic",
+    "romantic and melodic",
+    "rustic and inviting",
+    "mediterranean and warm",
+    "gentle and heartfelt",
+    "traditional and elegant",
+    "cozy and authentic",
+    "sunny and warm"
+  ],
+
+  "tempos": [
+    { "label": "slow italian ballad", "minBpm": 75, "maxBpm": 85 },
+    { "label": "traditional waltz tempo", "minBpm": 85, "maxBpm": 95 },
+    { "label": "mid-tempo folk", "minBpm": 95, "maxBpm": 100 }
+  ],
+
+  "instruments": [
+    "mandolin melodic warm tremolo",
+    "accordion soft warm chords",
+    "nylon guitar fingerpicked gentle",
+    "acoustic guitar strummed warm",
+    "light tambourine rhythm subtle",
+    "soft violin melodic phrases",
+    "warm bass pizzicato gentle",
+    "gentle hand claps rhythm",
+    "soft flute melodic accents",
+    "warm mandolin duet harmony",
+    "accordion melodic phrases warm",
+    "nylon guitar arpeggios gentle"
+  ],
+
+  "useCases": [
+    "italian trattoria",
+    "pizzeria restaurant",
+    "tuscan restaurant",
+    "family italian restaurant",
+    "mediterranean cafe",
+    "italian deli"
+  ],
+
+  "atmospheres": [
+    "warm tuscan evening",
+    "rustic italian trattoria",
+    "neapolitan street cafe",
+    "mediterranean village square",
+    "cozy family dinner",
+    "sunny italian afternoon",
+    "romantic italian courtyard",
+    "authentic italian warmth"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no electric instruments",
+    "no synth",
+    "no electronic",
+    "no EDM",
+    "no rock",
+    "no drums",
+    "no drum kit",
+    "no fast tempo",
+    "no tarantella",
+    "no aggressive",
+    "no loud"
+  ]
+}

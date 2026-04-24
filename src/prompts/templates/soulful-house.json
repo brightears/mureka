@@ -1,0 +1,85 @@
+{
+  "id": "soulful-house",
+  "name": "Soulful House",
+  "description": "Warm soulful house with jazz and gospel influences, Rhodes piano, live drums, and sophisticated grooves",
+  "type": "instrumental",
+
+  "genres": [
+    "soulful house"
+  ],
+
+  "subGenres": [
+    "deep soulful house",
+    "jazzy house",
+    "classic soulful house",
+    "warm house groove",
+    "sophisticated deep house",
+    "gospel house instrumental",
+    "vocal house instrumental"
+  ],
+
+  "moods": [
+    "warm and soulful",
+    "sophisticated and intimate",
+    "uplifting and smooth",
+    "deep and contemplative",
+    "groovy and relaxed",
+    "sensual and refined",
+    "hypnotic and driving",
+    "euphoric and uplifting"
+  ],
+
+  "tempos": [
+    { "label": "classic soulful groove", "minBpm": 122, "maxBpm": 125 },
+    { "label": "deep house tempo", "minBpm": 118, "maxBpm": 122 },
+    { "label": "uplifting house groove", "minBpm": 124, "maxBpm": 127 }
+  ],
+
+  "instruments": [
+    "warm Rhodes piano",
+    "electric piano chords",
+    "Hammond organ",
+    "smooth saxophone",
+    "upright bass groove",
+    "live brushed drums",
+    "lush synth pads",
+    "soft strings",
+    "jazzy piano stabs",
+    "muted trumpet",
+    "four on the floor kick",
+    "shuffled hi-hats"
+  ],
+
+  "useCases": [
+    "upscale lounge",
+    "cocktail bar",
+    "boutique hotel",
+    "sophisticated nightclub",
+    "rooftop bar",
+    "fashion event",
+    "late night listening"
+  ],
+
+  "atmospheres": [
+    "warm intimate atmosphere",
+    "late night sophistication",
+    "smooth professional production",
+    "club quality sound",
+    "live performance feel",
+    "natural organic groove"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no harsh sounds",
+    "no distortion",
+    "no aggressive elements",
+    "no cheap synths",
+    "no robotic drums",
+    "no harsh hi-hats",
+    "no tinny sounds",
+    "no clipping",
+    "no lo-fi quality",
+    "no saxophone"
+  ]
+}

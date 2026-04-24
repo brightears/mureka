@@ -1,0 +1,119 @@
+{
+  "id": "guofeng-vocal",
+  "name": "Guofeng Vocal (国风)",
+  "description": "Modern Chinese style vocal music with traditional instruments and contemporary production",
+  "type": "vocal",
+  "language": "Chinese",
+
+  "genres": [
+    "guofeng vocal"
+  ],
+
+  "subGenres": [
+    "chinese style modern vocal cinematic",
+    "traditional chinese epic vocal",
+    "wuxia soundtrack vocal dramatic",
+    "chinese fantasy vocal ethereal",
+    "ancient chinese romantic vocal",
+    "modern guofeng pop vocal",
+    "chinese drama vocal emotional",
+    "xianxia mystical vocal"
+  ],
+
+  "moods": [
+    "epic and majestic",
+    "ethereal and mystical",
+    "cinematic and dramatic",
+    "graceful and flowing",
+    "romantic and longing",
+    "heroic and powerful",
+    "tender and emotional",
+    "soaring and passionate"
+  ],
+
+  "tempos": [
+    { "label": "slow emotional", "minBpm": 60, "maxBpm": 78 },
+    { "label": "moderate graceful", "minBpm": 82, "maxBpm": 100 },
+    { "label": "epic driving", "minBpm": 105, "maxBpm": 130 }
+  ],
+
+  "instruments": [
+    "guzheng melodic flowing arpeggios",
+    "pipa fast plucked dramatic",
+    "erhu emotional soaring melody",
+    "dizi bamboo flute bright",
+    "xiao vertical flute breathy",
+    "yangqin hammered dulcimer",
+    "cinematic orchestral strings",
+    "taiko drums epic",
+    "modern atmospheric synth pad",
+    "chinese percussion"
+  ],
+
+  "useCases": [
+    "chinese drama theme song",
+    "wuxia film soundtrack",
+    "game opening theme",
+    "cultural performance",
+    "concert performance"
+  ],
+
+  "atmospheres": [
+    "ancient palace romance",
+    "misty mountain farewell",
+    "moonlit garden longing",
+    "battlefield heroic stand",
+    "cherry blossom rain falling",
+    "imperial court drama",
+    "floating between worlds",
+    "ancient temple prayer"
+  ],
+
+  "vocalStyles": [
+    "ethereal female Chinese vocal soprano clear",
+    "powerful male Chinese vocal tenor dramatic",
+    "gentle female Chinese vocal mezzo soft flowing",
+    "deep male Chinese vocal baritone commanding",
+    "bright female Chinese vocal high range soaring",
+    "warm male Chinese vocal smooth emotional",
+    "operatic female Chinese vocal dramatic powerful",
+    "tender male Chinese vocal gentle intimate",
+    "airy female Chinese vocal breathy mystical",
+    "bold male Chinese vocal heroic strong",
+    "sweet female Chinese vocal youthful bright",
+    "rich male Chinese vocal deep resonant"
+  ],
+
+  "lyricThemes": [
+    "ancient love across lifetimes",
+    "heroic journey through mountains",
+    "moonlit farewell at the bridge",
+    "wandering swordsman seeking peace",
+    "spring flowers and autumn moon",
+    "longing across thousand miles",
+    "ancient poem of devotion",
+    "dancing in the palace courtyard",
+    "rivers and mountains eternal",
+    "memories of the old capital",
+    "starlight over the ancient city",
+    "tears of the jade maiden",
+    "wind through bamboo forest",
+    "reunion after long separation",
+    "painting a beautiful landscape",
+    "the immortal love story",
+    "oath under the moonlight",
+    "dreams of the Tang dynasty",
+    "blossoms falling like snow",
+    "the warrior and the poet"
+  ],
+
+  "negativePrompts": [
+    "no harsh screaming",
+    "no rap",
+    "no EDM",
+    "no heavy metal",
+    "no saxophone",
+    "no western rock",
+    "no distortion"
+  ]
+}

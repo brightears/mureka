@@ -1,0 +1,129 @@
+{
+  "id": "soulful-house-vocal",
+  "name": "Soulful House Vocal",
+  "description": "Classic soulful house vocals in the style of Masters at Work, Frankie Knuckles, Kerri Chandler, Osunlade - gospel-influenced vocals, spiritual uplifting feel, warm Rhodes piano",
+  "type": "vocal",
+
+  "genres": [
+    "soulful house vocal"
+  ],
+
+  "subGenres": [
+    "gospel house",
+    "New York soulful house",
+    "Chicago vocal house",
+    "spiritual deep house",
+    "classic soulful house vocal",
+    "Nuyorican soul",
+    "deep vocal house"
+  ],
+
+  "moods": [
+    "spiritual and uplifting",
+    "gospel-inspired soulful",
+    "warm and emotional",
+    "transcendent and blissful",
+    "heartfelt and deep",
+    "joyful and liberating",
+    "intimate and powerful",
+    "soulful and healing"
+  ],
+
+  "tempos": [
+    { "label": "classic soulful groove", "minBpm": 120, "maxBpm": 124 },
+    { "label": "deep Chicago tempo", "minBpm": 118, "maxBpm": 122 },
+    { "label": "uplifting house groove", "minBpm": 122, "maxBpm": 126 }
+  ],
+
+  "instruments": [
+    "warm Fender Rhodes piano",
+    "gospel piano chords",
+    "Hammond organ",
+    "deep warm bass",
+    "organic live drums",
+    "soft string pads",
+    "Wurlitzer electric piano",
+    "warm synth pads",
+    "classic house kick drum",
+    "gentle congas"
+  ],
+
+  "useCases": [
+    "underground club",
+    "soulful house night",
+    "spiritual dance session",
+    "warehouse party",
+    "deep house set"
+  ],
+
+  "atmospheres": [
+    "spiritual uplifting vibe",
+    "gospel church warmth",
+    "classic NYC loft feel",
+    "intimate soulful energy",
+    "transcendent dancefloor moment",
+    "warm organic production"
+  ],
+
+  "vocalStyles": [
+    "gospel-trained female vocals spiritual uplifting",
+    "powerful soulful diva vocals heartfelt delivery",
+    "warm female vocals with gospel influence",
+    "emotional female vocals deep soulful",
+    "uplifting female vocals spiritual house",
+    "classic house diva vocals warm powerful",
+    "smooth male gospel vocals soulful deep",
+    "warm male R&B vocals spiritual feel",
+    "emotional male vocals gospel-influenced",
+    "deep soulful male vocals heartfelt",
+    "powerful male vocals uplifting spiritual",
+    "classic soul male vocals warm organic"
+  ],
+
+  "lyricThemes": [
+    "spiritual liberation and freedom",
+    "love lifting us higher",
+    "finding inner peace through music",
+    "together in unity and love",
+    "the healing power of music",
+    "rising above through faith",
+    "dancing in the spirit",
+    "love will find a way",
+    "set your spirit free",
+    "feeling the love inside",
+    "music is the answer",
+    "believe in yourself",
+    "never give up on love",
+    "let the music guide you",
+    "peace and harmony",
+    "joy in the morning",
+    "brighter days ahead",
+    "hold on to love",
+    "the light within",
+    "soul to soul connection",
+    "gratitude and grace",
+    "keep the faith",
+    "love conquers all",
+    "walking in the light",
+    "blessed and thankful",
+    "hope and healing",
+    "strength from within",
+    "love is the message",
+    "we are one",
+    "the journey home"
+  ],
+
+  "negativePrompts": [
+    "no harsh vocals",
+    "no screaming",
+    "no rap",
+    "no tropical house",
+    "no progressive house",
+    "no EDM style",
+    "no modern commercial house",
+    "no aggressive singing",
+    "no auto-tune heavy",
+    "no cheap synths",
+    "no saxophone"
+  ]
+}

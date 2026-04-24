@@ -1,0 +1,81 @@
+{
+  "id": "guofeng",
+  "name": "Guofeng (国风)",
+  "description": "Modern Chinese style music blending traditional instruments with contemporary cinematic production",
+  "type": "instrumental",
+
+  "genres": [
+    "guofeng"
+  ],
+
+  "subGenres": [
+    "chinese style modern cinematic",
+    "traditional chinese epic orchestral",
+    "wuxia soundtrack dramatic",
+    "chinese fantasy ethereal",
+    "ancient chinese palace elegant",
+    "modern guofeng fusion",
+    "chinese drama soundtrack emotional",
+    "xianxia mystical atmospheric"
+  ],
+
+  "moods": [
+    "epic and majestic",
+    "ethereal and mystical",
+    "cinematic and dramatic",
+    "graceful and flowing",
+    "heroic and powerful",
+    "romantic and dreamy",
+    "ancient and mysterious",
+    "soaring and emotional"
+  ],
+
+  "tempos": [
+    { "label": "slow flowing", "minBpm": 60, "maxBpm": 80 },
+    { "label": "moderate graceful", "minBpm": 85, "maxBpm": 105 },
+    { "label": "epic driving", "minBpm": 110, "maxBpm": 135 }
+  ],
+
+  "instruments": [
+    "guzheng melodic flowing arpeggios",
+    "pipa fast plucked dramatic",
+    "erhu emotional soaring melody",
+    "dizi bamboo flute bright soaring",
+    "xiao vertical flute breathy gentle",
+    "yangqin hammered dulcimer shimmering",
+    "cinematic orchestral strings",
+    "taiko drums epic powerful",
+    "modern atmospheric synth pad",
+    "chinese percussion ensemble"
+  ],
+
+  "useCases": [
+    "chinese drama soundtrack",
+    "wuxia film score",
+    "game soundtrack",
+    "cinematic trailer",
+    "cultural performance",
+    "fashion show"
+  ],
+
+  "atmospheres": [
+    "ancient palace courtyard",
+    "misty mountain peaks",
+    "cherry blossom garden",
+    "moonlit lake reflection",
+    "bamboo forest pathway",
+    "imperial court ceremony",
+    "floating clouds above peaks",
+    "ancient temple at dawn"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no western pop",
+    "no EDM drops",
+    "no jazz",
+    "no heavy metal",
+    "no saxophone",
+    "no guitar"
+  ]
+}

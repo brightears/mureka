@@ -1,0 +1,130 @@
+{
+  "id": "vietnamese-tet-vocal",
+  "name": "Vietnamese Tết Vocal (V-Pop Spring)",
+  "description": "Vietnamese Lunar New Year V-pop with vocals - celebratory spring songs and romantic ballads",
+  "type": "vocal",
+
+  "genres": [
+    "V-Pop Vietnamese"
+  ],
+
+  "subGenres": [
+    "Vietnamese pop dance",
+    "V-pop ballad",
+    "Vietnamese spring festival pop",
+    "Asian pop romantic",
+    "Vietnamese dance pop"
+  ],
+
+  "moods": [
+    "festive",
+    "joyful",
+    "upbeat",
+    "celebratory",
+    "romantic",
+    "cheerful",
+    "energetic",
+    "warm",
+    "happy",
+    "bright",
+    "catchy",
+    "sweet"
+  ],
+
+  "tempos": [
+    { "label": "upbeat dance pop", "minBpm": 120, "maxBpm": 140 },
+    { "label": "energetic celebration", "minBpm": 130, "maxBpm": 150 },
+    { "label": "romantic ballad", "minBpm": 75, "maxBpm": 95 },
+    { "label": "mid-tempo pop", "minBpm": 100, "maxBpm": 120 }
+  ],
+
+  "instruments": [
+    "synth pop",
+    "bright piano",
+    "acoustic guitar",
+    "electronic drums",
+    "pop bass",
+    "strings section",
+    "synthesizer",
+    "dance beat",
+    "light percussion"
+  ],
+
+  "useCases": [
+    "Tết celebration party",
+    "Vietnamese New Year playlist",
+    "spring festival event",
+    "karaoke",
+    "family gathering",
+    "festive shopping mall"
+  ],
+
+  "atmospheres": [
+    "modern pop production",
+    "catchy hook",
+    "bright melody",
+    "radio friendly",
+    "polished production",
+    "spring festival",
+    "celebration atmosphere"
+  ],
+
+  "vocalStyles": [
+    "sweet female V-pop vocal",
+    "energetic female singer",
+    "smooth male Vietnamese vocal",
+    "youthful pop vocal",
+    "romantic male voice",
+    "girl group harmony",
+    "cheerful female vocals",
+    "soft romantic male crooner",
+    "bright pop female voice",
+    "emotional ballad vocal",
+    "sweet duet harmony",
+    "upbeat dance vocal"
+  ],
+
+  "lyricThemes": [
+    "spring arriving brings new hope and joy",
+    "Tết festival family reunion celebration",
+    "new year wishes for happiness and prosperity",
+    "spring blossoms and new beginnings",
+    "coming home for lunar new year",
+    "love confession in springtime",
+    "missing you during Tết holiday",
+    "celebrating spring with loved ones",
+    "new year new love story",
+    "wishing you a happy new year",
+    "spring flowers blooming everywhere",
+    "festival of lights and fireworks",
+    "dancing and singing for new year",
+    "love growing stronger each day",
+    "sweet romance under spring moon",
+    "heartfelt confession of love",
+    "together forever my darling",
+    "you are my sunshine my love",
+    "dreaming of you every night",
+    "our love story just beginning",
+    "spring wind carries my love",
+    "lucky red envelope wishes",
+    "peach blossom spring festival",
+    "yellow apricot flower celebration",
+    "festive drums and firecrackers",
+    "children laughing new year joy",
+    "traditional feast family table",
+    "ancestors blessing new year",
+    "promising you my heart forever",
+    "dancing together spring night"
+  ],
+
+  "negativePrompts": [
+    "no heavy metal",
+    "no screaming",
+    "no rap",
+    "no hip hop",
+    "no rock distortion",
+    "no sad minor key",
+    "no slow depressing",
+    "no aggressive"
+  ]
+}

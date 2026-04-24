@@ -1,0 +1,87 @@
+{
+  "id": "bossa-lounge",
+  "name": "Bossa Nova Lounge",
+  "description": "Instrumental bossa nova with modern lounge feel, classic Brazilian elegance softened for hotel lobbies, cafes, and relaxed dining spaces",
+  "type": "instrumental",
+
+  "genres": [
+    "Bossa Nova Lounge"
+  ],
+
+  "subGenres": [
+    "bossa nova",
+    "Brazilian jazz",
+    "modern lounge bossa",
+    "chillout bossa",
+    "soft Latin jazz"
+  ],
+
+  "moods": [
+    "calm",
+    "welcoming",
+    "elegant",
+    "conversation-friendly",
+    "warm",
+    "relaxed",
+    "sophisticated",
+    "intimate",
+    "gentle",
+    "smooth",
+    "soft",
+    "refined"
+  ],
+
+  "tempos": [
+    { "label": "gentle bossa groove", "minBpm": 88, "maxBpm": 94 },
+    { "label": "relaxed bossa", "minBpm": 90, "maxBpm": 96 },
+    { "label": "light swaying pulse", "minBpm": 94, "maxBpm": 100 }
+  ],
+
+  "instruments": [
+    "nylon string guitar",
+    "warm nylon-string acoustic guitar",
+    "upright bass with rounded woody tone",
+    "upright bass",
+    "brushed drums with airy cymbals",
+    "soft brushed drums",
+    "electric piano",
+    "mellow electric piano",
+    "Rhodes piano",
+    "soft percussion"
+  ],
+
+  "useCases": [
+    "hotel lobby ambiance",
+    "cafe background music",
+    "relaxed dining atmosphere",
+    "boutique hotel reception",
+    "upscale restaurant background",
+    "wine bar music",
+    "afternoon tea service",
+    "cocktail lounge"
+  ],
+
+  "atmospheres": [
+    "intimate atmosphere",
+    "60s elegance",
+    "classic Brazilian warmth",
+    "natural room ambience",
+    "soft stereo width",
+    "smooth polished warmth",
+    "uncluttered production",
+    "gentle syncopated rhythm",
+    "light swaying pulse"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no lead vocal",
+    "instrumental only",
+    "no singing",
+    "no harsh sounds",
+    "no distortion",
+    "no heavy drums",
+    "no electronic beats",
+    "no synths"
+  ]
+}

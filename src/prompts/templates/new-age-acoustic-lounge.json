@@ -1,0 +1,95 @@
+{
+  "id": "new-age-acoustic-lounge",
+  "name": "New Age Acoustic Lounge",
+  "description": "Minimal acoustic new age with solo piano or solo guitar only, sparse and gentle",
+  "type": "instrumental",
+
+  "genres": [
+    "new age acoustic"
+  ],
+
+  "subGenres": [
+    "minimal acoustic new age solo piano sparse",
+    "minimal acoustic new age solo guitar sparse",
+    "new age solo piano very minimal gentle",
+    "new age solo acoustic guitar sparse warm",
+    "acoustic new age minimal one instrument only",
+    "sparse acoustic new age piano solo gentle",
+    "minimal new age fingerpicked guitar solo",
+    "very sparse acoustic new age single instrument"
+  ],
+
+  "moods": [
+    "very sparse and minimal",
+    "gentle and intimate solo",
+    "peaceful and quiet",
+    "soft and natural sparse",
+    "calm and understated",
+    "serene and minimal",
+    "tender and quiet",
+    "simple and peaceful"
+  ],
+
+  "tempos": [
+    { "label": "very slow minimal acoustic", "minBpm": 55, "maxBpm": 65 },
+    { "label": "slow sparse acoustic", "minBpm": 65, "maxBpm": 75 },
+    { "label": "gentle minimal acoustic", "minBpm": 75, "maxBpm": 85 }
+  ],
+
+  "instruments": [
+    "solo piano soft gentle sparse phrases",
+    "solo acoustic guitar fingerpicked minimal",
+    "solo nylon guitar soft sparse arpeggios",
+    "solo piano melodic very minimal",
+    "solo fingerstyle guitar warm sparse",
+    "single piano gentle phrases only",
+    "single acoustic guitar soft notes",
+    "solo piano intimate sparse melody"
+  ],
+
+  "useCases": [
+    "boutique hotel lobby",
+    "spa reception quiet",
+    "wellness retreat",
+    "peaceful reading room",
+    "meditation space",
+    "quiet relaxation"
+  ],
+
+  "atmospheres": [
+    "very sparse single instrument only",
+    "minimal acoustic intimacy quiet",
+    "peaceful solo performance gentle",
+    "soft single layer arrangement",
+    "quiet intimate recital space",
+    "serene minimal atmosphere",
+    "calm understated ambiance",
+    "gentle solo acoustic warmth"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no drums",
+    "no drum kit",
+    "no percussion",
+    "no beats",
+    "no electronic",
+    "no synth",
+    "no synth pads",
+    "no strings",
+    "no orchestra",
+    "no orchestral",
+    "no ensemble",
+    "no flute",
+    "no harp",
+    "no cello",
+    "no violin",
+    "no bass",
+    "no saxophone",
+    "no jazz",
+    "no busy arrangement",
+    "no complex layers",
+    "no multiple instruments"
+  ]
+}

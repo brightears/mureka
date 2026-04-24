@@ -1,0 +1,123 @@
+{
+  "id": "french-cafe-vocal",
+  "name": "French Cafe Vocal",
+  "description": "Romantic French cafe music with vocals, chanson-inspired, Parisian charm and warmth",
+  "type": "vocal",
+  "language": "French",
+
+  "genres": [
+    "french cafe vocal"
+  ],
+
+  "subGenres": [
+    "french chanson cafe romantic",
+    "french acoustic pop soft gentle",
+    "parisian cafe vocal warm",
+    "french bossa cafe light",
+    "modern french pop acoustic intimate",
+    "french jazz vocal soft",
+    "french folk pop gentle warm",
+    "nouvelle chanson modern romantic"
+  ],
+
+  "moods": [
+    "romantic and charming",
+    "warm and intimate",
+    "sophisticated and gentle",
+    "dreamy and nostalgic",
+    "elegant and soft",
+    "tender and poetic",
+    "light and breezy",
+    "quietly passionate"
+  ],
+
+  "tempos": [
+    { "label": "slow romantic", "minBpm": 65, "maxBpm": 80 },
+    { "label": "gentle moderate", "minBpm": 82, "maxBpm": 98 },
+    { "label": "light flowing", "minBpm": 98, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "nylon guitar fingerpicked gentle",
+    "soft accordion musette warm",
+    "warm piano chords intimate",
+    "acoustic guitar strummed light",
+    "soft brushed drums delicate",
+    "upright bass warm pizzicato",
+    "gentle piano melody simple",
+    "light glockenspiel accents",
+    "warm acoustic guitar arpeggios",
+    "soft strings background minimal"
+  ],
+
+  "useCases": [
+    "cafe pausa ambiance",
+    "french cafe setting",
+    "parisian bistro background",
+    "patisserie ambiance",
+    "boutique hotel breakfast",
+    "wine bar romantic evening"
+  ],
+
+  "atmospheres": [
+    "charming parisian cafe morning",
+    "romantic bistro candlelight",
+    "cobblestone street cafe terrace",
+    "soft rain on paris rooftops",
+    "warm boulangerie morning light",
+    "seine river cafe evening",
+    "montmartre afternoon charm",
+    "gentle autumn cafe paris"
+  ],
+
+  "vocalStyles": [
+    "warm French male vocal tender chanson",
+    "soft French female vocal breathy intimate",
+    "romantic French male vocal baritone smooth",
+    "sweet French female vocal soprano clear",
+    "gentle French male vocal crooner warm",
+    "dreamy French female vocal mezzo flowing",
+    "intimate French male vocal soft poetic",
+    "airy French female vocal light delicate",
+    "expressive French male vocal emotional deep",
+    "charming French female vocal alto warm",
+    "tender French male vocal gentle romantic",
+    "bright French female vocal youthful fresh"
+  ],
+
+  "lyricThemes": [
+    "morning in Paris with you",
+    "coffee and croissants together",
+    "walking along the Seine",
+    "the charm of rainy afternoons",
+    "your eyes like the city lights",
+    "love letters from Montmartre",
+    "autumn leaves in the park",
+    "a kiss under the streetlamp",
+    "the melody of your laughter",
+    "dancing in the living room",
+    "spring flowers on the balcony",
+    "the beauty of doing nothing",
+    "our favorite little cafe",
+    "sunset over the rooftops",
+    "whispered je t'aime at night",
+    "lazy Sunday by the window",
+    "the scent of fresh bread morning",
+    "your hand in mine always",
+    "memories painted in watercolor",
+    "a glass of wine and your smile"
+  ],
+
+  "negativePrompts": [
+    "no harsh sounds",
+    "no heavy metal",
+    "no EDM",
+    "no rap",
+    "no screaming",
+    "no saxophone",
+    "no electronic beats",
+    "no distortion",
+    "no aggressive",
+    "no loud drums"
+  ]
+}

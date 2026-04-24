@@ -1,0 +1,80 @@
+{
+  "id": "fitness-spinning-sprint",
+  "name": "Fitness Spinning Sprint",
+  "description": "Fast cycling sprint music, driving EDM and drum & bass, 150-175 BPM for high cadence rides",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness spinning sprint"
+  ],
+
+  "subGenres": [
+    "fast EDM driving sprint",
+    "drum and bass energetic rolling",
+    "hard house fast driving",
+    "trance energetic uplifting fast",
+    "fast electronic dance relentless",
+    "hard techno driving fast",
+    "breakbeat fast energetic",
+    "high tempo house driving"
+  ],
+
+  "moods": [
+    "fast and relentless",
+    "driving and unstoppable",
+    "energetic and exhilarating",
+    "powerful and surging",
+    "thrilling and intense",
+    "racing and explosive",
+    "euphoric and driven",
+    "adrenaline and speed"
+  ],
+
+  "tempos": [
+    { "label": "fast sprint", "minBpm": 150, "maxBpm": 162 },
+    { "label": "maximum cadence", "minBpm": 162, "maxBpm": 175 },
+    { "label": "high speed", "minBpm": 155, "maxBpm": 170 }
+  ],
+
+  "instruments": [
+    "driving bass line fast rolling",
+    "rapid hi-hats crisp tight",
+    "punchy kick drum four on floor",
+    "bright synth lead soaring",
+    "rolling breakbeat drums fast",
+    "euphoric synth chords uplifting",
+    "deep sub bass driving",
+    "snare rolls building tension",
+    "arpeggiated synth rapid",
+    "cymbal crashes explosive"
+  ],
+
+  "useCases": [
+    "spinning sprint intervals",
+    "cycling high cadence ride",
+    "indoor cycling sprint phase",
+    "cardio peak effort",
+    "running sprint playlist",
+    "high speed cycling"
+  ],
+
+  "atmospheres": [
+    "sprint finish energy",
+    "all out effort cycling",
+    "racing toward the finish",
+    "legs burning keep pushing",
+    "euphoric sprint climax",
+    "velocity and power"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no chill",
+    "no ambient",
+    "no acoustic",
+    "no jazz",
+    "no soft",
+    "no ballad"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "lounge-jazz-vocal",
+  "name": "Lounge Jazz Vocal",
+  "description": "Classic lounge jazz with vocals for evening listening, sophisticated and romantic",
+  "type": "vocal",
+
+  "genres": [
+    "lounge jazz vocal"
+  ],
+
+  "subGenres": [
+    "cool jazz",
+    "piano trio",
+    "swing",
+    "jazz ballad",
+    "bossa nova"
+  ],
+
+  "moods": [
+    "sophisticated",
+    "elegant",
+    "understated",
+    "smooth",
+    "mellow",
+    "intimate",
+    "refined",
+    "classy",
+    "warm",
+    "relaxed"
+  ],
+
+  "tempos": [
+    { "label": "slow swing", "minBpm": 82, "maxBpm": 96 },
+    { "label": "relaxed", "minBpm": 90, "maxBpm": 102 },
+    { "label": "moderate swing", "minBpm": 96, "maxBpm": 108 }
+  ],
+
+  "instruments": [
+    "piano",
+    "clean jazz guitar",
+    "upright bass",
+    "brushed drums",
+    "soft brushes",
+    "double bass",
+    "rhodes piano",
+    "vibraphone",
+    "acoustic bass"
+  ],
+
+  "useCases": [
+    "lounge ambiance",
+    "cocktail bar",
+    "hotel lobby",
+    "wine bar atmosphere",
+    "evening reception",
+    "fine dining"
+  ],
+
+  "atmospheres": [
+    "dimly lit lounge",
+    "intimate club",
+    "late night",
+    "candlelit room",
+    "velvet curtains",
+    "soft leather",
+    "evening elegance",
+    "quiet sophistication"
+  ],
+
+  "vocalStyles": [
+    "sultry female vocals",
+    "deep smooth male voice",
+    "jazz standards style",
+    "sophisticated crooning",
+    "breathy intimate singing",
+    "classic torch song delivery",
+    "elegant vocal phrasing",
+    "velvety smooth vocals",
+    "romantic jazz vocals",
+    "late night vocal style",
+    "refined female voice",
+    "debonair male crooner"
+  ],
+
+  "lyricThemes": [
+    "late night romance",
+    "sophisticated evening",
+    "city lights and jazz",
+    "martini moments",
+    "timeless love",
+    "velvet nights",
+    "elegant conversations",
+    "moonlit memories",
+    "champagne dreams",
+    "candlelit confessions",
+    "dancing in the dark",
+    "midnight rendezvous",
+    "secrets whispered softly",
+    "love letters unread",
+    "old Hollywood glamour",
+    "penthouse views",
+    "silk and starlight",
+    "roses after midnight",
+    "stolen glances",
+    "the one that got away",
+    "sophisticated heartbreak",
+    "evening gown elegance",
+    "jazz club memories",
+    "gentle seduction",
+    "moonlight serenade",
+    "classic romance",
+    "city skyline dreams",
+    "tender goodbyes",
+    "enchanted evenings",
+    "love at first sight"
+  ],
+
+  "negativePrompts": [
+    "no harsh vocals",
+    "no screaming",
+    "no rap",
+    "no synths",
+    "no electronic sounds",
+    "no distortion",
+    "no heavy drums",
+    "no aggressive singing"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "oktoberfest-traditional",
+  "name": "Oktoberfest Traditional Instrumental",
+  "description": "Classic Bavarian beer hall instrumental, accordion and brass, oom-pah style for German restaurants and beer gardens",
+  "type": "instrumental",
+
+  "genres": [
+    "oktoberfest traditional"
+  ],
+
+  "subGenres": [
+    "bavarian beer hall oom-pah classic",
+    "german folk polka traditional warm",
+    "alpine folk music accordion waltz",
+    "bavarian brass band festive",
+    "german beer garden traditional cheerful",
+    "tyrolean folk music warm lively",
+    "bavarian waltz elegant traditional",
+    "german volksmusik festive warm"
+  ],
+
+  "moods": [
+    "festive and cheerful",
+    "warm and convivial",
+    "lively and jolly",
+    "traditional and hearty",
+    "merry and welcoming",
+    "rustic and charming",
+    "celebratory and fun",
+    "cozy and gemütlich"
+  ],
+
+  "tempos": [
+    { "label": "waltz moderate", "minBpm": 80, "maxBpm": 100 },
+    { "label": "polka lively", "minBpm": 105, "maxBpm": 125 },
+    { "label": "festive upbeat", "minBpm": 120, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "accordion bavarian warm melodic",
+    "brass ensemble festive bright",
+    "tuba oom-pah bass rhythm",
+    "clarinet bavarian melodic warm",
+    "alphorn deep resonant",
+    "zither alpine gentle plucked",
+    "trumpet festive bright",
+    "trombone warm bass",
+    "live drums polka rhythm",
+    "cowbell alpine gentle"
+  ],
+
+  "useCases": [
+    "german restaurant background",
+    "beer garden ambiance",
+    "oktoberfest event",
+    "german pub atmosphere",
+    "bavarian themed venue",
+    "beer hall dining"
+  ],
+
+  "atmospheres": [
+    "warm bavarian beer hall",
+    "outdoor beer garden sunny",
+    "festive oktoberfest tent",
+    "cozy alpine lodge",
+    "cheerful german pub evening",
+    "rustic bavarian dining room",
+    "lively beer festival",
+    "warm mountain inn"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no synth",
+    "no electronic",
+    "no EDM",
+    "no distortion",
+    "no saxophone",
+    "no jazz",
+    "no rock",
+    "no dark",
+    "no sad"
+  ]
+}

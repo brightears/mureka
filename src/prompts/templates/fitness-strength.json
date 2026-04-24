@@ -1,0 +1,80 @@
+{
+  "id": "fitness-strength",
+  "name": "Fitness Strength Drive",
+  "description": "Strength training and circuit music, motivational beats and house grooves, 120-140 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness strength"
+  ],
+
+  "subGenres": [
+    "motivational house groovy driving",
+    "amapiano workout warm groove",
+    "hip hop instrumental workout beat",
+    "tech house energetic groovy",
+    "afro house workout percussive",
+    "bass house heavy groove",
+    "electronic workout motivational",
+    "urban workout beat driving"
+  ],
+
+  "moods": [
+    "motivating and strong",
+    "confident and powerful",
+    "groovy and determined",
+    "bold and focused",
+    "empowering and driving",
+    "steady and unstoppable",
+    "gritty and purposeful",
+    "commanding and controlled"
+  ],
+
+  "tempos": [
+    { "label": "controlled power", "minBpm": 120, "maxBpm": 130 },
+    { "label": "driving strength", "minBpm": 128, "maxBpm": 136 },
+    { "label": "circuit energy", "minBpm": 134, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "deep bass groove heavy",
+    "punchy kick drum solid",
+    "log drum amapiano warm",
+    "hip hop drum pattern tight",
+    "warm synth pad motivational",
+    "sharp snare crisp",
+    "deep sub bass powerful",
+    "percussive layers groovy",
+    "dark synth chords driving",
+    "rhythmic clap pattern"
+  ],
+
+  "useCases": [
+    "strength training session",
+    "circuit training",
+    "functional fitness class",
+    "weight room playlist",
+    "F45 style workout",
+    "BODYPUMP style class"
+  ],
+
+  "atmospheres": [
+    "focused weight room energy",
+    "group strength class motivation",
+    "iron pumping determination",
+    "controlled power output",
+    "gym floor confidence",
+    "rep by rep focus"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no soft",
+    "no ambient",
+    "no acoustic",
+    "no jazz",
+    "no classical",
+    "no ballad",
+    "no chill"
+  ]
+}

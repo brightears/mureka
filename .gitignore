@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.mcp.json
+
+# Output files (large, generated)
+output/tracks/
+output/metadata/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database / Data
+*.db
+*.sqlite
+data/
+
+# Temporary files
+*.tmp
+*.temp

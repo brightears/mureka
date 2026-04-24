@@ -1,0 +1,94 @@
+{
+  "id": "indian-lounge",
+  "name": "Indian Lounge",
+  "description": "Indian lounge instrumental with sitar, tabla, bansuri for fine dining Indian restaurants and hotels",
+  "type": "instrumental",
+
+  "genres": [
+    "indian lounge"
+  ],
+
+  "subGenres": [
+    "hindustani classical soft gentle minimal",
+    "indian traditional acoustic sitar gentle",
+    "raga soft melodic minimal acoustic",
+    "indian classical light dinner music",
+    "sitar tabla duo gentle refined",
+    "bansuri solo soft flowing melodic",
+    "indian chamber music intimate gentle",
+    "hindustani light classical soft acoustic"
+  ],
+
+  "moods": [
+    "refined and gentle",
+    "warm and melodic",
+    "elegant and intimate",
+    "graceful and unhurried",
+    "pleasant and inviting",
+    "delicate and flowing",
+    "sophisticated and warm",
+    "soft and cultured"
+  ],
+
+  "tempos": [
+    { "label": "slow gentle", "minBpm": 60, "maxBpm": 76 },
+    { "label": "moderate graceful", "minBpm": 76, "maxBpm": 92 },
+    { "label": "light flowing", "minBpm": 90, "maxBpm": 105 }
+  ],
+
+  "instruments": [
+    "solo sitar soft melodic gentle phrases",
+    "tabla soft gentle rhythmic light",
+    "tanpura drone warm subtle background",
+    "solo bansuri flute soft breathy melodic",
+    "santoor gentle shimmering acoustic",
+    "sarangi bowed warm soft melodic",
+    "sitar and tabla duo gentle acoustic",
+    "solo sarod deep warm plucked gentle"
+  ],
+
+  "useCases": [
+    "fine dining indian restaurant",
+    "upscale indian restaurant",
+    "indian banquet hall",
+    "luxury indian hotel dining",
+    "private dining indian",
+    "indian wedding dinner"
+  ],
+
+  "atmospheres": [
+    "elegant indian dining room warm",
+    "refined restaurant candlelight",
+    "sophisticated indian evening dinner",
+    "warm intimate dining setting",
+    "tasteful traditional indian interior",
+    "gentle conversation friendly background",
+    "pleasant dinner atmosphere",
+    "warm golden evening dining"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no synth",
+    "no synthesizer",
+    "no electronic",
+    "no ambient pad",
+    "no drone pad",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no strings orchestra",
+    "no western instruments",
+    "no saxophone",
+    "no jazz",
+    "no loud dynamics",
+    "no aggressive",
+    "no arabian",
+    "no oud",
+    "no middle eastern"
+  ]
+}

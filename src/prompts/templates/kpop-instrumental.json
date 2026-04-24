@@ -1,0 +1,80 @@
+{
+  "id": "kpop-instrumental",
+  "name": "K-Pop Instrumental",
+  "description": "Catchy upbeat K-pop instrumentals for retail spaces, energetic and modern",
+  "type": "instrumental",
+
+  "genres": [
+    "kpop instrumental"
+  ],
+
+  "subGenres": [
+    "kpop dance pop instrumental catchy",
+    "kpop upbeat energetic bright",
+    "kpop future bass melodic",
+    "kpop synth pop modern bright",
+    "kpop tropical pop fresh",
+    "kpop edm pop hybrid catchy",
+    "kpop retro synth pop funky",
+    "kpop power pop driving melodic"
+  ],
+
+  "moods": [
+    "upbeat and catchy",
+    "energetic and bright",
+    "fun and playful",
+    "fresh and modern",
+    "confident and bold",
+    "cheerful and positive",
+    "exciting and dynamic",
+    "trendy and cool"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo pop", "minBpm": 100, "maxBpm": 115 },
+    { "label": "upbeat dance", "minBpm": 118, "maxBpm": 128 },
+    { "label": "high energy", "minBpm": 128, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "bright synth lead catchy melody",
+    "punchy pop drums tight",
+    "synth bass deep groovy",
+    "plucked synth hooks bright",
+    "modern pop production polished",
+    "crisp hi-hats and claps",
+    "warm synth chords layered",
+    "bright piano pop riff",
+    "funky guitar stabs clean",
+    "arpeggiated synth sparkling"
+  ],
+
+  "useCases": [
+    "retail store background",
+    "bubble tea shop energy",
+    "fashion retail floor",
+    "shopping mall ambiance",
+    "youth-oriented retail",
+    "cosmetics store vibe"
+  ],
+
+  "atmospheres": [
+    "bright modern retail energy",
+    "trendy shopping district",
+    "colorful pop aesthetic",
+    "youthful vibrant space",
+    "sleek modern storefront",
+    "dynamic retail floor"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no jazz",
+    "no classical"
+  ]
+}

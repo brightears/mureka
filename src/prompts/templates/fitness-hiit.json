@@ -1,0 +1,80 @@
+{
+  "id": "fitness-hiit",
+  "name": "Fitness HIIT Cardio",
+  "description": "High intensity interval training music, aggressive EDM and trap, relentless energy 140-170 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness hiit"
+  ],
+
+  "subGenres": [
+    "hard EDM aggressive driving",
+    "trap workout heavy bass drops",
+    "high energy electronic intense",
+    "bass music powerful relentless",
+    "hard dance EDM explosive",
+    "electronic workout aggressive build drops",
+    "dubstep hybrid heavy hitting",
+    "hard trap fitness intense"
+  ],
+
+  "moods": [
+    "intense and relentless",
+    "aggressive and powerful",
+    "explosive and driving",
+    "fierce and unstoppable",
+    "raw and energetic",
+    "pumping and furious",
+    "dominant and strong",
+    "maximum intensity"
+  ],
+
+  "tempos": [
+    { "label": "high intensity", "minBpm": 140, "maxBpm": 155 },
+    { "label": "maximum effort", "minBpm": 155, "maxBpm": 170 },
+    { "label": "peak power", "minBpm": 145, "maxBpm": 165 }
+  ],
+
+  "instruments": [
+    "heavy bass drop massive",
+    "distorted synth lead aggressive",
+    "punchy electronic drums hard hitting",
+    "sub bass deep powerful",
+    "sharp synth stabs intense",
+    "driving four on the floor kick",
+    "aggressive buildup riser",
+    "hard hitting snare clap",
+    "dark synth bass growling",
+    "electronic percussion rapid fire"
+  ],
+
+  "useCases": [
+    "HIIT class peak intervals",
+    "tabata workout",
+    "bootcamp high intensity phase",
+    "sprint intervals",
+    "circuit training maximum effort",
+    "CrossFit WOD"
+  ],
+
+  "atmospheres": [
+    "maximum effort gym floor",
+    "intense group fitness energy",
+    "adrenaline fueled workout",
+    "peak performance zone",
+    "fierce competition energy",
+    "no holding back intensity"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no chill",
+    "no ambient",
+    "no acoustic",
+    "no jazz",
+    "no classical",
+    "no soft"
+  ]
+}

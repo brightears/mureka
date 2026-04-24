@@ -1,0 +1,134 @@
+{
+  "id": "chillout-mid-vocal",
+  "name": "Chillout Vocal Mid",
+  "description": "Chill vocal house with French indie electronic feel, Morcheeba and Thievery Corporation style, not pop",
+  "type": "vocal",
+  "language": "English",
+
+  "genres": [
+    "chillout mid vocal"
+  ],
+
+  "subGenres": [
+    "chill vocal house indie electronic",
+    "French indie electronic vocal downtempo",
+    "Morcheeba style trip hop vocal",
+    "deep chill house vocal smooth",
+    "downtempo electronic vocal groovy warm",
+    "indie chillout vocal atmospheric house",
+    "Thievery Corporation style vocal lounge",
+    "deep downtempo vocal house warm"
+  ],
+
+  "moods": [
+    "cool and indie",
+    "sultry and groovy",
+    "deep and atmospheric",
+    "smooth and hypnotic",
+    "sophisticated and warm",
+    "mysterious and cool",
+    "laid-back and deep",
+    "intimate and groovy"
+  ],
+
+  "tempos": [
+    { "label": "chill groove", "minBpm": 88, "maxBpm": 98 },
+    { "label": "mid-tempo flow", "minBpm": 95, "maxBpm": 105 },
+    { "label": "downtempo drive", "minBpm": 102, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "warm deep house beat subtle groovy",
+    "atmospheric synth pad warm evolving",
+    "deep bass groove round smooth",
+    "acoustic guitar ambient reverb",
+    "soft electronic percussion subtle",
+    "warm filtered electric piano",
+    "ethnic percussion gentle layer",
+    "ambient texture organic warm",
+    "soft Rhodes chords filtered warm",
+    "subtle world percussion groove"
+  ],
+
+  "useCases": [
+    "hotel bar evening playlist",
+    "rooftop lounge sunset",
+    "upscale cocktail bar",
+    "boutique hotel lobby",
+    "beach club afternoon",
+    "resort dinner ambiance"
+  ],
+
+  "atmospheres": [
+    "cool indie lounge evening",
+    "warm rooftop twilight groove",
+    "deep atmospheric bar",
+    "French riviera evening cool",
+    "sophisticated late night lounge",
+    "Mediterranean terrace sunset",
+    "intimate underground lounge",
+    "warm ethnic fusion evening"
+  ],
+
+  "vocalStyles": [
+    "sultry female vocal alto warm breathy lounge",
+    "cool male vocal baritone deep laid-back indie",
+    "ethereal female vocal soprano floating ambient",
+    "deep male vocal bass low hypnotic groove",
+    "intimate female vocal mezzo warm whispered",
+    "smooth male vocal tenor cool French indie",
+    "mysterious female vocal alto dark atmospheric",
+    "warm male vocal mid-range soulful downtempo",
+    "breathy female vocal soft intimate lounge",
+    "rich male vocal baritone deep resonant cool",
+    "smoky female vocal low alto warm indie",
+    "gentle male vocal falsetto smooth atmospheric",
+    "dusky female vocal warm intimate downtempo",
+    "commanding male vocal deep confident smooth",
+    "airy female vocal mid-range indie cool",
+    "raspy male vocal low warm textured indie"
+  ],
+
+  "lyricThemes": [
+    "the night unfolds around us",
+    "moving through the city lights",
+    "lost in the groove tonight",
+    "shadows and warm light",
+    "your rhythm pulls me closer",
+    "the evening tastes like freedom",
+    "underneath the surface",
+    "secrets of the night",
+    "the heat of the moment",
+    "surrendering to the sound",
+    "dancing in the shadows",
+    "the midnight conversation",
+    "rhythm of another world",
+    "fire meeting water",
+    "the pulse beneath it all",
+    "spinning through the darkness",
+    "desert wind whispers",
+    "the mystery in your voice",
+    "waves in the moonlight",
+    "tonight we let go"
+  ],
+
+  "negativePrompts": [
+    "no pop vocals",
+    "no pop music",
+    "no electro pop",
+    "no catchy pop hooks",
+    "no upbeat pop",
+    "no bright pop",
+    "no energetic pop",
+    "no saxophone",
+    "no jazz",
+    "no smooth jazz",
+    "no brass",
+    "no wind instruments",
+    "no heavy beats",
+    "no EDM drops",
+    "no distortion",
+    "no aggressive",
+    "no loud"
+  ]
+}

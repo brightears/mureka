@@ -1,0 +1,136 @@
+{
+  "id": "jazz-blues-vocal",
+  "name": "Jazz Blues Vocal",
+  "description": "Soulful jazz blues with raw emotional vocals, blues-influenced jazz harmony, gritty and heartfelt",
+  "type": "vocal",
+
+  "genres": [
+    "jazz blues vocal"
+  ],
+
+  "subGenres": [
+    "smoky blues jazz",
+    "soulful jazz blues",
+    "classic blues jazz",
+    "late night blues jazz",
+    "slow blues jazz",
+    "jazz blues shuffle",
+    "blues ballad jazz",
+    "raw blues jazz"
+  ],
+
+  "moods": [
+    "soulful",
+    "raw",
+    "emotional",
+    "smoky",
+    "gritty",
+    "heartfelt",
+    "passionate",
+    "melancholic",
+    "deep",
+    "powerful"
+  ],
+
+  "tempos": [
+    { "label": "slow blues", "minBpm": 60, "maxBpm": 78 },
+    { "label": "medium shuffle", "minBpm": 80, "maxBpm": 100 },
+    { "label": "uptempo blues", "minBpm": 105, "maxBpm": 125 }
+  ],
+
+  "instruments": [
+    "blues piano chords",
+    "electric guitar clean blues licks",
+    "upright bass deep groove",
+    "drums shuffle beat",
+    "Hammond organ warm",
+    "muted trumpet blues",
+    "harmonica blues",
+    "bass guitar walking line",
+    "brushed drums swing",
+    "blues guitar bends"
+  ],
+
+  "useCases": [
+    "blues bar ambiance",
+    "late night lounge",
+    "jazz club performance",
+    "cocktail bar evening",
+    "soul food restaurant",
+    "live music venue"
+  ],
+
+  "atmospheres": [
+    "smoky blues club",
+    "late night stage",
+    "dimly lit bar",
+    "intimate live performance",
+    "downtown jazz joint",
+    "rainy midnight",
+    "worn leather barstool",
+    "neon-lit street corner"
+  ],
+
+  "vocalStyles": [
+    "soulful female blues vocal alto range",
+    "deep raspy male blues voice baritone",
+    "powerful female gospel-tinged belting high range",
+    "smooth male jazz blues crooner tenor",
+    "raw emotional female vocal low husky contralto",
+    "gritty male blues belting rough tenor",
+    "warm husky female voice mezzo-soprano",
+    "deep male baritone blues vocal rumbling low",
+    "passionate female soul vocal soaring soprano",
+    "intimate male blues whisper soft tenor",
+    "bright female jazz vocal clear high soprano",
+    "gravelly male blues voice deep bass",
+    "tender female ballad vocal gentle alto",
+    "male falsetto smooth blues vocal high pitch",
+    "bold female powerhouse vocal strong mezzo",
+    "young male blues vocal fresh warm tenor"
+  ],
+
+  "lyricThemes": [
+    "heartbreak and loss",
+    "late night loneliness",
+    "love gone wrong",
+    "redemption and hope",
+    "city blues midnight",
+    "rainy night memories",
+    "whiskey and regret",
+    "moving on from pain",
+    "somebody done me wrong",
+    "long road home",
+    "waiting for daylight",
+    "trouble on my mind",
+    "down and out blues",
+    "bittersweet goodbye",
+    "one more chance at love",
+    "old flames and new scars",
+    "dancing through the pain",
+    "strength in struggle",
+    "fading photographs",
+    "empty chair blues",
+    "train leaving town",
+    "crossroads decision",
+    "paying my dues",
+    "sunrise after the storm",
+    "broken promises",
+    "silver lining blues",
+    "worn out shoes",
+    "confession at midnight",
+    "second chance romance",
+    "standing in the rain"
+  ],
+
+  "negativePrompts": [
+    "no harsh screaming",
+    "no rap",
+    "no synths",
+    "no electronic sounds",
+    "no EDM",
+    "no distortion pedal",
+    "no heavy metal",
+    "no pop"
+  ]
+}

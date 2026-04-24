@@ -1,0 +1,119 @@
+{
+  "id": "japanese-retail-vocal",
+  "name": "Japanese Retail Vocal",
+  "description": "Upbeat Japanese pop vocal music for retail stores and commercial spaces, catchy and bright",
+  "type": "vocal",
+  "language": "Japanese",
+
+  "genres": [
+    "japanese retail vocal"
+  ],
+
+  "subGenres": [
+    "jpop upbeat catchy vocal bright",
+    "japanese pop modern vocal fresh",
+    "japanese synth pop vocal energetic",
+    "japanese indie pop vocal cheerful",
+    "japanese dance pop vocal fun",
+    "japanese pop rock vocal bright",
+    "japanese future pop vocal catchy",
+    "japanese city pop vocal groovy"
+  ],
+
+  "moods": [
+    "upbeat and catchy",
+    "bright and cheerful",
+    "fun and energetic",
+    "fresh and modern",
+    "positive and lively",
+    "playful and trendy",
+    "confident and cool",
+    "happy and vibrant"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo pop", "minBpm": 100, "maxBpm": 115 },
+    { "label": "upbeat energetic", "minBpm": 115, "maxBpm": 130 },
+    { "label": "high energy", "minBpm": 128, "maxBpm": 142 }
+  ],
+
+  "instruments": [
+    "bright synth lead catchy hook",
+    "punchy pop drums polished",
+    "synth bass groovy",
+    "clean electric guitar bright riff",
+    "sparkling synth arpeggios",
+    "warm piano pop chords",
+    "crisp snare and claps",
+    "layered synth chords bright",
+    "funky guitar stabs clean",
+    "modern pop production tight"
+  ],
+
+  "useCases": [
+    "japanese retail store",
+    "fashion boutique tokyo",
+    "shopping mall background",
+    "cosmetics store",
+    "lifestyle brand store",
+    "japanese convenience store"
+  ],
+
+  "atmospheres": [
+    "bright harajuku shopping energy",
+    "trendy shibuya street vibe",
+    "colorful japanese retail floor",
+    "modern tokyo shopping district",
+    "youthful vibrant store energy",
+    "stylish japanese boutique"
+  ],
+
+  "vocalStyles": [
+    "bright Japanese female vocal soprano catchy",
+    "smooth Japanese male vocal tenor melodic",
+    "powerful Japanese female vocal belt high",
+    "energetic Japanese male vocal bright upbeat",
+    "sweet Japanese female vocal cute youthful",
+    "cool Japanese male vocal confident smooth",
+    "airy Japanese female vocal breathy trendy",
+    "dynamic Japanese male vocal versatile strong",
+    "clear Japanese female vocal mezzo powerful",
+    "warm Japanese male vocal falsetto smooth",
+    "playful Japanese female vocal fun bright",
+    "fresh Japanese male vocal young energetic"
+  ],
+
+  "lyricThemes": [
+    "shining brighter every day",
+    "dancing through the city lights",
+    "chasing dreams with you",
+    "summer adventure begins now",
+    "unstoppable feeling inside",
+    "the world is full of color",
+    "heartbeat racing excitement",
+    "new chapter starting today",
+    "your energy is contagious",
+    "flying higher than before",
+    "sweet like candy afternoon",
+    "rhythm of the city night",
+    "together we shine",
+    "feeling alive right now",
+    "countdown to something amazing",
+    "sparkling like the stars",
+    "running toward tomorrow",
+    "magic in the everyday",
+    "your smile lights up the room",
+    "the best is yet to come"
+  ],
+
+  "negativePrompts": [
+    "no slow ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no screaming",
+    "no classical",
+    "no traditional",
+    "no jazz"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "nu-disco",
+  "name": "Nu Disco / Indie Dance",
+  "description": "Purple Disco Machine style nu disco and indie dance instrumental - funky bass, analog synths, groovy four-on-the-floor beats",
+  "type": "instrumental",
+
+  "genres": [
+    "nu disco"
+  ],
+
+  "subGenres": [
+    "disco house",
+    "indie dance",
+    "funky disco house",
+    "modern disco",
+    "synth disco",
+    "groovy house",
+    "electronic disco",
+    "funky electronic",
+    "French touch disco",
+    "filter house"
+  ],
+
+  "moods": [
+    "euphoric and uplifting",
+    "groovy and danceable",
+    "feel-good and energetic",
+    "warm and funky",
+    "nostalgic yet modern",
+    "sophisticated nightlife",
+    "summer party vibes",
+    "joyful and carefree",
+    "sexy and confident",
+    "infectious and catchy"
+  ],
+
+  "tempos": [
+    { "label": "groovy nu disco", "minBpm": 108, "maxBpm": 115 },
+    { "label": "classic disco house", "minBpm": 115, "maxBpm": 120 },
+    { "label": "uptempo disco", "minBpm": 120, "maxBpm": 124 }
+  ],
+
+  "instruments": [
+    "analog synth bass Juno style",
+    "funky rhythm guitar",
+    "four on the floor disco drums",
+    "warm analog synth pads",
+    "groovy bassline",
+    "crispy disco hi-hats",
+    "funky guitar riffs",
+    "Rhodes electric piano",
+    "shimmering synth arpeggios",
+    "punchy disco kick",
+    "live bass groove",
+    "vintage string synths",
+    "filter sweep synths",
+    "handclaps and percussion",
+    "disco strings"
+  ],
+
+  "useCases": [
+    "nightclub dance floor",
+    "summer festival",
+    "rooftop party",
+    "fashion show",
+    "pool party",
+    "boutique club night"
+  ],
+
+  "atmospheres": [
+    "late night disco club",
+    "summer rooftop party",
+    "glamorous nightlife",
+    "retro dance floor",
+    "sunset beach club",
+    "sophisticated cocktail lounge",
+    "neon lit dance floor",
+    "euphoric festival moment"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no voice",
+    "no slow ballad",
+    "no sad",
+    "no melancholic",
+    "no acoustic only",
+    "no country",
+    "no metal",
+    "no rock",
+    "no rap",
+    "no harsh distortion"
+  ]
+}

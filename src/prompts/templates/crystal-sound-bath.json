@@ -1,0 +1,70 @@
+{
+  "id": "crystal-sound-bath",
+  "name": "crystal-sound-bath",
+  "description": "Crystal singing bowl sound bath \u2014 crystal bowls, Koshi chimes, tuning forks for dedicated sound bath rooms and sound healing sessions",
+  "type": "instrumental",
+  "genres": [
+    "Crystal Sound Bath"
+  ],
+  "subGenres": [
+    "crystal singing bowl ambient soundscape very sparse",
+    "sound bath crystal bowl healing no melody",
+    "crystal bowl resonance ambient healing drone",
+    "sound healing crystal bowl tuning fork ambient"
+  ],
+  "moods": [
+    "pure and crystalline with healing resonance",
+    "luminous and deeply still crystal clarity",
+    "ethereal and transparent very sparse",
+    "healing and transcendent crystal purity"
+  ],
+  "tempos": [
+    "no tempo pure soundscape resonance",
+    "ultra slow ambient 40-55 BPM or no pulse",
+    "very slow drone ambient no discernible beat"
+  ],
+  "instruments": [
+    "crystal singing bowl long pure resonance",
+    "crystal bowl struck slow fade very sparse",
+    "koshi chime gentle sparse metallic resonance",
+    "tuning fork ambient tone pure sustained",
+    "crystal bowl harmonic overtone gentle resonance"
+  ],
+  "useCases": [
+    "crystal bowl sound bath session",
+    "sound healing room",
+    "wellness sound therapy",
+    "meditation and sound bath"
+  ],
+  "atmospheres": [
+    "crystal healing chamber pure luminous silence",
+    "sound bath room crystalline resonance pure",
+    "healing sanctuary crystal clear profound stillness",
+    "sound therapy space pure vibration healing"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no melody",
+    "no drums",
+    "no percussion rhythm",
+    "no bass",
+    "no rhythm",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no flute",
+    "no synth",
+    "no electronic",
+    "no orchestra",
+    "no strings",
+    "no busy arrangement",
+    "no fast tempo",
+    "no sharp transients",
+    "no sudden changes",
+    "no asian instruments"
+  ]
+}

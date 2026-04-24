@@ -1,0 +1,84 @@
+{
+  "id": "indian-chill-electronic",
+  "name": "Indian Chill Electronic",
+  "description": "Indian instruments with downtempo electronic production, for modern Indian hotels and lounges",
+  "type": "instrumental",
+
+  "genres": [
+    "indian chill electronic"
+  ],
+
+  "subGenres": [
+    "indian downtempo electronic chill",
+    "indian ambient electronica warm",
+    "asian underground chill groove",
+    "indian trip hop downtempo",
+    "tabla and beats electronic chill",
+    "sitar electronic ambient fusion",
+    "indian world beat electronic soft",
+    "desi chill electronic atmospheric"
+  ],
+
+  "moods": [
+    "warm and hypnotic",
+    "groovy and exotic",
+    "atmospheric and deep",
+    "smooth and modern",
+    "sultry and mysterious",
+    "cool and sophisticated",
+    "immersive and flowing",
+    "chilled and worldly"
+  ],
+
+  "tempos": [
+    { "label": "slow ambient", "minBpm": 75, "maxBpm": 88 },
+    { "label": "mid-tempo groove", "minBpm": 88, "maxBpm": 100 },
+    { "label": "downtempo drive", "minBpm": 98, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "sitar ambient processed melodic",
+    "tabla electronic groove subtle",
+    "tanpura drone warm layered",
+    "soft electronic beats downtempo",
+    "bansuri flute processed ambient",
+    "warm synth pad evolving deep",
+    "deep sub bass smooth",
+    "ethnic percussion electronic layered",
+    "santoor shimmering processed",
+    "ambient texture organic indian"
+  ],
+
+  "useCases": [
+    "modern indian hotel lobby",
+    "boutique hotel india",
+    "rooftop bar india",
+    "upscale lounge mumbai",
+    "modern restaurant india",
+    "cocktail bar delhi"
+  ],
+
+  "atmospheres": [
+    "modern mumbai rooftop evening",
+    "boutique hotel delhi lobby",
+    "warm indian lounge candlelight",
+    "contemporary goa beach bar",
+    "sophisticated bangalore night",
+    "urban india evening cool",
+    "monsoon evening lounge warm",
+    "exotic modern indian night"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no jazz",
+    "no heavy beats",
+    "no EDM drops",
+    "no distortion",
+    "no aggressive",
+    "no loud",
+    "no western pop",
+    "no rock"
+  ]
+}

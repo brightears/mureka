@@ -1,0 +1,119 @@
+{
+  "id": "italian-vocal-soft",
+  "name": "Italian Vocal Soft",
+  "description": "Romantic Italian ballads with warm vocals, piano, and emotional delivery",
+  "type": "vocal",
+  "language": "Italian",
+
+  "genres": [
+    "italian ballad"
+  ],
+
+  "subGenres": [
+    "italian romantic ballad warm",
+    "italian pop ballad emotional",
+    "italian love song intimate",
+    "italian acoustic ballad soft",
+    "italian piano ballad romantic",
+    "italian emotional ballad warm",
+    "italian soft pop intimate",
+    "italian romantic pop gentle"
+  ],
+
+  "moods": [
+    "romantic and emotional",
+    "warm and intimate",
+    "tender and heartfelt",
+    "soft and dreamy",
+    "nostalgic and warm",
+    "gentle and loving",
+    "emotional and sincere",
+    "intimate and romantic"
+  ],
+
+  "tempos": [
+    { "label": "slow italian ballad", "minBpm": 65, "maxBpm": 75 },
+    { "label": "romantic ballad tempo", "minBpm": 75, "maxBpm": 82 },
+    { "label": "soft ballad mid", "minBpm": 82, "maxBpm": 88 }
+  ],
+
+  "instruments": [
+    "warm piano chords emotional",
+    "soft acoustic guitar gentle",
+    "gentle strings warm background",
+    "soft piano melodic phrases",
+    "warm nylon guitar fingerpicked",
+    "gentle orchestral strings soft",
+    "soft bass warm subtle",
+    "light percussion gentle",
+    "warm piano arpeggios emotional",
+    "soft violin phrases gentle",
+    "acoustic guitar strummed warm",
+    "gentle piano accompaniment"
+  ],
+
+  "useCases": [
+    "romantic dinner",
+    "fine dining evening",
+    "wedding reception",
+    "intimate restaurant",
+    "boutique hotel",
+    "special occasion"
+  ],
+
+  "atmospheres": [
+    "romantic candlelit dinner",
+    "intimate italian evening",
+    "warm emotional moment",
+    "tender romantic setting",
+    "elegant italian romance",
+    "heartfelt intimate atmosphere",
+    "warm mediterranean evening",
+    "soft romantic ambiance"
+  ],
+
+  "vocalStyles": [
+    "warm italian male vocals emotional tender",
+    "soft italian female vocals romantic intimate",
+    "gentle italian male vocals heartfelt warm",
+    "emotional italian female vocals soft melodic",
+    "intimate italian male vocals romantic smooth",
+    "tender italian female vocals warm gentle",
+    "smooth italian male vocals emotional deep",
+    "warm italian female vocals intimate sincere",
+    "romantic italian male vocals soft melodic",
+    "gentle italian female vocals emotional warm",
+    "heartfelt italian male vocals tender intimate",
+    "soft italian female vocals romantic dreamy"
+  ],
+
+  "lyricThemes": [
+    "eternal love and devotion",
+    "memories of summer romance",
+    "longing for your embrace",
+    "dancing under the stars",
+    "our beautiful journey together",
+    "the warmth of your love",
+    "dreaming of tomorrow with you",
+    "your eyes tell me everything",
+    "walking together through life",
+    "the beauty of this moment",
+    "our hearts beat as one",
+    "forever in your arms"
+  ],
+
+  "negativePrompts": [
+    "no aggressive",
+    "no rock",
+    "no EDM",
+    "no fast tempo",
+    "no high energy",
+    "no saxophone",
+    "no sax",
+    "no jazz",
+    "no synth heavy",
+    "no electronic beats",
+    "no loud drums",
+    "no distortion"
+  ]
+}

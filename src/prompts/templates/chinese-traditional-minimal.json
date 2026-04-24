@@ -1,0 +1,91 @@
+{
+  "id": "chinese-traditional-minimal",
+  "name": "Chinese Traditional Minimal",
+  "description": "Ultra minimal acoustic Chinese music, solo traditional instruments only, peaceful restaurant background",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese traditional minimal"
+  ],
+
+  "subGenres": [
+    "solo guzheng acoustic gentle sparse",
+    "solo erhu acoustic warm minimal",
+    "solo pipa acoustic delicate sparse",
+    "solo bamboo flute acoustic breathy minimal",
+    "solo xiao acoustic soft sparse",
+    "solo yangqin acoustic light minimal",
+    "solo guzheng fingerpicked gentle quiet",
+    "solo erhu melodic warm intimate"
+  ],
+
+  "moods": [
+    "very peaceful and minimal",
+    "soft and sparse",
+    "gentle and quiet",
+    "warm and intimate",
+    "calm and unhurried",
+    "delicate and tender",
+    "simple and natural",
+    "serene and still",
+    "light and airy",
+    "pure and clean"
+  ],
+
+  "tempos": [
+    { "label": "very slow sparse", "minBpm": 50, "maxBpm": 65 },
+    { "label": "slow gentle", "minBpm": 62, "maxBpm": 76 },
+    { "label": "soft flowing", "minBpm": 74, "maxBpm": 88 }
+  ],
+
+  "instruments": [
+    "solo guzheng soft gentle sparse phrases",
+    "solo erhu warm melodic minimal",
+    "solo pipa delicate plucked sparse",
+    "solo bamboo flute breathy soft gentle",
+    "solo xiao breathy minimal phrases",
+    "solo yangqin light sparse shimmering"
+  ],
+
+  "useCases": [
+    "peaceful chinese restaurant background",
+    "quiet dining atmosphere",
+    "dim sum gentle background",
+    "noodle house soft ambiance",
+    "asian restaurant calm setting",
+    "family dinner quiet background"
+  ],
+
+  "atmospheres": [
+    "very quiet peaceful dining",
+    "single instrument gentle room",
+    "soft natural acoustic space",
+    "minimal intimate atmosphere",
+    "quiet afternoon restaurant",
+    "gentle evening dining",
+    "simple warm space",
+    "unhurried peaceful setting"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no percussion",
+    "no synth",
+    "no electronic",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no strings",
+    "no orchestra",
+    "no ensemble",
+    "no multiple instruments",
+    "no busy arrangement",
+    "no loud dynamics",
+    "no fast tempo",
+    "no dramatic",
+    "no epic",
+    "no modern instruments",
+    "no western instruments"
+  ]
+}

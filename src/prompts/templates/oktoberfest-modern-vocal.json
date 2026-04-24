@@ -1,0 +1,121 @@
+{
+  "id": "oktoberfest-modern-vocal",
+  "name": "Oktoberfest Modern Vocal",
+  "description": "Modern German party hits with vocals, schlager-pop style, catchy and energetic",
+  "type": "vocal",
+  "language": "German",
+
+  "genres": [
+    "oktoberfest modern vocal"
+  ],
+
+  "subGenres": [
+    "modern schlager pop vocal catchy",
+    "german party pop vocal energetic",
+    "modern bavarian pop vocal fun",
+    "euro schlager vocal upbeat dance",
+    "german festival pop vocal bright",
+    "contemporary schlager vocal catchy hook",
+    "modern german party vocal infectious",
+    "alpine pop modern vocal fresh"
+  ],
+
+  "moods": [
+    "party and infectious",
+    "catchy and sing-along",
+    "energetic and fun",
+    "bright and celebratory",
+    "feel-good and danceable",
+    "exciting and uplifting",
+    "happy and wild",
+    "modern and festive"
+  ],
+
+  "tempos": [
+    { "label": "mid-tempo groovy", "minBpm": 110, "maxBpm": 125 },
+    { "label": "upbeat party", "minBpm": 125, "maxBpm": 138 },
+    { "label": "high energy dance", "minBpm": 135, "maxBpm": 150 }
+  ],
+
+  "instruments": [
+    "accordion modern pop catchy",
+    "bright synth chords upbeat",
+    "punchy pop drums polished",
+    "bass guitar driving groovy",
+    "brass stabs festive punchy",
+    "electric guitar bright clean",
+    "modern production tight",
+    "claps stomps crowd energy",
+    "trumpet melody bright pop",
+    "keyboard chords bright party"
+  ],
+
+  "useCases": [
+    "modern oktoberfest event",
+    "german beer festival party",
+    "apres ski bar",
+    "german themed party night",
+    "beer hall modern event",
+    "german party playlist"
+  ],
+
+  "atmospheres": [
+    "packed beer tent party",
+    "modern oktoberfest dance floor",
+    "apres ski bar wild fun",
+    "german festival main stage",
+    "beer hall crowd singing along",
+    "modern bavarian party night"
+  ],
+
+  "vocalStyles": [
+    "powerful German male vocal tenor party sing-along",
+    "bright German female vocal soprano catchy energetic",
+    "deep German male vocal baritone strong party",
+    "fun German female vocal high youthful pop",
+    "bold German male vocal loud commanding festival",
+    "sweet German female vocal mezzo catchy modern",
+    "rough German male vocal mid-range rustic party",
+    "clear German female vocal bright pop schlager",
+    "energetic German male vocal high tenor upbeat",
+    "warm German female vocal alto strong modern",
+    "boisterous German male vocal deep bass party",
+    "playful German female vocal bright fun youthful"
+  ],
+
+  "lyricThemes": [
+    "tonight we party like never before",
+    "hands up everybody dance",
+    "this is our night to celebrate",
+    "one more beer and one more song",
+    "the whole tent is singing along",
+    "summer in the mountains",
+    "dancing on the tables tonight",
+    "we are the party people",
+    "love at the beer festival",
+    "feeling alive feeling free",
+    "the music never stops",
+    "together we are unstoppable",
+    "raise your glass high",
+    "the best night of our lives",
+    "sunshine and cold beer",
+    "everybody join the party",
+    "this is what happiness sounds like",
+    "dancing until the morning comes",
+    "friends and beer and music",
+    "the festival of our dreams"
+  ],
+
+  "negativePrompts": [
+    "no slow ballad",
+    "no sad",
+    "no dark",
+    "no heavy metal",
+    "no screaming",
+    "no jazz",
+    "no classical",
+    "no ambient",
+    "no chill",
+    "no rap"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "french-lounge",
+  "name": "French Coffee Shop Jazz",
+  "description": "Parisian coffee shop jazz with soft accordion. Quietly sophisticated, smooth and understated. Acoustic bass pizzicato and gentle bossa feel around 70 BPM.",
+  "type": "instrumental",
+
+  "genres": [
+    "French Cafe Music"
+  ],
+
+  "subGenres": [
+    "Parisian coffee shop jazz with musette accordion",
+    "Paris cafe romantic musette and guitar",
+    "French musette cafe jazz soft and elegant",
+    "Parisian musette accordion with nylon guitar",
+    "French cafe bossa with soft musette melody",
+    "Paris coffee shop musette romantic instrumental",
+    "French chanson style cafe jazz gentle",
+    "Parisian romantic musette coffee shop"
+  ],
+
+  "moods": [
+    "quietly sophisticated",
+    "smooth and understated",
+    "warm and intimate",
+    "gently romantic",
+    "softly elegant",
+    "refined and relaxed",
+    "peaceful sophistication",
+    "tender and warm"
+  ],
+
+  "tempos": [
+    { "label": "slow jazz bossa", "minBpm": 68, "maxBpm": 72 },
+    { "label": "gentle bossa feel", "minBpm": 70, "maxBpm": 74 },
+    { "label": "relaxed coffee shop", "minBpm": 72, "maxBpm": 76 }
+  ],
+
+  "instruments": [
+    "acoustic bass pizzicato",
+    "soft musette accordion melody",
+    "soft brushed drums gentle",
+    "nylon guitar soft fingerpicked",
+    "French musette and guitar duo",
+    "warm upright bass pizzicato",
+    "gentle musette accordion romantic",
+    "Parisian accordion warm tone"
+  ],
+
+  "useCases": [
+    "French cafe jazz background",
+    "boutique hotel lobby",
+    "Parisian restaurant ambiance",
+    "coffee shop atmosphere",
+    "sophisticated dinner setting",
+    "wine bar evening",
+    "French bistro background",
+    "upscale cafe ambiance"
+  ],
+
+  "atmospheres": [
+    "elegant European refinement",
+    "sophisticated Parisian cafe",
+    "warm coffee shop intimacy",
+    "refined French atmosphere",
+    "intimate cafe setting",
+    "tasteful understated warmth",
+    "cozy Parisian ambiance",
+    "gentle French elegance"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "instrumental only",
+    "no cheesy",
+    "no cheap keyboard",
+    "no gypsy",
+    "no gypsy jazz",
+    "no Django",
+    "no manouche",
+    "no fast tempo",
+    "no energetic",
+    "no dynamic",
+    "no electronic",
+    "no synths",
+    "no heavy drums"
+  ]
+}

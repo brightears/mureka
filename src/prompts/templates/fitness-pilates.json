@@ -1,0 +1,81 @@
+{
+  "id": "fitness-pilates",
+  "name": "Fitness Pilates Barre",
+  "description": "Pilates and barre class music, smooth controlled lo-fi house and chill deep house, 90-120 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness pilates"
+  ],
+
+  "subGenres": [
+    "lo-fi house smooth controlled",
+    "chill deep house minimal groove",
+    "indie electronica soft rhythmic",
+    "downtempo electronic smooth",
+    "minimal house gentle groove",
+    "chillout electronic soft beat",
+    "ambient house light groove",
+    "soft electronic minimal pulse"
+  ],
+
+  "moods": [
+    "smooth and controlled",
+    "elegant and focused",
+    "gentle and rhythmic",
+    "refined and flowing",
+    "calm yet energized",
+    "graceful and steady",
+    "sophisticated and light",
+    "balanced and centered"
+  ],
+
+  "tempos": [
+    { "label": "slow controlled", "minBpm": 90, "maxBpm": 100 },
+    { "label": "moderate flow", "minBpm": 100, "maxBpm": 110 },
+    { "label": "active pilates", "minBpm": 110, "maxBpm": 120 }
+  ],
+
+  "instruments": [
+    "soft electronic beat minimal",
+    "warm filtered bass gentle",
+    "light hi-hats crisp soft",
+    "warm synth pad smooth",
+    "gentle piano chords minimal",
+    "soft kick drum subtle pulse",
+    "ambient texture flowing",
+    "light shaker gentle groove",
+    "warm electric piano filtered",
+    "soft arpeggiated synth"
+  ],
+
+  "useCases": [
+    "pilates mat class",
+    "barre fitness class",
+    "reformer pilates session",
+    "body sculpt class",
+    "toning and stretching",
+    "low impact fitness"
+  ],
+
+  "atmospheres": [
+    "elegant pilates studio",
+    "focused controlled movement",
+    "graceful barre work",
+    "refined fitness space",
+    "mindful body sculpting",
+    "balanced strength and flow"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no loud",
+    "no aggressive",
+    "no heavy bass drops",
+    "no hard EDM",
+    "no distortion",
+    "no saxophone",
+    "no jazz",
+    "no fast tempo"
+  ]
+}

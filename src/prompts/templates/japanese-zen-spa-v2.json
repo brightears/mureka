@@ -1,0 +1,94 @@
+{
+  "id": "japanese-zen-spa-v2",
+  "name": "Japanese Zen Spa V2",
+  "description": "Japanese zen meditation and spa music, minimalist and spacious, for elegant Japanese restaurants and spas",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese zen spa"
+  ],
+
+  "subGenres": [
+    "zen meditation ultra minimal sparse",
+    "ambient drone very sparse still empty",
+    "wabi-sabi ambient barely there quiet",
+    "zen soundscape single element only",
+    "meditation ambient ultra sparse silent",
+    "minimal ambient single tone sustained",
+    "zen stillness almost silence",
+    "ambient space very low energy ultra minimal"
+  ],
+
+  "moods": [
+    "still and spacious",
+    "deeply zen minimal",
+    "empty and peaceful",
+    "pure and refined",
+    "quiet and meditative",
+    "natural and unhurried",
+    "contemplative and bare",
+    "serene and elegant"
+  ],
+
+  "tempos": [
+    { "label": "very slow still", "minBpm": 40, "maxBpm": 55 },
+    { "label": "slow meditative", "minBpm": 55, "maxBpm": 68 },
+    { "label": "gentle breath pace", "minBpm": 65, "maxBpm": 76 }
+  ],
+
+  "instruments": [
+    "single singing bowl deep resonant sustained only",
+    "single temple bell deep distant only",
+    "wind chimes natural very distant sparse only",
+    "solo koto single plucked note sparse",
+    "solo zen flute single breathy phrase sparse",
+    "wooden fish temple single soft tap"
+  ],
+
+  "useCases": [
+    "japanese spa treatment",
+    "zen meditation room",
+    "elegant japanese restaurant",
+    "onsen relaxation",
+    "kaiseki dining",
+    "ryokan ambiance"
+  ],
+
+  "atmospheres": [
+    "zen rock garden absolute stillness",
+    "empty tatami room morning light",
+    "moss garden after rain silence",
+    "stone path mist mountain temple",
+    "bamboo grove wind only",
+    "water basin single drip",
+    "incense smoke rising still air",
+    "autumn maple garden quiet"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no chanting",
+    "no voice",
+    "no drums",
+    "no percussion",
+    "no synth",
+    "no synthesizer",
+    "no electronic",
+    "no ambient pad",
+    "no drone",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no orchestra",
+    "no ensemble",
+    "no chinese",
+    "no erhu",
+    "no guzheng",
+    "no pipa",
+    "no busy arrangement",
+    "no loud",
+    "no fast tempo"
+  ]
+}

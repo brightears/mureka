@@ -1,0 +1,126 @@
+{
+  "id": "spa-asian",
+  "name": "Asian Spa Music",
+  "description": "Luxurious instrumental spa music blending Japanese Zen, Balinese Gamelan, Thai Traditional, and Pan-Asian wellness elements for 5-star hotel spas across Asia. Ancient wisdom meets modern luxury.",
+  "type": "instrumental",
+
+  "genres": [
+    "asian ambient",
+    "oriental spa",
+    "zen",
+    "asian wellness"
+  ],
+
+  "subGenres": [
+    "japanese zen",
+    "balinese gamelan",
+    "thai traditional",
+    "chinese guzheng",
+    "tibetan singing bowls",
+    "korean gayageum",
+    "vietnamese dan tranh",
+    "indian sitar ambient",
+    "southeast asian fusion",
+    "himalayan meditation",
+    "japanese onsen",
+    "balinese ritual",
+    "thai acupressure rhythm"
+  ],
+
+  "moods": [
+    "meditative",
+    "zen",
+    "tranquil",
+    "spiritual",
+    "harmonious",
+    "serene",
+    "peaceful",
+    "contemplative",
+    "restorative",
+    "grounding",
+    "sacred",
+    "purifying",
+    "balanced",
+    "ethereal",
+    "nurturing"
+  ],
+
+  "tempos": [
+    { "label": "deeply meditative", "minBpm": 50, "maxBpm": 55 },
+    { "label": "very slow breathing pace", "minBpm": 55, "maxBpm": 60 },
+    { "label": "slow massage rhythm", "minBpm": 60, "maxBpm": 65 },
+    { "label": "gentle flowing", "minBpm": 65, "maxBpm": 70 },
+    { "label": "soft spa tempo", "minBpm": 70, "maxBpm": 75 }
+  ],
+
+  "instruments": [
+    "koto",
+    "shakuhachi bamboo flute",
+    "balinese gamelan",
+    "tibetan singing bowls",
+    "guzheng chinese zither",
+    "bamboo flute",
+    "sitar",
+    "tanpura drone",
+    "soft piano",
+    "gentle harp",
+    "crystal singing bowls",
+    "wind chimes",
+    "rain stick",
+    "ocean drum",
+    "temple bells",
+    "tingsha cymbals",
+    "dan tranh vietnamese zither",
+    "gayageum korean zither",
+    "pipa chinese lute",
+    "bansuri indian flute",
+    "hang drum",
+    "kalimba",
+    "erhu",
+    "wooden temple blocks",
+    "bamboo angklung"
+  ],
+
+  "useCases": [
+    "spa reception and lobby",
+    "treatment room massage",
+    "meditation and mindfulness session",
+    "yoga and stretching class",
+    "tea ceremony service",
+    "post-treatment relaxation lounge",
+    "hydrotherapy and water treatment",
+    "sauna and steam room"
+  ],
+
+  "atmospheres": [
+    "zen garden with raked sand",
+    "bamboo forest rustling",
+    "temple bells in mountain mist",
+    "water features and flowing streams",
+    "mountain mist at dawn",
+    "japanese onsen hot spring",
+    "balinese tropical garden",
+    "thai temple courtyard",
+    "wooden architecture warmth",
+    "natural stone and pebbles",
+    "lotus pond reflection",
+    "incense and candlelight",
+    "morning dew on leaves",
+    "himalayan mountain sanctuary",
+    "ancient forest clearing"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no harsh sounds",
+    "no drums",
+    "no electronic beats",
+    "no sudden changes",
+    "no distortion",
+    "no heavy bass",
+    "no percussion beats",
+    "no modern pop elements",
+    "no abrupt transitions"
+  ]
+}

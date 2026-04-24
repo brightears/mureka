@@ -1,0 +1,85 @@
+{
+  "id": "lebanese-instrumental",
+  "name": "Lebanese Instrumental",
+  "description": "Middle Eastern Lebanese cafe instrumental, oud and darbuka, warm atmospheric Mediterranean",
+  "type": "instrumental",
+
+  "genres": [
+    "lebanese instrumental"
+  ],
+
+  "subGenres": [
+    "lebanese cafe oud warm melodic",
+    "middle eastern lounge atmospheric",
+    "arabic instrumental cafe gentle",
+    "lebanese acoustic traditional soft",
+    "mediterranean arabic chill warm",
+    "oriental lounge oud melodic",
+    "arabic cafe ambient gentle",
+    "levantine acoustic warm intimate"
+  ],
+
+  "moods": [
+    "warm and exotic",
+    "melodic and inviting",
+    "atmospheric and rich",
+    "gentle and enchanting",
+    "sensual and warm",
+    "contemplative and flowing",
+    "exotic and sophisticated",
+    "intimate and soulful"
+  ],
+
+  "tempos": [
+    { "label": "slow atmospheric", "minBpm": 65, "maxBpm": 80 },
+    { "label": "moderate flowing", "minBpm": 82, "maxBpm": 98 },
+    { "label": "light rhythmic", "minBpm": 98, "maxBpm": 115 }
+  ],
+
+  "instruments": [
+    "oud melodic warm flowing",
+    "darbuka soft gentle rhythmic",
+    "nay flute breathy arabic melodic",
+    "qanun zither shimmering delicate",
+    "soft frame drum gentle pulse",
+    "oud arpeggios warm intimate",
+    "riq tambourine light shimmer",
+    "buzuq long neck lute melodic",
+    "soft tabla gentle groove",
+    "warm strings middle eastern melodic"
+  ],
+
+  "useCases": [
+    "cafe pausa ambiance",
+    "lebanese restaurant background",
+    "mediterranean lounge",
+    "hookah lounge atmosphere",
+    "middle eastern cafe",
+    "upscale arabic dining"
+  ],
+
+  "atmospheres": [
+    "warm beirut cafe evening",
+    "candlelit mediterranean terrace",
+    "exotic souk market evening",
+    "gentle seaside beirut lounge",
+    "intimate arabic courtyard",
+    "warm lantern-lit cafe",
+    "cedar mountain evening breeze",
+    "old city cafe warmth"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no heavy drums",
+    "no electronic beats",
+    "no EDM",
+    "no synths",
+    "no distortion",
+    "no guitar",
+    "no piano",
+    "no western instruments",
+    "no loud dynamics",
+    "no fast tempo"
+  ]
+}

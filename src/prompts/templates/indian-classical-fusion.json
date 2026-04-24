@@ -1,0 +1,83 @@
+{
+  "id": "indian-classical-fusion",
+  "name": "Indian Classical Fusion",
+  "description": "Raga-inspired instrumental with modern production, for Indian offices and sophisticated spaces",
+  "type": "instrumental",
+
+  "genres": [
+    "indian classical fusion"
+  ],
+
+  "subGenres": [
+    "indian classical raga modern fusion",
+    "hindustani classical contemporary",
+    "raga fusion ambient modern",
+    "indian classical crossover smooth",
+    "carnatic fusion gentle modern",
+    "indo jazz fusion instrumental",
+    "raga lounge modern refined",
+    "indian classical ambient contemporary"
+  ],
+
+  "moods": [
+    "refined and sophisticated",
+    "flowing and melodic",
+    "contemplative and elegant",
+    "warm and intellectual",
+    "graceful and modern",
+    "rich and layered",
+    "expressive and deep",
+    "balanced and worldly"
+  ],
+
+  "tempos": [
+    { "label": "slow alap style", "minBpm": 60, "maxBpm": 78 },
+    { "label": "moderate gat", "minBpm": 80, "maxBpm": 100 },
+    { "label": "light jhala", "minBpm": 100, "maxBpm": 118 }
+  ],
+
+  "instruments": [
+    "sitar melodic raga phrases expressive",
+    "tabla rhythmic sophisticated groove",
+    "tanpura drone warm foundation",
+    "bansuri flute melodic flowing",
+    "sarod deep rich plucked",
+    "santoor bright shimmering melodic",
+    "warm ambient pad subtle modern",
+    "upright bass gentle fusion",
+    "soft piano chords fusion modern",
+    "gentle percussion subtle contemporary"
+  ],
+
+  "useCases": [
+    "modern indian office space",
+    "co-working space india",
+    "corporate lobby india",
+    "art gallery india",
+    "upscale indian cafe",
+    "cultural center modern"
+  ],
+
+  "atmospheres": [
+    "modern indian office refined",
+    "sophisticated cultural space",
+    "warm contemporary gallery",
+    "elegant co-working environment",
+    "tasteful fusion of old and new",
+    "morning raga inspiration",
+    "afternoon office calm focus",
+    "evening cultural gathering"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no jazz",
+    "no EDM",
+    "no heavy beats",
+    "no distortion",
+    "no aggressive",
+    "no western pop",
+    "no rock"
+  ]
+}

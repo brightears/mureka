@@ -1,0 +1,80 @@
+{
+  "id": "fitness-spinning-endurance",
+  "name": "Fitness Spinning Endurance",
+  "description": "Cycling endurance ride music, steady house and progressive, consistent driving energy 120-140 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness spinning endurance"
+  ],
+
+  "subGenres": [
+    "progressive house driving steady",
+    "tech house energetic groovy",
+    "melodic house uplifting driving",
+    "house music four on floor steady",
+    "deep tech energetic rolling",
+    "progressive EDM melodic driving",
+    "electro house energetic bright",
+    "main room house driving uplifting"
+  ],
+
+  "moods": [
+    "driving and steady",
+    "uplifting and sustained",
+    "energetic and focused",
+    "powerful and rhythmic",
+    "hypnotic and forward-moving",
+    "euphoric and relentless",
+    "motivating and strong",
+    "determined and pulsing"
+  ],
+
+  "tempos": [
+    { "label": "steady ride", "minBpm": 120, "maxBpm": 130 },
+    { "label": "endurance push", "minBpm": 128, "maxBpm": 136 },
+    { "label": "power ride", "minBpm": 134, "maxBpm": 140 }
+  ],
+
+  "instruments": [
+    "four on the floor kick steady",
+    "driving bass line rolling",
+    "bright synth melody uplifting",
+    "crisp hi-hats consistent",
+    "warm synth pad evolving",
+    "punchy clap snare tight",
+    "arpeggiated synth driving",
+    "deep bass groove sustained",
+    "euphoric synth chords building",
+    "rolling percussion layers"
+  ],
+
+  "useCases": [
+    "indoor cycling endurance ride",
+    "spinning flat road phase",
+    "cycling steady state cardio",
+    "sustained effort ride",
+    "group cycling class main block",
+    "treadmill running sustained"
+  ],
+
+  "atmospheres": [
+    "steady pace cycling rhythm",
+    "focused endurance effort",
+    "sustained power output",
+    "rhythmic pedal cadence",
+    "long ride determination",
+    "group cycling energy"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no ambient",
+    "no acoustic",
+    "no jazz",
+    "no classical",
+    "no soft",
+    "no chill"
+  ]
+}

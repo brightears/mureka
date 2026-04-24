@@ -1,0 +1,90 @@
+{
+  "id": "chinese-traditional-soft",
+  "name": "Chinese Traditional Soft",
+  "description": "Soft gentle traditional Chinese instrumental music, warm and inviting for restaurant dining atmosphere",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese traditional soft"
+  ],
+
+  "subGenres": [
+    "soft chinese traditional gentle",
+    "warm chinese folk melody",
+    "light chinese classical refined",
+    "gentle silk and bamboo ensemble",
+    "soft chinese chamber music",
+    "warm traditional chinese melody",
+    "delicate chinese folk gentle",
+    "soft chinese orchestral light"
+  ],
+
+  "moods": [
+    "warm and gentle",
+    "soft and inviting",
+    "light and pleasant",
+    "graceful and delicate",
+    "soothing and comfortable",
+    "elegant and understated",
+    "cheerful and gentle",
+    "melodic and flowing",
+    "cozy and welcoming",
+    "refined and soft"
+  ],
+
+  "tempos": [
+    { "label": "slow gentle", "minBpm": 58, "maxBpm": 72 },
+    { "label": "moderate soft", "minBpm": 72, "maxBpm": 88 },
+    { "label": "light flowing", "minBpm": 85, "maxBpm": 100 }
+  ],
+
+  "instruments": [
+    "guzheng soft melodic gentle",
+    "erhu warm smooth phrases",
+    "pipa light delicate plucked",
+    "dizi bamboo flute soft gentle",
+    "xiao breathy soft flowing",
+    "yangqin light shimmering gentle",
+    "soft strings warm background",
+    "chinese harp gentle arpeggios",
+    "bamboo flute warm melodic",
+    "silk string ensemble delicate"
+  ],
+
+  "useCases": [
+    "chinese restaurant dining background",
+    "dim sum brunch music",
+    "chinese buffet ambiance",
+    "noodle house background",
+    "asian fusion restaurant",
+    "chinese banquet soft background",
+    "hotpot restaurant atmosphere",
+    "family dinner gathering"
+  ],
+
+  "atmospheres": [
+    "warm restaurant dining room",
+    "comfortable family gathering",
+    "pleasant dining atmosphere",
+    "welcoming entrance ambiance",
+    "soft background conversation friendly",
+    "gentle evening dinner setting",
+    "cozy neighborhood restaurant",
+    "cheerful lunch hour ambiance"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no heavy percussion",
+    "no modern instruments",
+    "no electronic sounds",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no loud dynamics",
+    "no fast tempo",
+    "no dramatic",
+    "no epic"
+  ]
+}

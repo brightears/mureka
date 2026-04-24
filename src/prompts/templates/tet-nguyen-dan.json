@@ -1,0 +1,80 @@
+{
+  "id": "tet-nguyen-dan",
+  "name": "Tết Nguyên Đán (Vietnamese Lunar New Year)",
+  "description": "Authentic Vietnamese Lunar New Year instrumental music featuring Đàn Tranh zither, Đàn Bầu monochord, and Sáo Trúc bamboo flute",
+  "type": "instrumental",
+
+  "genres": [
+    "Tết Nguyên Đán"
+  ],
+
+  "subGenres": [
+    "Đàn Tranh zither ensemble",
+    "traditional Vietnamese folk",
+    "Hòa Tấu Vietnamese concert",
+    "spring celebration music",
+    "Vietnamese New Year festival"
+  ],
+
+  "moods": [
+    "festive",
+    "joyful",
+    "optimistic",
+    "celebratory",
+    "bright",
+    "energetic",
+    "lucky",
+    "spring awakening",
+    "nostalgic homecoming",
+    "cheerful"
+  ],
+
+  "tempos": [
+    { "label": "upbeat festive", "minBpm": 120, "maxBpm": 145 },
+    { "label": "energetic spring", "minBpm": 130, "maxBpm": 150 },
+    { "label": "lively celebration", "minBpm": 115, "maxBpm": 135 },
+    { "label": "warm nostalgic", "minBpm": 85, "maxBpm": 105 }
+  ],
+
+  "instruments": [
+    "Đàn Tranh 16-string zither",
+    "Sáo Trúc bamboo flute",
+    "Đàn Bầu monochord",
+    "Vietnamese percussion",
+    "wooden temple blocks",
+    "gongs and bells",
+    "sparkling zither",
+    "traditional drums",
+    "wind chimes",
+    "plucked strings"
+  ],
+
+  "useCases": [
+    "Tết family gathering",
+    "Lunar New Year celebration",
+    "spring festival party",
+    "Vietnamese New Year ambiance",
+    "festive home background",
+    "Tết holiday playlist"
+  ],
+
+  "atmospheres": [
+    "pentatonic scale melody",
+    "sparkling water-like zither",
+    "bending soulful monochord",
+    "airy bamboo flute",
+    "spring blossom festival",
+    "peach blossom celebration",
+    "lucky new year",
+    "Vietnamese folk ensemble"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no western pop",
+    "no generic Asian meditation",
+    "no heavy bass",
+    "no electronic beats",
+    "no distortion"
+  ]
+}

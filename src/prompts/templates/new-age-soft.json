@@ -1,0 +1,93 @@
+{
+  "id": "new-age-soft",
+  "name": "New Age Soft",
+  "description": "Gentle ethereal new age with soft synth pads, flowing melodies, and peaceful atmosphere",
+  "type": "instrumental",
+
+  "genres": [
+    "new age"
+  ],
+
+  "subGenres": [
+    "new age soft ethereal flowing",
+    "new age gentle ambient peaceful",
+    "new age relaxation soft melodic",
+    "new age meditation calm gentle",
+    "new age healing soft warm",
+    "new age ambient ethereal soothing",
+    "new age peaceful floating gentle",
+    "new age tranquil soft flowing"
+  ],
+
+  "moods": [
+    "peaceful and ethereal",
+    "gentle and flowing",
+    "calm and soothing",
+    "soft and dreamy",
+    "tranquil and healing",
+    "serene and floating",
+    "warm and gentle",
+    "meditative and peaceful"
+  ],
+
+  "tempos": [
+    { "label": "very slow new age", "minBpm": 55, "maxBpm": 65 },
+    { "label": "slow new age", "minBpm": 65, "maxBpm": 75 },
+    { "label": "gentle new age", "minBpm": 75, "maxBpm": 85 }
+  ],
+
+  "instruments": [
+    "soft synth pad warm evolving",
+    "gentle piano melodic phrases",
+    "ethereal pad floating atmospheric",
+    "soft flute breathy melodic",
+    "warm strings gentle sustained",
+    "soft harp arpeggios flowing",
+    "ambient pad slow evolving warm",
+    "gentle bells soft shimmer",
+    "soft choir pad ethereal",
+    "warm synth texture floating",
+    "gentle acoustic guitar soft",
+    "soft nature sounds subtle"
+  ],
+
+  "useCases": [
+    "spa relaxation room",
+    "meditation session",
+    "yoga studio",
+    "massage therapy",
+    "wellness center",
+    "peaceful home atmosphere"
+  ],
+
+  "atmospheres": [
+    "peaceful floating serenity",
+    "gentle healing atmosphere",
+    "soft ethereal dreamscape",
+    "tranquil meditation space",
+    "warm gentle sanctuary",
+    "flowing peaceful energy",
+    "serene ambient warmth",
+    "gentle calming presence"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no singing",
+    "no drums",
+    "no drum kit",
+    "no percussion",
+    "no beats",
+    "no bass",
+    "no rhythm",
+    "no guitar solo",
+    "no saxophone",
+    "no jazz",
+    "no rock",
+    "no EDM",
+    "no fast tempo",
+    "no high energy",
+    "no sudden changes",
+    "no harsh sounds"
+  ]
+}

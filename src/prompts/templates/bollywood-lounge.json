@@ -1,0 +1,83 @@
+{
+  "id": "bollywood-lounge",
+  "name": "Bollywood Lounge Instrumental",
+  "description": "Modern Bollywood-inspired lounge instrumental for Indian restaurants, hotels, and upscale dining",
+  "type": "instrumental",
+
+  "genres": [
+    "bollywood lounge"
+  ],
+
+  "subGenres": [
+    "bollywood lounge instrumental warm",
+    "modern indian film music soft",
+    "bollywood romantic instrumental gentle",
+    "indian cinematic lounge warm",
+    "contemporary bollywood acoustic soft",
+    "bollywood unplugged instrumental mellow",
+    "indian film score lounge light",
+    "modern hindi film instrumental gentle"
+  ],
+
+  "moods": [
+    "warm and romantic",
+    "melodic and inviting",
+    "sophisticated and rich",
+    "gentle and cinematic",
+    "nostalgic and warm",
+    "elegant and emotional",
+    "smooth and pleasant",
+    "heartfelt and tender"
+  ],
+
+  "tempos": [
+    { "label": "slow romantic", "minBpm": 70, "maxBpm": 85 },
+    { "label": "moderate gentle", "minBpm": 85, "maxBpm": 100 },
+    { "label": "light flowing", "minBpm": 98, "maxBpm": 112 }
+  ],
+
+  "instruments": [
+    "sitar melodic warm gentle",
+    "flute bansuri soft breathy melodic",
+    "tabla soft rhythmic groove",
+    "warm strings bollywood sweeping",
+    "acoustic guitar fingerpicked warm",
+    "soft piano chords emotional",
+    "santoor shimmering gentle",
+    "sarangi melodic warm phrases",
+    "light percussion dholak gentle",
+    "warm violin melodic indian"
+  ],
+
+  "useCases": [
+    "indian restaurant upscale dining",
+    "indian hotel lobby",
+    "indian wedding reception background",
+    "bollywood themed lounge",
+    "fine dining indian restaurant",
+    "luxury resort india"
+  ],
+
+  "atmospheres": [
+    "warm candle-lit indian dining",
+    "elegant hotel lobby india",
+    "romantic evening restaurant",
+    "sophisticated indian lounge",
+    "warm golden hour terrace india",
+    "tasteful modern indian interior",
+    "refined mughal garden evening",
+    "warm monsoon evening indoors"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no jazz",
+    "no EDM",
+    "no heavy beats",
+    "no distortion",
+    "no aggressive",
+    "no loud",
+    "no western pop"
+  ]
+}

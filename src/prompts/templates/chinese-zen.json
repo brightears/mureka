@@ -1,0 +1,86 @@
+{
+  "id": "chinese-zen",
+  "name": "Chinese Ambient Zen",
+  "description": "Meditative Chinese ambient music with guqin, temple bells, and zen atmosphere",
+  "type": "instrumental",
+
+  "genres": [
+    "chinese zen"
+  ],
+
+  "subGenres": [
+    "guqin meditation ancient",
+    "chinese zen ambient minimal",
+    "temple meditation peaceful",
+    "tao ambient flowing",
+    "chinese mindfulness sparse",
+    "zen garden soundscape",
+    "buddhist meditation calm",
+    "ancient chinese contemplation"
+  ],
+
+  "moods": [
+    "deeply peaceful",
+    "meditative and still",
+    "zen and centered",
+    "tranquil and timeless",
+    "spiritual and grounding",
+    "contemplative and quiet",
+    "serene and empty",
+    "ancient and wise"
+  ],
+
+  "tempos": [
+    { "label": "very slow meditative", "minBpm": 40, "maxBpm": 55 },
+    { "label": "slow breathing pace", "minBpm": 55, "maxBpm": 68 },
+    { "label": "gentle flowing", "minBpm": 65, "maxBpm": 78 }
+  ],
+
+  "instruments": [
+    "guqin ancient plucked sparse",
+    "temple bells resonant soft",
+    "singing bowl deep sustained",
+    "bamboo flute breathy solo sparse",
+    "xiao vertical flute gentle minimal",
+    "wooden fish temple percussion soft",
+    "stone chime clear gentle",
+    "guzheng sparse meditative phrases",
+    "wind chimes natural gentle",
+    "ambient drone subtle warm"
+  ],
+
+  "useCases": [
+    "zen meditation session",
+    "tea ceremony background",
+    "temple meditation hall",
+    "mindfulness practice",
+    "yoga studio",
+    "wellness retreat"
+  ],
+
+  "atmospheres": [
+    "zen rock garden stillness",
+    "mountain temple at dawn",
+    "incense smoke rising slowly",
+    "bamboo grove after rain",
+    "ancient monastery courtyard",
+    "lotus pond at sunrise",
+    "stone path through mist",
+    "empty meditation hall"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no percussion",
+    "no modern instruments",
+    "no electronic beats",
+    "no piano",
+    "no guitar",
+    "no bass",
+    "no orchestra",
+    "no busy arrangement",
+    "no fast tempo",
+    "no loud dynamics"
+  ]
+}

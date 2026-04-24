@@ -1,0 +1,71 @@
+{
+  "id": "thai-wellness-spa",
+  "name": "thai-wellness-spa",
+  "description": "Thai wellness spa \u2014 khim hammered dulcimer and Thai traditional instruments for Thai massage and wellness treatment rooms (second attempt with explicit Chinese instrument blocking)",
+  "type": "instrumental",
+  "genres": [
+    "Thai Wellness Spa"
+  ],
+  "subGenres": [
+    "thai traditional spa ambient khim hammered dulcimer sparse",
+    "thai wellness ambient ranat slow gentle",
+    "thai massage music slow peaceful khim",
+    "traditional thai instrument ambient very sparse spa"
+  ],
+  "moods": [
+    "serene and graceful with thai cultural warmth",
+    "gentle and meditative thai healing calm",
+    "peaceful and soft thai botanical garden",
+    "tranquil and ceremonial very slow"
+  ],
+  "tempos": [
+    "very slow 50-65 BPM",
+    "slow 55-68 BPM spa ambient",
+    "55-70 BPM thai wellness"
+  ],
+  "instruments": [
+    "solo khim hammered dulcimer soft shimmering sparse",
+    "thai ranat ek xylophone slow gentle phrases",
+    "soft pi nai oboe breathy very gentle sparse",
+    "solo hammered dulcimer gentle shimmering phrases",
+    "traditional thai wooden xylophone slow melodic"
+  ],
+  "useCases": [
+    "thai massage room",
+    "thai wellness spa",
+    "traditional thai treatment room",
+    "thai spa resort"
+  ],
+  "atmospheres": [
+    "thai botanical garden spa warm tropical",
+    "thai massage room serene jasmine warmth",
+    "thai temple garden peaceful ceremonial",
+    "traditional thai wellness sacred healing"
+  ],
+  "negativePrompts": [
+    "no vocals",
+    "no humming",
+    "no singing",
+    "no voice",
+    "no guzheng",
+    "no erhu",
+    "no pipa",
+    "no dizi",
+    "no yangqin",
+    "no chinese instruments",
+    "no koto",
+    "no shakuhachi",
+    "no japanese instruments",
+    "no western instruments",
+    "no piano",
+    "no guitar",
+    "no synth",
+    "no electronic",
+    "no bass",
+    "no orchestra",
+    "no drums",
+    "no percussion rhythm",
+    "no busy arrangement",
+    "no fast tempo"
+  ]
+}

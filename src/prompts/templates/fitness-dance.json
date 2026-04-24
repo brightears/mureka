@@ -1,0 +1,80 @@
+{
+  "id": "fitness-dance",
+  "name": "Fitness Dance Cardio",
+  "description": "Dance fitness and Zumba-style music, Latin house reggaeton Afrobeats, infectious grooves 130-160 BPM",
+  "type": "instrumental",
+
+  "genres": [
+    "fitness dance"
+  ],
+
+  "subGenres": [
+    "latin house dance energetic",
+    "reggaeton fitness upbeat",
+    "afrobeats dance workout",
+    "dancehall fitness groovy",
+    "tropical dance pop energetic",
+    "latin pop dance catchy",
+    "soca dance fitness party",
+    "latin EDM dance fusion"
+  ],
+
+  "moods": [
+    "fun and infectious",
+    "party and energetic",
+    "joyful and groovy",
+    "fiesta and uplifting",
+    "playful and vibrant",
+    "celebratory and wild",
+    "sexy and rhythmic",
+    "hot and dynamic"
+  ],
+
+  "tempos": [
+    { "label": "dance groove", "minBpm": 130, "maxBpm": 142 },
+    { "label": "high energy dance", "minBpm": 142, "maxBpm": 155 },
+    { "label": "peak party", "minBpm": 150, "maxBpm": 160 }
+  ],
+
+  "instruments": [
+    "latin percussion congas bright",
+    "reggaeton dembow beat",
+    "afrobeat percussion layered",
+    "bright synth lead catchy hook",
+    "punchy kick drum dance",
+    "tropical marimba melodic",
+    "timbales sharp rhythmic",
+    "dancehall riddim bass",
+    "shaker and cowbell groove",
+    "brass stabs party bright"
+  ],
+
+  "useCases": [
+    "Zumba class",
+    "dance cardio workout",
+    "dance fitness party",
+    "group dance class",
+    "latin dance workout",
+    "high energy dance session"
+  ],
+
+  "atmospheres": [
+    "dance floor party energy",
+    "latin fiesta celebration",
+    "tropical dance night",
+    "carnival party vibes",
+    "hot dance studio energy",
+    "group dance euphoria"
+  ],
+
+  "negativePrompts": [
+    "no vocals",
+    "no slow tempo",
+    "no ambient",
+    "no chill",
+    "no dark",
+    "no sad",
+    "no jazz",
+    "no classical"
+  ]
+}
