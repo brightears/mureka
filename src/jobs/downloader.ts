@@ -1,4 +1,5 @@
-import { createWriteStream, existsSync, mkdirSync } from 'fs';
+import { createWriteStream, existsSync, mkdirSync, renameSync, statSync, unlinkSync } from 'fs';
+import { randomBytes } from 'crypto';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { pipeline } from 'stream/promises';
@@ -26,6 +27,11 @@ const LOCAL_OUTPUT_DIR = join(__dirname, '../../output/tracks');
 const DEFAULT_OUTPUT_DIR = process.env.OUTPUT_DIR ||
   (existsSync(dirname(GOOGLE_DRIVE_PATH)) ? GOOGLE_DRIVE_PATH : LOCAL_OUTPUT_DIR);
 const MAX_PARALLEL_DOWNLOADS = 5;
+
+// Any completed audio file smaller than this is an error body, not a track
+// (a real Mureka MP3/FLAC is megabytes). Guards both fresh downloads and the
+// resume skip below.
+const MIN_AUDIO_BYTES = 100_000;
 
 export interface DownloadConfig {
   db?: TracksDatabase;
@@ -149,10 +155,30 @@ export class Downloader {
     const filename = this.generateFilename(track);
     const localPath = join(this.outputDir, filename);
 
-    // Skip if already exists
+    // Skip if a plausible complete file already exists. The size floor matters:
+    // before the atomic tmp+rename below existed, a killed/failed run could
+    // leave a truncated file at the final path and this skip made the
+    // truncation PERMANENT (the 2026-08 track-health investigation found this
+    // was the only way a short file could silently reach the catalog). With
+    // atomic renames a final-path file is always a completed download, but the
+    // floor still catches historical debris.
     if (existsSync(localPath)) {
-      this.db.updateTrackLocalPath(track.song_id, localPath);
-      return localPath;
+      let existingSize = 0;
+      try {
+        existingSize = statSync(localPath).size;
+      } catch {
+        existingSize = 0;
+      }
+      if (existingSize >= MIN_AUDIO_BYTES) {
+        this.db.updateTrackLocalPath(track.song_id, localPath);
+        return localPath;
+      }
+      // Too small to be a track — treat as a failed download and redo it.
+      try {
+        unlinkSync(localPath);
+      } catch {
+        /* ignore — the rename below overwrites it anyway */
+      }
     }
 
     // Ensure subdirectory exists (if organizing by genre)
@@ -177,8 +203,38 @@ export class Downloader {
       throw new Error('No response body');
     }
 
-    const writeStream = createWriteStream(localPath);
-    await pipeline(Readable.fromWeb(response.body as ReadableStream), writeStream);
+    // Stream to a temp name in the SAME directory, verify, then atomically
+    // rename into place. The final path can therefore never hold a partial
+    // file — a crash/kill mid-stream leaves only a .part file that the next
+    // run ignores (and re-downloads cleanly). This matters doubly on the
+    // Google Drive stream mount, where 5 concurrent writers + a flaky sync
+    // made silent truncation a real occurrence.
+    const tmpPath = `${localPath}.part-${randomBytes(4).toString('hex')}`;
+    try {
+      const writeStream = createWriteStream(tmpPath);
+      await pipeline(Readable.fromWeb(response.body as ReadableStream), writeStream);
+
+      const written = statSync(tmpPath).size;
+      const expected = Number(response.headers.get('content-length') || 0);
+      if (expected > 0 && written !== expected) {
+        throw new Error(
+          `Truncated download for ${track.title}: got ${written} of ${expected} bytes`
+        );
+      }
+      if (written < MIN_AUDIO_BYTES) {
+        throw new Error(
+          `Download too small to be audio for ${track.title}: ${written} bytes`
+        );
+      }
+      renameSync(tmpPath, localPath);
+    } catch (err) {
+      try {
+        unlinkSync(tmpPath);
+      } catch {
+        /* already gone */
+      }
+      throw err;
+    }
 
     // Add metadata tags if enabled
     if (this.addMetadata) {
