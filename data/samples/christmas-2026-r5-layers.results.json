@@ -1,0 +1,62 @@
+{
+ "Lounge LH1-1 + soft bells": {
+  "task_id": "165507745644545",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-2a6FEWbWQDGUXuFCqzVuMc.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Lounge LH1-1 + soft bells (generated Percussion).mp3",
+  "input": "/Users/benorbe/Downloads/Christmas/Round 4/Christmas Lounge/Christmas Lounge Sample LH1-1.mp3"
+ },
+ "Acoustic A7-1 + celesta": {
+  "task_id": "165507745513474",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-LN4H2UWic5fKBBFC8qW5oS.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Acoustic A7-1 + celesta (generated Keyboard).mp3",
+  "input": "/Users/benorbe/Downloads/Christmas/Round 4/Christmas Acoustic/Christmas Acoustic Sample A7-1.mp3"
+ },
+ "Jazz J8-1 + sleigh bells": {
+  "task_id": "165507745644546",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-5R6dKx6tmJ8J48m1bBn41G.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Jazz J8-1 + sleigh bells (generated Percussion).mp3",
+  "input": "/Users/benorbe/Downloads/Christmas/Round 4/Christmas Jazz/Christmas Jazz Sample J8-1.mp3"
+ },
+ "Classical CL9-1 + bells": {
+  "task_id": "165507814850561",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-L6hKkmx9cApsSirVKX1jEc.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Classical CL9-1 + bells (generated Percussion).mp3",
+  "input": "/Users/benorbe/Downloads/Christmas/Round 4/Christmas Classical/Christmas Classical Sample CL9-1.mp3"
+ },
+ "Lounge LH1-1 + celesta": {
+  "task_id": "165507875667971",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-5SPJ2xJ6et6eHkEUj2twxs.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Lounge LH1-1 + celesta (generated Keyboard).mp3",
+  "input": "/Users/benorbe/Downloads/Christmas/Round 4/Christmas Lounge/Christmas Lounge Sample LH1-1.mp3"
+ },
+ "Jazz - Silent Night (carol)": {
+  "task_id": "165507850371073",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-EWMP8fY6zXUXtZt8i2xnWZ.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Jazz - Silent Night (carol) (generated Instrumental).mp3",
+  "input": "data/melodies/silent-night-musicbox-x3.mp3"
+ },
+ "Acoustic - Silent Night (carol)": {
+  "task_id": "165507854630914",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-96V3twMiYaW3xa5KrWyDe1.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Acoustic - Silent Night (carol) (generated Instrumental).mp3",
+  "input": "data/melodies/silent-night-musicbox-x3.mp3"
+ },
+ "Classical - Silent Night (carol)": {
+  "task_id": "165507850305537",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-V4cXnVLFSCZZu3ZeURCzSF.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Classical - Silent Night (carol) (generated Instrumental).mp3",
+  "input": "data/melodies/silent-night-musicbox-x3.mp3"
+ },
+ "Lounge - Jingle Bells (carol)": {
+  "task_id": "165507921805313",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-EFJGFcqbozs786N8RXr1eu.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Lounge - Jingle Bells (carol) (generated Instrumental).mp3",
+  "input": "data/melodies/jingle-bells-musicbox-slow-x3.mp3"
+ },
+ "Jazz - Jingle Bells (carol)": {
+  "task_id": "165507980525569",
+  "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-FFKxVm57eVsYMqEErdueXW.mp3",
+  "generated_file": "/Users/benorbe/Downloads/Christmas/Round 5 - Christmas layers/_Jazz - Jingle Bells (carol) (generated Instrumental).mp3",
+  "input": "data/melodies/jingle-bells-musicbox-slow-x3.mp3"
+ }
+}

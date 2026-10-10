@@ -31,6 +31,7 @@ def run(job, root):
     if q['status'] != 'succeeded': return f"{job['name']}: {q['status']} {q.get('failed_reason') or ''}"
     gen = os.path.join(out_dir, f"_{job['name']} (generated {job['generate_type']}).mp3")
     urllib.request.urlretrieve(q['choices'][0]['url'], gen)
+    RESULTS[job['name']] = {'task_id': t['id'], 'url': q['choices'][0]['url'], 'generated_file': gen, 'input': src}
     # base = the part that stays at full level; top = the part mixed at gain_db
     base, top = (src, gen) if job['mode'] == 'layer' else (gen, src)
     g = job.get('gain_db', -9 if job['mode'] == 'layer' else -3)
@@ -43,6 +44,8 @@ def run(job, root):
                              capture_output=True, text=True).stdout or 0)
     return f"{job['name']}: ok ({d:.0f}s, generated layer kept as '_{job['name']} (generated ...)')"
 
+RESULTS = {}  # name -> task id + CDN url of the generated part (CDN links live ~30 days)
+
 def _safe(j, root):
     try: return run(j, root)
     except Exception as e: return f"{j['name']}: ERROR {e}"
@@ -52,3 +55,4 @@ if __name__ == '__main__':
     with ThreadPoolExecutor(max_workers=5) as ex:
         for msg in ex.map(lambda j: _safe(j, spec['root']), spec['jobs']):
             print(msg, flush=True)
+    json.dump(RESULTS, open(sys.argv[1].replace('.json', '.results.json'), 'w'), indent=1)
