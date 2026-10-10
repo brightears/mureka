@@ -1,0 +1,95 @@
+{
+ "root": "Christmas/Round 6 - overlay bases",
+ "model": "mureka-9",
+ "describe": false,
+ "families": [
+  {
+   "key": "Classical-Cmajor",
+   "playlist": "Christmas Classical",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, concert hall, acoustic, in C major, key of C major, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+   "grid": {
+    "key": "C major",
+    "bpm": 60
+   }
+  },
+  {
+   "key": "Classical-Fmajor",
+   "playlist": "Christmas Classical",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, concert hall, acoustic, in F major, key of F major, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+   "grid": {
+    "key": "F major",
+    "bpm": 60
+   }
+  },
+  {
+   "key": "Jazz-Fmajor",
+   "playlist": "Christmas Jazz",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 64 BPM, in F major, key of F major, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+   "grid": {
+    "key": "F major",
+    "bpm": 64
+   }
+  },
+  {
+   "key": "Jazz-Cmajor",
+   "playlist": "Christmas Jazz",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 64 BPM, in C major, key of C major, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+   "grid": {
+    "key": "C major",
+    "bpm": 64
+   }
+  },
+  {
+   "key": "Acoustic-Cmajor",
+   "playlist": "Christmas Acoustic",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, in C major, key of C major, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+   "grid": {
+    "key": "C major",
+    "bpm": 60
+   }
+  },
+  {
+   "key": "Acoustic-Fmajor",
+   "playlist": "Christmas Acoustic",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, in F major, key of F major, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+   "grid": {
+    "key": "F major",
+    "bpm": 60
+   }
+  },
+  {
+   "key": "Lounge-Aminor",
+   "playlist": "Christmas Lounge",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, in A minor, key of A minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+   "grid": {
+    "key": "A minor",
+    "bpm": 72
+   }
+  },
+  {
+   "key": "Lounge-Cmajor",
+   "playlist": "Christmas Lounge",
+   "kind": "instrumental",
+   "n": 2,
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, in C major, key of C major, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+   "grid": {
+    "key": "C major",
+    "bpm": 72
+   }
+  }
+ ]
+}
