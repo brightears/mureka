@@ -1,0 +1,54 @@
+{
+  "id": "japanese-contemporary-koto",
+  "name": "Japanese Contemporary Koto Fusion",
+  "description": "Modern koto fusion with warm piano and gentle light percussion — approved direction A of the Japanese Contemporary Instrumental playlist (82 BPM, elegant, flowing)",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese contemporary instrumental"
+  ],
+
+  "subGenres": [
+    "modern koto fusion",
+    "modern koto fusion elegant",
+    "contemporary koto fusion flowing"
+  ],
+
+  "moods": [
+    "elegant and refined",
+    "flowing and graceful",
+    "relaxed and unhurried",
+    "calm and graceful",
+    "serene and elegant"
+  ],
+
+  "tempos": [
+    { "label": "relaxed", "minBpm": 80, "maxBpm": 84 }
+  ],
+
+  "instruments": [
+    "koto plucked melodic flowing",
+    "warm piano chords soft",
+    "gentle light percussion soft",
+    "soft koto arpeggios gentle",
+    "warm piano melody gentle"
+  ],
+
+  "useCases": [
+    "modern japanese restaurant",
+    "japanese boutique hotel lobby",
+    "contemporary japanese dining"
+  ],
+
+  "atmospheres": [],
+
+  "negativePrompts": [
+    "no vocals",
+    "no saxophone",
+    "no jazz",
+    "no EDM",
+    "no heavy drums",
+    "no enka",
+    "no fast tempo"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+ "root": "Christmas",
+ "model": "mureka-9.5",
+ "describe": true,
+ "families": [
+  {
+   "key": "CL1",
+   "playlist": "Christmas Classical",
+   "prompt": "festive orchestral christmas, classical chamber orchestra, pizzicato strings, celesta and glockenspiel melody, harp arpeggios, warm french horn, soft sleigh bells, magical winter wonder, nutcracker ballet style, 100 BPM, elegant hotel lobby, [no vocals], [no choir], [no singing], [no drums], [no synth], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL2",
+   "playlist": "Christmas Classical",
+   "prompt": "classical christmas string quartet, baroque style, warm violin melody, cello, harpsichord continuo, gentle and elegant, candlelit winter evening, 76 BPM, [no vocals], [no choir], [no singing], [no drums], [no synth], [no orchestra]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J1",
+   "playlist": "Christmas Jazz",
+   "prompt": "christmas jazz, swinging piano trio, walking upright bass, brushed drums, sleigh bells, warm and festive, cozy fireplace, 120 BPM swing, [no vocals], [no choir], [no singing], [no saxophone], [no synth]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J2",
+   "playlist": "Christmas Jazz",
+   "prompt": "festive christmas jazz, vibraphone melody, clean jazz guitar comping, upright bass, brushed drums, sleigh bell accents, warm and joyful, 110 BPM, winter holiday cafe, [no vocals], [no choir], [no singing], [no synth], [no electric bass]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CP",
+   "playlist": "Christmas Jazz",
+   "prompt": "jazz piano trio instrumental arrangement of the traditional christmas carol silent night, gentle swing, brushed drums, upright bass, 80 BPM, [no vocals], [no choir], [no singing]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L1",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas chillout downtempo, soft electronic beat, warm synth keys, celesta and glockenspiel melody, sleigh bells shimmer, deep warm bass, dreamy snowfall atmosphere, 90 BPM, [no vocals], [no choir], [no singing], [no saxophone], [no jazz], [no brass]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L2",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas bossa nova, nylon guitar bossa rhythm, soft piano melody, sleigh bells, light shaker, warm upright bass, relaxed and festive, 88 BPM, winter holiday hotel bar, [no vocals], [no choir], [no singing], [no saxophone], [no trumpet]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P1",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "upbeat christmas pop instrumental, 1960s wall of sound, driving sleigh bells, glockenspiel melody, bright piano, tambourine, full drums, joyful and festive, 140 BPM, holiday shopping mall, [no vocals], [no choir], [no singing]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P2",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "modern christmas pop instrumental, bright synth bells melody, piano chords, sleigh bells, punchy pop drums, warm bass, uplifting and cheerful, 118 BPM, festive retail store, [no vocals], [no choir], [no singing], [no EDM drops]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "V1",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "female",
+   "lyrics": "[Verse]\nCity lights are glowing on the avenue\nPaper stars in windows, shining red and blue\nEverybody's hurrying with a smile tonight\nBells are ringing out and everything feels right\n\n[Pre-Chorus]\nWrap a scarf around me, take my hand\nOut into the snow just like we planned\n\n[Chorus]\nUnder silver lights in town\nEvery heart is dancing, spin me all around\nRing the bells and let them sound\nUnder silver lights in town\n\n[Verse]\nCinnamon and candles in the corner shop\nLittle kids are laughing and they'll never stop\nSnowflakes on your eyelashes, a golden glow\nSpinning round the square where all the lanterns go\n\n[Chorus]\nUnder silver lights in town\nEvery heart is dancing, spin me all around\nRing the bells and let them sound\nUnder silver lights in town\n\n[Bridge]\nOh the frost may bite, but we're warm inside\nWith a million little lights we'll never hide\n\n[Chorus]\nUnder silver lights in town\nEvery heart is dancing, spin me all around\nRing the bells and let them sound\nUnder silver lights in town\n\n[Outro]\nUnder silver lights in town",
+   "prompt": "upbeat christmas pop, bright warm female vocal, sleigh bells, glockenspiel, piano, full band, 1960s retro holiday sound, joyful, 138 BPM",
+   "n": 2
+  },
+  {
+   "key": "V2",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "male",
+   "lyrics": "[Verse]\nThe road was long, the winter came too soon\nI watched the snow fall under a quiet moon\nNow every window's golden, every door is open wide\nAnd I'm finally coming back to you tonight\n\n[Chorus]\nKeep a candle in the window\nKeep the kettle warm for me\nThere's a place beside the fire\nWhere I'm always meant to be\n\n[Verse]\nOld tunes on the radio, your laughter down the hall\nThe little silver bells we hung along the wall\nWhatever this year took from us, whatever came and went\nTonight is ours and every hour is heaven sent\n\n[Chorus]\nKeep a candle in the window\nKeep the kettle warm for me\nThere's a place beside the fire\nWhere I'm always meant to be\n\n[Bridge]\nAnd when the midnight bells begin to ring\nI'll hold you close, it's the only gift I bring\n\n[Chorus]\nKeep a candle in the window\nKeep the kettle warm for me\nThere's a place beside the fire\nWhere I'm always meant to be\n\n[Outro]\nWhere I'm always meant to be",
+   "prompt": "warm christmas pop ballad, soft warm male vocal, piano, acoustic guitar, strings, sleigh bells, cozy and heartfelt, 84 BPM",
+   "n": 2
+  },
+  {
+   "key": "A1",
+   "playlist": "Christmas Acoustic",
+   "prompt": "solo piano christmas, gentle festive melody, warm and cozy, soft sustained chords, snowy evening by the fireplace, 72 BPM, [no vocals], [no choir], [no singing], [no drums], [no strings], [no orchestra]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "A2",
+   "playlist": "Christmas Acoustic",
+   "prompt": "acoustic guitar christmas, fingerpicked steel string guitar, soft glockenspiel accents, warm and intimate, winter cabin, 80 BPM, [no vocals], [no choir], [no singing], [no drums], [no synth]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H1",
+   "playlist": "Christmas House",
+   "prompt": "festive christmas deep house, soft four-on-the-floor kick, sleigh bells groove, warm piano chords, glockenspiel melody, deep bass, uplifting holiday, 122 BPM, luxury retail store, [no vocals], [no choir], [no singing], [no EDM drops], [no saxophone]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H2",
+   "playlist": "Christmas House",
+   "prompt": "christmas nu disco, funky bass guitar, sleigh bells, string stabs, bright piano, disco hi-hats, festive and groovy, 118 BPM, holiday party, [no vocals], [no choir], [no singing], [no saxophone]",
+   "kind": "instrumental",
+   "n": 2
+  }
+ ]
+}

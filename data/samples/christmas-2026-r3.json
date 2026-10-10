@@ -1,0 +1,99 @@
+{
+ "root": "Christmas/Round 3",
+ "model": "mureka-9.5",
+ "describe": false,
+ "families": [
+  {
+   "key": "CL5",
+   "playlist": "Christmas Classical",
+   "prompt": "classical christmas, mozart style chamber orchestra, elegant and romantic, graceful violin melody, strings, woodwinds, harpsichord, celesta and sleigh bells accents, moderato 72 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no guitar], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL6",
+   "playlist": "Christmas Classical",
+   "prompt": "classical christmas, tchaikovsky nutcracker ballet style, romantic orchestra, celesta sparkle, pizzicato strings, harp, flute and oboe, warm french horns, lush romantic strings, andante 68 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL7",
+   "playlist": "Christmas Classical",
+   "prompt": "classical christmas, romantic era, chopin style tender piano with string orchestra, warm and romantic, soft celesta, snowy winter night, adagio 64 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J5",
+   "playlist": "Christmas Jazz",
+   "prompt": "christmas music, jazz piano trio playing christmas carol melodies, jingle bells and sleigh bells, celesta and glockenspiel accents, warm upright bass, brushed drums, festive and cozy, 84 BPM, [no vocals], [no choir], [no synth], [no bossa nova]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J6",
+   "playlist": "Christmas Jazz",
+   "prompt": "christmas big band jazz instrumental, festive swing, muted trumpets, warm trombones, sleigh bells, glockenspiel, piano, walking bass, brushed drums, joyful holiday, 96 BPM, [no vocals], [no choir], [no synth], [no bossa nova]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L5",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas music, cinematic winter chill, soft slow downtempo beat, warm lush strings, harp, music box and celesta melody, gentle sleigh bells, soft piano accents, cozy and magical, 70 BPM, [no vocals], [no choir], [no saxophone], [no nylon guitar], [no guitar], [no bossa nova], [no smooth jazz], [no jazz], [no synth lead]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L5-M9",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas music, cinematic winter chill, soft slow downtempo beat, warm lush strings, harp, music box and celesta melody, gentle sleigh bells, soft piano accents, cozy and magical, 70 BPM, [no vocals], [no choir], [no saxophone], [no nylon guitar], [no guitar], [no bossa nova], [no smooth jazz], [no jazz], [no synth lead]",
+   "model": "mureka-9",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P5",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "christmas pop instrumental, modern pop band, bright electric guitar, real drums pop beat, piano, sleigh bells, glockenspiel melody, uplifting and catchy, 112 BPM, [no vocals], [no choir], [no jazz], [no swing], [no bossa nova], [no synth lead]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P6",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "christmas pop rock instrumental, 1980s holiday pop, jangly electric guitar, sleigh bells, tubular bells, bright piano, driving drums, joyful, 126 BPM, [no vocals], [no choir], [no jazz], [no swing], [no saxophone], [no bossa nova]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "A5",
+   "playlist": "Christmas Acoustic",
+   "prompt": "christmas music, new age solo piano, very slow and tender, rubato, music box celesta, soft distant sleigh bells, peaceful snowy night, 60 BPM, [no vocals], [no choir], [no jazz], [no swing], [no bossa nova], [no drums], [no bass]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "A6",
+   "playlist": "Christmas Acoustic",
+   "prompt": "christmas folk instrumental, fingerpicked steel string acoustic guitar, soft glockenspiel, gentle sleigh bells, very slow and peaceful, 64 BPM, winter cabin, [no vocals], [no choir], [no jazz], [no bossa nova], [no nylon guitar], [no drums]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H5",
+   "playlist": "Christmas House",
+   "prompt": "christmas music, festive deep house, glockenspiel and celesta lead melody, sleigh bells groove, pizzicato strings, tubular bells, warm sub bass, soft kick, 120 BPM, [no vocals], [no choir], [no piano lead], [no synth lead], [no chiptune]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H6",
+   "playlist": "Christmas House",
+   "prompt": "christmas music, soulful house, live strings lead melody, handbells, sleigh bells, marimba accents, deep warm bass, soft four-on-the-floor, 122 BPM, festive and elegant, [no vocals], [no choir], [no piano], [no synth lead], [no chiptune]",
+   "kind": "instrumental",
+   "n": 2
+  }
+ ]
+}

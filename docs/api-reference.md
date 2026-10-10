@@ -26,11 +26,26 @@ API Keys: https://platform.mureka.ai/apiKeys
 | Standard | $3,000 | 15 |
 | Business | $5,000 | 25 |
 
-| Service | Price |
-|---------|-------|
-| BGM/Instrumental | $0.03/track |
-| Song (vocals) | $0.03-$0.05/track |
-| Lyrics | $0.009/lyric |
+Per-call prices (platform.mureka.ai/pricing, checked 2026-09-23):
+
+| Service | Model | Price |
+|---------|-------|-------|
+| BGM/Instrumental | mureka-9.5 | $0.15/track |
+| BGM/Instrumental | V8 / V9 | $0.045/track |
+| BGM/Instrumental | V7.6 | $0.03/track |
+| Lyrics-to-song | 9.5 / O2-V8-V9 / V7.6 | $0.15 / $0.045 / $0.03 |
+| Prompt-to-song (`song/easy-generate`) | 9.5 / others | $0.50 / $0.30 |
+| **Describe song** | analysis model | **$0.10/song** — NOT free; describing every track adds ~67% on top of 9.5 generation |
+| Stem export | audio-separation-1 (5 stems) / -2 (12 stems + MIDI) / -3 (vocal+instr) | $0.06 / $0.70 / $0.20 |
+| Single track generation (`track/generate`) | V8 | $0.09 |
+| Soundtrack (image/video → music) | V9 | $0.10 |
+| Music video (`video/generate`) | Seedance 2.x | $0.013–0.62 per output second (10 s mini-model test billed ~$3.48 = ~$0.35/s; the charge posted hours later) |
+| Lyrics video | video model | $0.10/video |
+| Custom music model | train via sales; up to 200 samples | $0.06/song after training |
+| Lyrics | lyric model | $0.009/lyric |
+
+Cost reconciliation 2026-09-14 (Chill Med + Chillout Latin, 490 tracks): 490 × $0.15 gen + 490 × $0.10 describe
+= $122.50 of the $128.50 spent. The "9.5 costs more than announced" puzzle was the describe calls.
 
 ## Endpoints
 
@@ -43,7 +58,7 @@ Content-Type: application/json
 {
   "prompt": "string (max 1024 chars)",
   "title": "string (max 50 chars, optional)",
-  "model": "auto | mureka-7.5",
+  "model": "auto | mureka-7.5 | mureka-7.6 | mureka-o2 | mureka-8 | mureka-9",
   "n": "integer (default: 2, max: 3)"
 }
 ```
@@ -168,10 +183,32 @@ Returns: `instrument[]`, `genres[]`, `tags[]`, `description`
 
 | Endpoint | Available Models |
 |----------|------------------|
-| `/v1/song/generate` | `auto`, `mureka-7.5`, `mureka-7.6`, `mureka-o2`, `mureka-8` |
-| `/v1/instrumental/generate` | `auto`, `mureka-7.5`, `mureka-7.6`, `mureka-o2`, `mureka-8` |
+| `/v1/song/generate` | `auto`, `mureka-7.5`, `mureka-7.6`, `mureka-o2`, `mureka-8`, `mureka-9` |
+| `/v1/instrumental/generate` | `auto`, `mureka-7.5`, `mureka-7.6`, `mureka-o2`, `mureka-8`, `mureka-9` |
 
-**Note:** `auto` now resolves to `mureka-8` (V8) for both instrumental and song endpoints. V8 is the latest model with improved quality, vocal realism, and structural coherence.
+**Note:** `auto` resolves to `mureka-9` (V9, released 2026-04-09) for both instrumental and song endpoints — verified empirically 2026-08-10. V9 uses the MusiCoT two-stage architecture (structure plan, then audio) for better coherence.
+
+**mureka-9.5 (V9.5) — whitelisted for our account 2026-08-20 (via Erin @ Mureka).** Marketing pitch: more restrained arrangements, more natural vocals/timbre, truer to prompt, "less AI feel." Works on `/v1/instrumental/generate` with `model: "mureka-9.5"`; `auto` still resolves to `mureka-9`. Early-access pricing (beta until 2026-08-28): Lyrics-to-Song & Instrumental ~$0.045/song (reg $0.15); Prompt-to-Song $0.30/song (reg $0.50) — pricier than V9's $0.03/track, so evaluate cost-vs-quality per playlist (A/B on the next sample round; beta window is the cheap time to test).
+
+**Tested 2026-08-20 on the ultra-ambient brief: V9.5 does NOT fix the pure-ambient gap.** Same drone/underscore prompts that failed on V8/V9 also failed on V9.5 — strong 136 BPM beats (autocorr 0.49-0.54 vs reference 0.24), 15-25 dB too bright above 1 kHz, output tagged IDM/Electronic. "Restrained" ≠ beatless/static. Don't re-spend on ultra-ambient without a model-side change.
+
+## API Changelog Highlights (as of 2026-08)
+
+From the official changelog (`platform.mureka.ai/docs/en/changelog.html`):
+
+| Date | Change |
+|------|--------|
+| 2026-08-28 | mureka-9.5 enhanced; 9.5 now public in the API enums (no whitelist needed) |
+| 2026-08-14 | **Video generation API** (`/v1/video/generate`, `/v1/video/query/{id}`) |
+| 2026-07-09 | Music transcription endpoint; soundtrack `audio_start`/`audio_end` params; improved lyrics model |
+| 2026-06-25 | Stem API: vocal+instrumental separation; `gender` param on lyrics-to-song |
+| 2026-06-15 | Prompt-to-song endpoint (no lyrics needed); `vocal` purpose removed from file upload |
+| 2026-05-22 | Lyrics video + remix endpoints |
+| 2026-05-11 | Image/video soundtrack generation endpoint |
+| 2026-04-09 | **`mureka-9` released** |
+| 2026-04-08 | Complementary single-track generation from reference audio |
+| 2026-03-02 | `mureka-8` enhanced |
+| 2025-09-01 | `n` param for output quantity (default 2, max 3; `n:1` works for cheap single-track probes) |
 
 ## Task Statuses
 
@@ -210,3 +247,27 @@ Email: api-support@mureka.ai (responds within 24 hours)
 - Generation time: ~45 seconds average
 - Track length: Up to 5 minutes
 - Output: 2 variations per generation
+
+## New Capabilities Explored (2026-09-23)
+
+- **Agent Skill** (plan feature) = Skywork's open `skywork-music-maker` skill (github.com/SkyworkAI/Skywork-Skills),
+  a generic SKILL.md + `mureka.py` wrapper for Claude Code/Codex/OpenClaw. Defaults to vocal songs and `mureka-8`,
+  last synced 2026-04. Our repo's CLI + pipeline already covers more; do NOT install it here (its defaults contradict our rules).
+  The nav "MCP server" link = github.com/SkyworkAI/Mureka-mcp, unchanged since 2025-05.
+- **Stem separation** `POST /v1/song/stem {url, model}` — synchronous (~8 s for 90 s audio), returns `zip_url` of WAVs
+  (`drums, bass, other, vocals, instrumental, song`). Accepts cdn URLs or `data:audio/mp3;base64,...` (≤10 MB, mp3/m4a).
+  Test on a Chill Med track: drum stem removed cleanly (high band −6 dB), but the pulse stayed 0.67 (vs 0.83) because
+  bass + rhythm guitar carry the groove. Useful to delete a stray drum kit; not a fix for arrangement-level groove.
+- **Single track generation** `POST /v1/track/generate {song_id|upload_audio_id, generate_type, prompt}` — adds a
+  harmonized track (Guitar, Keyboard, Strings, Synth, Percussion, Brass, Woodwinds, Bass, Drums, Vocals, FX, Instrumental).
+  No accordion type. Returns a song task → poll `/v1/song/query/{id}`.
+- **Music video** `POST /v1/video/generate` — Seedance models (`doubao-seedance-2-5-260628` default, `-2-0-`, `-2-0-fast-`,
+  `-2-0-mini-`). Feed `song_id` (choice id of an instrumental generated in the last 30 days) + `audio_start/audio_end` ms,
+  `prompt`, `ratio`, `resolution`, `generate_audio:false`, `watermark:false`. Also text/image/video-to-video via `content[]`.
+  Poll `/v1/video/query/{id}` (statuses queued/running/succeeded/failed/expired); `video_url` valid 24 h — download at once.
+  Test: 10 s, mini model, "480p" requested → 1920×1080 H.264 with the track's audio muxed in, ~2 min wall time, billed ~$3.48 (posted late — check balance the next day, not right after). Scale check: at that rate 1 minute of video ≈ $21, a full 3-minute track video ≈ $63; higher resolution / the default Seedance 2.5 can cost more (up to $0.62/s ≈ $112 per 3 min).
+- **Lyrics video** `POST /v1/lyrics-video/generate` — $0.10, template layouts, instrumentals by time range only.
+- **Custom music model** — fine-tuning is now a sales-assisted product (up to 200 samples, then $0.06/song).
+- Other new endpoints: `song/easy-generate` (prompt-to-song + style enum), `song/remix`, `song/region-edit`,
+  `song/vocal-clone`, `song/transcribe` (MusicXML/PDF), chunked `uploads/create|add|complete` for large files,
+  `stream:true` on instrumental generate for playback while generating.

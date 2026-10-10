@@ -9,7 +9,7 @@ CLI tool for bulk AI music generation via Mureka API. Generates royalty-free tra
 | Runtime | Node.js 20+, TypeScript, Commander.js |
 | Data | JSON files in `data/` (tracks.json, used-titles.json) |
 | API Tier | $1,000 Basic (5 concurrent requests) |
-| Model | `auto` for instrumentals, `mureka-8` (V8 beta) available for songs |
+| Model | Instrumental `mureka-9`, vocal `mureka-9.5` — always explicit (blind test 2026-09-29) |
 
 ## Essential Commands
 
@@ -31,10 +31,12 @@ npm run dev -- test                          # Test API connection
    - CORRECT: `"jazz, piano, mellow, 80 BPM, no vocals"`
    - WRONG: `"Soft contemporary jazz music with piano..."`
 
-3. **Model:**
-   - Instrumentals: Use `auto` (resolves to `mureka-8` / V8)
-   - Songs (vocals): Use `mureka-8` (V8) - automatically used
-   - All models available for both endpoints: `auto`, `mureka-7.5`, `mureka-7.6`, `mureka-o2`, `mureka-8`
+3. **Model (Norbert's blind test 2026-09-29):**
+   - **Instrumentals: `mureka-9`** ($0.045/track) — 9 vs 9.5 was indistinguishable in a loudness-matched blind test.
+   - **Vocal songs: `mureka-9.5`** ($0.15/song) — other models' voices sound thin.
+   - Always pass `model` explicitly (CLI `-m`, scripts `model:`); `auto` = mureka-9 today but can move.
+   - **No `/v1/song/describe` calls** ($0.10/track) unless Norbert approves for a specific hard filter.
+   - All models available for both endpoints: `auto`, `mureka-7.6`, `mureka-o2`, `mureka-8`, `mureka-9`, `mureka-9.5`
 
 4. **Polling: Use `/query/{id}`** - NOT `/{id}` (404 error)
 
@@ -61,6 +63,16 @@ npm run dev -- test                          # Test API connection
 | `src/prompts/title-generator.ts` | Unique title generation |
 | `src/prompts/templates/*.json` | Genre template definitions |
 
+## Output Layout (per playlist, as of 2026-08-20)
+
+| Where | What |
+|-------|------|
+| `~/Downloads/<Genre>/` | Samples only (local; user listens) |
+| Personal Drive `Mureka/tracks/<Playlist> (flac)/` | THE archived playlist: cleaned lossless FLAC (only artifact there) |
+| BMAsia Drive `<Genre>/<Playlist>/` | Production: 96 kbps mono, −16 LUFS ("MP3Gain 91") |
+
+Full 4-stage pipeline (generate → clean FLAC → production prep → BMAsia upload): see @docs/workflows.md "Playlist Production Pipeline". Processing tools live in `tools/audio/`.
+
 ## Documentation (Read on Demand)
 
 For detailed information, Claude should read these files when relevant:
@@ -75,7 +87,7 @@ For detailed information, Claude should read these files when relevant:
 | DON'T | DO |
 |-------|-----|
 | `-c 100` expecting 100 tracks | `-c 50` for 100 tracks |
-| `model: "mureka-7.6"` for instrumental | `model: "auto"` for instrumental (resolves to V8) |
+| `model: "mureka-7.6"` or `auto` for instrumental | explicit `model: "mureka-9"` (instrumental) / `"mureka-9.5"` (vocal) |
 | `/v1/instrumental/{id}` | `/v1/instrumental/query/{id}` |
 | `status === 'completed'` | `status === 'succeeded'` |
 | Long sentence prompts | Short comma-separated tags |

@@ -1,0 +1,1421 @@
+{
+ "CL3": {
+  "key": "CL3",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162665481633796",
+  "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-1.mp3",
+    "songId": "162665597173762",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-LBRrWwYSeMkKoTwwSv5Uzk.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-7bhqfcCX2bndmEqr8vXnuK.flac",
+    "durationMs": 189470,
+    "instruments": [
+     "Harp",
+     "Cello",
+     "String Section"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "Instrumental Pop",
+     "Orchestral Pop"
+    ],
+    "tags": [
+     "romantic",
+     "emotional",
+     "uplifting",
+     "cinematic",
+     "heartfelt",
+     "melodic",
+     "orchestral",
+     "instrumental",
+     "duet",
+     "harmony",
+     "flowing",
+     "elegant",
+     "soothing",
+     "inspirational"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-2.mp3",
+    "songId": "162665597173763",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-FyxyEGbFFzwkBFr72pAuXK.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-CWYGwojc7ETUfndX4Sq9hd.flac",
+    "durationMs": 169350,
+    "instruments": [
+     "Harp",
+     "Violin",
+     "String Section"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "New Age",
+     "Instrumental"
+    ],
+    "tags": [
+     "Relaxing",
+     "Soothing",
+     "Meditative",
+     "Peaceful",
+     "Contemplative",
+     "Lush",
+     "Atmospheric",
+     "Cinematic",
+     "Ethereal",
+     "Romantic",
+     "Graceful",
+     "Melodic"
+    ]
+   }
+  ]
+ },
+ "CL3-M9": {
+  "key": "CL3-M9",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162665481699329",
+  "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-M9-1.mp3",
+    "songId": "162665603334145",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-B7JHqAGNdjLKXns1bBYh6S.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-27rKC59jGxHg3xJ1Vqq9wv.flac",
+    "durationMs": 205910,
+    "instruments": [
+     "Violin",
+     "Piano",
+     "Double Bass",
+     "Celesta"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "Chamber Music",
+     "Orchestral"
+    ],
+    "tags": [
+     "Instrumental",
+     "Virtuosic",
+     "Expressive",
+     "Dynamic",
+     "Melodic",
+     "Energetic",
+     "Passionate",
+     "Dramatic",
+     "Cinematic",
+     "Theatrical",
+     "Rhythmic",
+     "Syncopated",
+     "Lively",
+     "Intense",
+     "Passionate",
+     "Dramatic",
+     "Cinematic",
+     "Orchestral",
+     "Ensemble"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-M9-2.mp3",
+    "songId": "162665603334146",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-S65xpH9TxWMuwivrgSLbT3.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-EA7ATDZeMN5NFZNF7yfwYx.flac",
+    "durationMs": 214190,
+    "instruments": [
+     "Violin",
+     "Piano",
+     "Double Bass"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "Chamber Music",
+     "Gypsy Music"
+    ],
+    "tags": [
+     "Passionate",
+     "Virtuosic",
+     "Energetic",
+     "Driving Rhythm",
+     "Syncopated",
+     "Melodic",
+     "Expressive",
+     "Dynamic",
+     "Theatrical",
+     "Dance-like",
+     "Intense",
+     "Dramatic",
+     "Intricate"
+    ]
+   }
+  ]
+ },
+ "CL3-M8": {
+  "key": "CL3-M8",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162665481764866",
+  "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-M8-1.mp3",
+    "songId": "162665594945538",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-4eKyd8eDn8PzZPFW3UauoN.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-VU1KWRimrmK8HcgmkgThoe.flac",
+    "durationMs": 160990,
+    "instruments": [
+     "Flute",
+     "String Section (Violins, Violas)",
+     "Double Bass",
+     "Celesta"
+    ],
+    "genres": [
+     "Classical",
+     "Orchestral",
+     "Chamber Music"
+    ],
+    "tags": [
+     "Upbeat",
+     "Joyful",
+     "Light",
+     "Playful",
+     "Dance-like",
+     "Energetic",
+     "Bright",
+     "Elegant",
+     "Whimsical",
+     "Family-friendly",
+     "20th Century"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL3-M8-2.mp3",
+    "songId": "162665594945539",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-C1p46RYVuQYQk6PGYvZw86.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-XW5TMjDwwB6A11r4VPjCiA.flac",
+    "durationMs": 170030,
+    "instruments": [
+     "String Section",
+     "Piano",
+     "Upright Bass",
+     "Woodwind Section",
+     "Brass Section",
+     "Harp"
+    ],
+    "genres": [
+     "Tango",
+     "Orchestral",
+     "Classical"
+    ],
+    "tags": [
+     "1950s",
+     "Vintage",
+     "Nostalgic",
+     "Elegant",
+     "Melancholic",
+     "Passionate",
+     "Danceable",
+     "Rhythmic",
+     "Cinematic",
+     "Romantic",
+     "Sentimental"
+    ]
+   }
+  ]
+ },
+ "CL4": {
+  "key": "CL4",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162665481764865",
+  "prompt": "christmas music, classical chamber music, real string quartet live recording, warm violin and cello, harp, soft celesta, carol-like melody, slow and peaceful, andante 66 BPM, candlelit winter evening, natural room acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL4-1.mp3",
+    "songId": "162665597108225",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-TMgJL8iAif1YtsUCKyM1MH.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HBSCVGSdk8PPNuA8VCUn2o.flac",
+    "durationMs": 157670,
+    "instruments": [
+     "Harp",
+     "Violin"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "Instrumental Pop"
+    ],
+    "tags": [
+     "Relaxing",
+     "Soothing",
+     "Peaceful",
+     "Calming",
+     "Meditative",
+     "Romantic",
+     "Intimate",
+     "Lush",
+     "Duet"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Classical/Christmas Classical Sample CL4-2.mp3",
+    "songId": "162665597108226",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Ni7VhFhhaBq2GSKK1t51Eb.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-9Xmbku4pn3bmA8rSV7M8FN.flac",
+    "durationMs": 169270,
+    "instruments": [
+     "Harp",
+     "Violin"
+    ],
+    "genres": [
+     "Classical Crossover",
+     "Instrumental Pop"
+    ],
+    "tags": [
+     "Relaxing",
+     "Soothing",
+     "Peaceful",
+     "Calming",
+     "Meditative",
+     "Contemplative",
+     "Lush",
+     "Serene",
+     "Elegant",
+     "Graceful",
+     "Romantic",
+     "Intimate",
+     "Dreamy",
+     "Ethereal"
+    ]
+   }
+  ]
+ },
+ "J3": {
+  "key": "J3",
+  "playlist": "Christmas Jazz",
+  "status": "succeeded",
+  "genId": "162665481895938",
+  "prompt": "christmas music, slow christmas jazz ballad, real piano trio, soft sleigh bells throughout, celesta accents, warm upright bass, gentle brushed drums, carol-like melody, 72 BPM, snowy night by the fireplace, [no vocals], [no choir], [no singing], [no synth], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Jazz/Christmas Jazz Sample J3-1.mp3",
+    "songId": "162665590685698",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-RH3u7HUZos97hesqgiVVJQ.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-KGGchM6tc3d2oEGvYb3ym1.flac",
+    "durationMs": 173830,
+    "instruments": [
+     "Piano",
+     "Upright Bass",
+     "Drum Kit (Brushes)",
+     "Tenor Saxophone"
+    ],
+    "genres": [
+     "Jazz",
+     "Swing",
+     "Lounge Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Smooth",
+     "Elegant",
+     "Sophisticated",
+     "Background Music",
+     "Easy Listening",
+     "Cool",
+     "Intimate",
+     "Mellow",
+     "Nostalgic",
+     "Vintage"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Jazz/Christmas Jazz Sample J3-2.mp3",
+    "songId": "162665590685699",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-SFKbWfefWyEecif1xrxWxN.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-PvggQhXQRG2KxnnFuAtf6.flac",
+    "durationMs": 174590,
+    "instruments": [
+     "Piano",
+     "Upright Bass",
+     "Drum Kit (Brushes)"
+    ],
+    "genres": [
+     "Jazz",
+     "Smooth Jazz",
+     "Lounge Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Intimate",
+     "Mellow",
+     "Background Music",
+     "Easy Listening",
+     "Romantic",
+     "Elegant",
+     "Sophisticated",
+     "Calming",
+     "Sentimental",
+     "Laid-back"
+    ]
+   }
+  ]
+ },
+ "J4": {
+  "key": "J4",
+  "playlist": "Christmas Jazz",
+  "status": "succeeded",
+  "genId": "162665672605697",
+  "prompt": "christmas music, relaxed christmas jazz, real vibraphone and glockenspiel melody, jazz guitar, upright bass, soft brushes, sleigh bells, warm and cozy, slow swing 80 BPM, holiday hotel lobby, [no vocals], [no choir], [no singing], [no synth], [no bossa nova]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Jazz/Christmas Jazz Sample J4-1.mp3",
+    "songId": "162665787817985",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-7XMp1nkS46mDt2M12jmY5w.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-8QtNpaZ9w1JBsg2g8itAbn.flac",
+    "durationMs": 192350,
+    "instruments": [
+     "Electric Guitar (clean tone)",
+     "Vibraphone",
+     "Upright Bass",
+     "Drum Kit"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Cool Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Smooth",
+     "Mellow",
+     "Laid-back",
+     "Intimate",
+     "Sophisticated",
+     "Nostalgic",
+     "Elegant",
+     "Romantic",
+     "Easy Listening"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Jazz/Christmas Jazz Sample J4-2.mp3",
+    "songId": "162665787817986",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-KahS35U2vchdLUUEMahXM3.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-9q5oCdjM69M5SFiBTQ8W1t.flac",
+    "durationMs": 199830,
+    "instruments": [
+     "Piano",
+     "Electric Guitar",
+     "Upright Bass",
+     "Vibraphone",
+     "Drum Kit (Brushed)"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Smooth Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Lounge",
+     "Background Music",
+     "Easy Listening",
+     "Romantic",
+     "Elegant",
+     "Sophisticated",
+     "Cool",
+     "Mellow",
+     "Intimate",
+     "Groovy",
+     "Swing"
+    ]
+   }
+  ]
+ },
+ "L3": {
+  "key": "L3",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "162665672474625",
+  "prompt": "christmas music, slow chillout, real nylon guitar, soft real piano, gentle sleigh bells, celesta sparkle, soft brushed percussion, warm upright bass, cozy and relaxed, 72 BPM, winter hotel bar, [no vocals], [no choir], [no singing], [no synth lead], [no electronic drums], [no saxophone], [no smooth jazz]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Lounge/Christmas Lounge Sample L3-1.mp3",
+    "songId": "162665794109441",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-5q91tj6t61UaTv877BCjC5.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Lu1v13NRrDwFJMo885q3w8.flac",
+    "durationMs": 194950,
+    "instruments": [
+     "Nylon-string Acoustic Guitar (lead)",
+     "Electric Bass",
+     "Drum Kit"
+    ],
+    "genres": [
+     "Bossa Nova",
+     "Lounge",
+     "Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Chillout",
+     "Instrumental",
+     "Smooth",
+     "Romantic",
+     "Background Music"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Lounge/Christmas Lounge Sample L3-2.mp3",
+    "songId": "162665794109442",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Nhn3rVyyWxk5183khbQMq4.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-WTukwYBtNxUzezyhUK1wZ9.flac",
+    "durationMs": 193550,
+    "instruments": [
+     "Nylon-String Acoustic Guitar",
+     "Piano",
+     "Upright Bass",
+     "Drum Kit (Brushes)"
+    ],
+    "genres": [
+     "Bossa Nova",
+     "Lounge",
+     "Jazz"
+    ],
+    "tags": [
+     "relaxing",
+     "chillout",
+     "lounge music",
+     "background music",
+     "romantic evening",
+     "smooth jazz",
+     "instrumental"
+    ]
+   }
+  ]
+ },
+ "L4": {
+  "key": "L4",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "162665674833921",
+  "prompt": "christmas music, downtempo chill, slow soft beat, real piano chords, music box celesta melody, gentle sleigh bells, warm bass, soft string pad, dreamy snowfall, 76 BPM, [no vocals], [no choir], [no singing], [no synth lead], [no saxophone], [no rhodes], [no smooth jazz]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Lounge/Christmas Lounge Sample L4-1.mp3",
+    "songId": "162665779560449",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-XeMUhxvnurybMfaRDKATz6.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-LQzfHQgR9Cf3z19PzCP4XU.flac",
+    "durationMs": 172190,
+    "instruments": [
+     "Piano",
+     "Electronic Drum Kit",
+     "Synth Bass",
+     "Synth Pad"
+    ],
+    "genres": [
+     "Lo-fi Hip Hop",
+     "Chillhop",
+     "Instrumental Hip Hop"
+    ],
+    "tags": [
+     "Relaxing",
+     "Study Music",
+     "Background Music",
+     "Focus",
+     "Concentration",
+     "Calming",
+     "Mellow",
+     "Atmospheric",
+     "Melodic",
+     "Chill",
+     "Peaceful",
+     "Introspective",
+     "Smooth",
+     "Ambient"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Lounge/Christmas Lounge Sample L4-2.mp3",
+    "songId": "162665779560450",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-DcVvTP22TTSK2xfzCVMfic.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-FGGsCBrmRorwenjvENGViM.flac",
+    "durationMs": 194590,
+    "instruments": [
+     "Piano",
+     "Electric Guitar",
+     "Synth Bass",
+     "Electronic Drum Kit"
+    ],
+    "genres": [
+     "Lo-fi Hip Hop",
+     "Chillhop",
+     "Instrumental Hip Hop"
+    ],
+    "tags": [
+     "Relaxing",
+     "Study Music",
+     "Background Music",
+     "Focus",
+     "Concentration",
+     "Calming",
+     "Mellow",
+     "Atmospheric",
+     "Melodic",
+     "Smooth",
+     "Chill",
+     "Peaceful"
+    ]
+   }
+  ]
+ },
+ "P3": {
+  "key": "P3",
+  "playlist": "Christmas Pop Instrumental",
+  "status": "succeeded",
+  "genId": "162665674768385",
+  "prompt": "christmas music, festive instrumental, live studio band recording, real piano melody, real sleigh bells, real glockenspiel, upright bass, real drum kit with brushes, warm 1950s holiday record, natural analog sound, cheerful, 100 BPM, [no vocals], [no choir], [no singing], [no synth], [no drum machine], [no electronic]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P3-1.mp3",
+    "songId": "162665825763329",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-XNwdL2HMF14H7d3bWqH5VX.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-8FkxW6msnDQgy2kkVV5KvM.flac",
+    "durationMs": 217830,
+    "instruments": [
+     "Vibraphone",
+     "Piano",
+     "Upright Bass",
+     "Drum Kit (Brushed)"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Lounge Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Smooth",
+     "Instrumental",
+     "Background Music",
+     "Romantic Evening",
+     "Chillout"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P3-2.mp3",
+    "songId": "162665825763330",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-SE9SXBNBei8Lwdd5Td6t5w.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Sghh1w2AK2ibgSTRubBrAC.flac",
+    "durationMs": 196590,
+    "instruments": [
+     "Piano",
+     "Upright Bass",
+     "Drum Kit (Brushes)"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Smooth Jazz"
+    ],
+    "tags": [
+     "Relaxing",
+     "Background Music",
+     "Lounge",
+     "Easy Listening",
+     "Positive Vibes",
+     "Elegant",
+     "Sophisticated",
+     "Groovy",
+     "Light",
+     "Mellow",
+     "Swing"
+    ]
+   }
+  ]
+ },
+ "P4": {
+  "key": "P4",
+  "playlist": "Christmas Pop Instrumental",
+  "status": "succeeded",
+  "genId": "162665685254147",
+  "prompt": "christmas music, acoustic pop instrumental, real acoustic guitar strumming, real piano, sleigh bells, celesta, light live drums, warm strings, cheerful and cozy, 104 BPM, [no vocals], [no choir], [no singing], [no synth], [no drum machine], [no anime], [no j-pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P4-1.mp3",
+    "songId": "162665804660738",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-7LycHwtjUWBWT4CigDZrdC.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-5iu4vpXk2iHTaqS3CQE25Y.flac",
+    "durationMs": 216430,
+    "instruments": [
+     "Piano",
+     "Nylon-string Acoustic Guitar",
+     "Electronic Drum Kit",
+     "Synth Bass"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Electronic"
+    ],
+    "tags": [
+     "Instrumental",
+     "Groovy",
+     "Relaxed",
+     "Chillout",
+     "Smooth",
+     "Laid-back",
+     "Melodic",
+     "Upbeat",
+     "Sophisticated",
+     "Modern",
+     "Danceable"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P4-2.mp3",
+    "songId": "162665804660739",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-DzAMwHG688JrXAoYZoDk3j.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-GaZpuT3DtseXZp4GbUQgxz.flac",
+    "durationMs": 194750,
+    "instruments": [
+     "Piano",
+     "Nylon-string Acoustic Guitar",
+     "Bass Guitar",
+     "Drum Kit (Shaker)"
+    ],
+    "genres": [
+     "Bossa Nova",
+     "Jazz",
+     "Lounge"
+    ],
+    "tags": [
+     "Relaxing",
+     "Chillout",
+     "Instrumental",
+     "Smooth",
+     "Upbeat",
+     "Danceable",
+     "Summer Vibes"
+    ]
+   }
+  ]
+ },
+ "H3": {
+  "key": "H3",
+  "playlist": "Christmas House",
+  "status": "succeeded",
+  "genId": "162665857155073",
+  "prompt": "christmas music, festive deep house, sleigh bells on every beat, real piano chords, celesta melody, jingling bell percussion, warm sub bass, soft kick, organic and warm, 120 BPM, luxury retail, [no vocals], [no choir], [no singing], [no synth lead], [no plucky synth], [no chiptune], [no video game]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas House/Christmas House Sample H3-1.mp3",
+    "songId": "162665995632642",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-SUD2gkzH1CeEJDiHUmtvjz.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-ExVeMUffH33wKCpMc3sC5z.flac",
+    "durationMs": 201550,
+    "instruments": [
+     "Piano",
+     "Electronic Drum Kit",
+     "Synth Bass",
+     "Synth Pad",
+     "Synth Strings"
+    ],
+    "genres": [
+     "Jazz",
+     "Lo-fi Hip Hop",
+     "Electronic"
+    ],
+    "tags": [
+     "Relaxing",
+     "Chill",
+     "Study Music",
+     "Background Music",
+     "Instrumental",
+     "Mellow",
+     "Groovy",
+     "Uplifting",
+     "Positive",
+     "Smooth"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas House/Christmas House Sample H3-2.mp3",
+    "songId": "162665995632643",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-8uS6JUFBd14wTCEUhRyBUb.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Udr7SuqVqSUr2CNUCx5wGR.flac",
+    "durationMs": 227910,
+    "instruments": [
+     "Synth Lead (Bright, Plucky)",
+     "Synth Bass",
+     "Electronic Drum Kit",
+     "Synth Pad",
+     "Electric Piano",
+     "Synth Strings"
+    ],
+    "genres": [
+     "Jazz Fusion",
+     "Electronic",
+     "Chillout"
+    ],
+    "tags": [
+     "Relaxing",
+     "Smooth",
+     "Groovy",
+     "Instrumental",
+     "Atmospheric",
+     "Mellow",
+     "Contemporary"
+    ]
+   }
+  ]
+ },
+ "H4": {
+  "key": "H4",
+  "playlist": "Christmas House",
+  "status": "succeeded",
+  "genId": "162665905389569",
+  "prompt": "christmas music, soulful house, real piano stabs, live strings, sleigh bells groove, glockenspiel accents, warm bass guitar, soft four-on-the-floor, 118 BPM, festive and elegant, [no vocals], [no choir], [no singing], [no synth lead], [no chiptune], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas House/Christmas House Sample H4-1.mp3",
+    "songId": "162666043932673",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-8NriyjxxoYopMPHahrH4wD.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-NGoiX1wcgnpLAtuhKe9hPd.flac",
+    "durationMs": 246430,
+    "instruments": [
+     "Vocaloid (Synthetic Voice)",
+     "Piano",
+     "Electronic Drum Kit",
+     "Synth Bass",
+     "Synth Pad",
+     "Synth Strings",
+     "Synth Arpeggio"
+    ],
+    "genres": [
+     "J-Pop",
+     "Anisong",
+     "Electronic"
+    ],
+    "tags": [
+     "upbeat",
+     "energetic",
+     "danceable",
+     "anime soundtrack",
+     "catchy melody",
+     "minor key",
+     "4/4 time signature"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas House/Christmas House Sample H4-2.mp3",
+    "songId": "162666043932674",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-PfLnH58c5VaKfTX3pCoHXQ.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HEfK9p9ijbQiBatUVUYfAX.flac",
+    "durationMs": 202750,
+    "instruments": [
+     "Synth Lead (Bright, Plucky)",
+     "Piano",
+     "Electronic Drum Kit",
+     "Synth Bass",
+     "Synth Pad",
+     "Synth Strings"
+    ],
+    "genres": [
+     "Chill House",
+     "Deep House",
+     "Electronic"
+    ],
+    "tags": [
+     "relaxing",
+     "upbeat",
+     "summery",
+     "groovy",
+     "sophisticated",
+     "smooth",
+     "danceable",
+     "atmospheric",
+     "melodic",
+     "uplifting"
+    ]
+   }
+  ]
+ },
+ "A3": {
+  "key": "A3",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "162665911746561",
+  "prompt": "christmas music, solo piano christmas carol style, gentle carol melody, soft music box celesta, faint sleigh bells, warm and nostalgic, 68 BPM, snowy evening by the fireplace, [no vocals], [no choir], [no singing], [no drums], [no synth]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Acoustic/Christmas Acoustic Sample A3-1.mp3",
+    "songId": "162666016604161",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-2rAAZS4mNksm1RgYqwVVU9.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-39G4V7q6RH7SVvPZG1L9f3.flac",
+    "durationMs": 176110,
+    "instruments": [
+     "Piano"
+    ],
+    "genres": [
+     "Jazz",
+     "Classical"
+    ],
+    "tags": [
+     "Relaxing",
+     "Calming",
+     "Peaceful",
+     "Introspective",
+     "Melodic",
+     "Improvisational",
+     "Solo Piano",
+     "Baroque Influence",
+     "Waltz Rhythm"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Acoustic/Christmas Acoustic Sample A3-2.mp3",
+    "songId": "162666016604162",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-UHiBzPCcgvTyoERaK1ccNM.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-F5DRUHGQ5zxrJPih79Y2jA.flac",
+    "durationMs": 193630,
+    "instruments": [
+     "Piano",
+     "Upright Bass"
+    ],
+    "genres": [
+     "Jazz",
+     "Classical Jazz",
+     "Ragtime"
+    ],
+    "tags": [
+     "Instrumental",
+     "Solo Piano",
+     "Improvisation",
+     "Melodic",
+     "Syncopated Rhythm",
+     "Lively",
+     "Playful",
+     "Elegant",
+     "Vintage Recording",
+     "Warm Tone",
+     "Intimate",
+     "Reflective"
+    ]
+   }
+  ]
+ },
+ "A4": {
+  "key": "A4",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "162665924198401",
+  "prompt": "christmas music, fingerpicked acoustic guitar, christmas carol style melody, soft glockenspiel and sleigh bells, gentle chimes, warm and intimate, 76 BPM, winter cabin, [no vocals], [no choir], [no singing], [no drums], [no synth]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Acoustic/Christmas Acoustic Sample A4-1.mp3",
+    "songId": "162666035281921",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Cy12CVDZZgEckJTPkDPUkc.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-3e4v11BPmqKLiWYLkKAU2v.flac",
+    "durationMs": 168710,
+    "instruments": [
+     "Acoustic Guitar (Nylon-string)",
+     "Piano"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Instrumental"
+    ],
+    "tags": [
+     "Relaxing",
+     "Soothing",
+     "Melodic",
+     "Intimate",
+     "Laid-back",
+     "Acoustic",
+     "Minimalist",
+     "Elegant",
+     "Contemplative",
+     "Smooth",
+     "Gentle"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Acoustic/Christmas Acoustic Sample A4-2.mp3",
+    "songId": "162666035281922",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-TxLBrCdhU5yYBkVQUSz4kY.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-L5u1gu6wyuC7SiFL6wy1So.flac",
+    "durationMs": 176430,
+    "instruments": [
+     "Acoustic Guitar (Nylon-string)",
+     "Vibraphone"
+    ],
+    "genres": [
+     "Jazz",
+     "Bossa Nova",
+     "Instrumental"
+    ],
+    "tags": [
+     "Relaxing",
+     "Soothing",
+     "Melodic",
+     "Acoustic",
+     "Smooth",
+     "Laid-back",
+     "Intimate",
+     "Elegant",
+     "Contemplative",
+     "Gentle",
+     "Romantic",
+     "Background Music"
+    ]
+   }
+  ]
+ },
+ "VA": {
+  "key": "VA",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162665905324033",
+  "prompt": "christmas music, slow piano ballad, low breathy female alto vocal, intimate and tender, real piano, soft strings, gentle sleigh bells, 68 BPM",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VA-1.mp3",
+    "songId": "162666035347458",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-44h2vjKUJCKGGG9TDsdTar.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-TFHsPrxi5sQ4CuqHhhea96.flac",
+    "durationMs": 168390,
+    "instruments": [
+     "Lead Vocal (Female, Soft, Breathy)",
+     "Piano",
+     "String Section",
+     "Upright Bass",
+     "Acoustic Guitar",
+     "Glockenspiel"
+    ],
+    "genres": [
+     "Christmas Music",
+     "Pop Ballad",
+     "Indie Pop",
+     "Jazz"
+    ],
+    "tags": [
+     "Winter",
+     "Nostalgia",
+     "Romance",
+     "Warmth",
+     "Melancholy",
+     "Intimate",
+     "Reflective",
+     "Cinematic",
+     "Heartfelt",
+     "Sentimental"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VA-2.mp3",
+    "songId": "162666035347459",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-9sjkqX6qPrg552TrvcwAkr.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-T1EKyWK1tETPSRohdrhGni.flac",
+    "durationMs": 167270,
+    "instruments": [
+     "Lead Vocal (Female, Soft, Breathy, Intimate)",
+     "Piano",
+     "String Section",
+     "Upright Bass",
+     "Acoustic Guitar"
+    ],
+    "genres": [
+     "Christmas Music",
+     "Pop Ballad",
+     "Jazz"
+    ],
+    "tags": [
+     "Winter",
+     "Nostalgia",
+     "Romance",
+     "Melancholy",
+     "Cozy",
+     "Intimate",
+     "Reflective",
+     "Sentimental",
+     "Warm"
+    ]
+   }
+  ]
+ },
+ "VB": {
+  "key": "VB",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162666068836353",
+  "prompt": "christmas music, classic swing crooner, rich male baritone vocal, live big band, warm brass, walking upright bass, brushed drums, sleigh bells, 112 BPM swing",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VB-1.mp3",
+    "songId": "162666188374017",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-FBcMCNti31tPXoJuqCjrRj.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-STcXFgGg6Le21ByGbKaK6J.flac",
+    "durationMs": 162230,
+    "instruments": [
+     "Lead Vocal (Male, Baritone, Smooth, Warm)",
+     "Brass Section (Trumpets, Trombones)",
+     "Drum Kit",
+     "Upright Bass",
+     "Piano",
+     "String Section"
+    ],
+    "genres": [
+     "Big Band Jazz",
+     "Swing",
+     "Christmas Music"
+    ],
+    "tags": [
+     "holiday",
+     "festive",
+     "romantic",
+     "nostalgic",
+     "waltz",
+     "swinging",
+     "lush",
+     "elegant",
+     "sophisticated",
+     "warm",
+     "celebratory"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VB-2.mp3",
+    "songId": "162666188374018",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-7hf81aGMi92g1jQQZcxCZh.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-CdHFqVccGPb5wi9uwXvKBq.flac",
+    "durationMs": 177590,
+    "instruments": [
+     "Lead Vocal (Male, Baritone, Smooth, Warm)",
+     "Brass Section (Trumpets, Trombones)",
+     "Drum Kit",
+     "Upright Bass",
+     "Piano",
+     "String Section"
+    ],
+    "genres": [
+     "Big Band Jazz",
+     "Swing",
+     "Christmas Music"
+    ],
+    "tags": [
+     "holiday",
+     "festive",
+     "romantic",
+     "nostalgic",
+     "waltz",
+     "elegant",
+     "sophisticated",
+     "warm",
+     "celebratory",
+     "vintage",
+     "orchestral"
+    ]
+   }
+  ]
+ },
+ "VC": {
+  "key": "VC",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162666073096193",
+  "prompt": "christmas music, 1960s girl group pop, high bright female soprano vocal, handclaps, sleigh bells, glockenspiel, tambourine, live band, joyful and bouncy, 150 BPM",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VC-1.mp3",
+    "songId": "162666161307649",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-MNrMLCp9QNpyYAvpPQDEjY.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-W46CWyuXgf4VbcfZsStnmn.flac",
+    "durationMs": 120870,
+    "instruments": [
+     "Lead Vocal (Female, Bright, Youthful)",
+     "Backing Vocals",
+     "Brass Section (Trumpets, Trombones)",
+     "Drum Kit",
+     "Bass Guitar",
+     "Piano",
+     "Percussion (Shaker)"
+    ],
+    "genres": [
+     "Christmas Pop",
+     "Indie Pop",
+     "Holiday Music"
+    ],
+    "tags": [
+     "upbeat",
+     "festive",
+     "cheerful",
+     "catchy",
+     "celebratory",
+     "family-friendly",
+     "energetic",
+     "optimistic",
+     "bright",
+     "danceable",
+     "holiday spirit"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VC-2.mp3",
+    "songId": "162666161307650",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-LGYUP3dzHZkfESgesHdVu3.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-Ni7QRrnLimmBTEGD329tC2.flac",
+    "durationMs": 153110,
+    "instruments": [
+     "Lead Vocal (Female, Bright, Youthful)",
+     "Backing Vocals",
+     "Tenor Saxophone",
+     "Brass Section (Trumpets, Trombones)",
+     "Drum Kit",
+     "Piano",
+     "Bass Guitar",
+     "Electric Guitar",
+     "Hand Claps"
+    ],
+    "genres": [
+     "Christmas Pop",
+     "Contemporary Christian Music (CCM)"
+    ],
+    "tags": [
+     "upbeat",
+     "festive",
+     "joyful",
+     "celebratory",
+     "energetic",
+     "catchy",
+     "driving rhythm",
+     "holiday spirit",
+     "winter",
+     "family-friendly",
+     "singalong"
+    ]
+   }
+  ]
+ },
+ "VD": {
+  "key": "VD",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162666096230404",
+  "prompt": "christmas music, acoustic folk, warm male tenor vocal, fingerpicked acoustic guitar, soft harmonica, sleigh bells, upright bass, nostalgic and heartfelt, 92 BPM",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VD-1.mp3",
+    "songId": "162666242899970",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-W2WT2Rci49j77binRZojmc.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-VV22f3yWjH9TiSPfc7gJMU.flac",
+    "durationMs": 203190,
+    "instruments": [
+     "Lead Vocal (Male, Gentle, Warm)",
+     "Nylon-String Acoustic Guitar",
+     "Accordion",
+     "Upright Bass",
+     "Drum Kit"
+    ],
+    "genres": [
+     "Christmas Folk",
+     "Singer-Songwriter",
+     "Folk Pop"
+    ],
+    "tags": [
+     "nostalgic",
+     "warm",
+     "cozy",
+     "reflective",
+     "driving",
+     "road trip",
+     "holiday",
+     "family",
+     "homecoming",
+     "waltz-time",
+     "melodic",
+     "heartfelt"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VD-2.mp3",
+    "songId": "162666242899971",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-5EGRkCEmyEjPAHdsaMAebr.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-AAZycJqLDAZpu1Xc83f1C8.flac",
+    "durationMs": 218430,
+    "instruments": [
+     "Lead Vocal (Male, Gentle, Warm)",
+     "Acoustic Guitar (Fingerpicked)",
+     "Accordion",
+     "Upright Bass"
+    ],
+    "genres": [
+     "Folk",
+     "Indie Folk",
+     "Christmas"
+    ],
+    "tags": [
+     "Winter",
+     "Homecoming",
+     "Nostalgia",
+     "Heartwarming",
+     "Melancholic",
+     "Reflective",
+     "Jazzy",
+     "Acoustic",
+     "Storytelling"
+    ]
+   }
+  ]
+ },
+ "VE": {
+  "key": "VE",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162666117201921",
+  "prompt": "christmas music, romantic pop duet, male and female duet vocals trading verses, piano, acoustic guitar, strings, sleigh bells, warm mid-tempo, 100 BPM",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VE-1.mp3",
+    "songId": "162666247094273",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-J1s7xb1e7qzSeMbCjEYFw4.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-4GiaewCAEepe24mnMjEVkg.flac",
+    "durationMs": 199070,
+    "instruments": [
+     "Lead Vocal (Male, Female, Gentle, Warm)",
+     "Piano",
+     "Upright Bass",
+     "Nylon-String Guitar",
+     "String Section",
+     "Drum Kit"
+    ],
+    "genres": [
+     "Vocal Jazz",
+     "Christmas Music",
+     "Bossa Nova"
+    ],
+    "tags": [
+     "romantic",
+     "cozy",
+     "intimate",
+     "wintery",
+     "sentimental",
+     "duet",
+     "holiday",
+     "warm",
+     "tender",
+     "nostalgic"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VE-2.mp3",
+    "songId": "162666247094274",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-VFGQQjUMPr4qiDZWYXoKBy.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-9m6cerKEmmjSBmzyTfCywd.flac",
+    "durationMs": 198230,
+    "instruments": [
+     "Lead Vocal (Male, Female, Gentle, Warm)",
+     "Piano",
+     "Nylon-String Acoustic Guitar",
+     "Bass Guitar",
+     "Drum Kit",
+     "String Section",
+     "Synth Pad"
+    ],
+    "genres": [
+     "Vocal Jazz",
+     "Christmas Music",
+     "Pop Ballad"
+    ],
+    "tags": [
+     "romantic",
+     "winter",
+     "holiday",
+     "cozy",
+     "intimate",
+     "sentimental",
+     "tender",
+     "duet",
+     "warm",
+     "nostalgic"
+    ]
+   }
+  ]
+ },
+ "VF": {
+  "key": "VF",
+  "playlist": "Christmas Pop Vocal",
+  "status": "succeeded",
+  "genId": "162666121527297",
+  "prompt": "christmas music, soulful r&b, powerful female soul vocal with runs, warm electric piano, real bass guitar, soft drums, sleigh bells, gospel warmth, 78 BPM",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VF-1.mp3",
+    "songId": "162666261839873",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-UyNjc1QmFEx9RZqqiThxJY.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-3paFtWKjQ6oJat1pUGXhru.flac",
+    "durationMs": 223630,
+    "instruments": [
+     "Lead Vocal (Female, Soulful, Powerful)",
+     "Backing Vocals",
+     "Electric Piano",
+     "Drum Kit",
+     "Bass Guitar",
+     "Brass Section",
+     "Electric Guitar",
+     "Synth Strings"
+    ],
+    "genres": [
+     "R&B",
+     "Christmas",
+     "Soul"
+    ],
+    "tags": [
+     "holiday",
+     "warm",
+     "nostalgic",
+     "festive",
+     "celebratory",
+     "uplifting",
+     "groovy",
+     "soulful"
+    ]
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 2/Christmas Pop Vocal/Christmas Pop Vocal Sample VF-2.mp3",
+    "songId": "162666261839874",
+    "url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-6D62BP9NTr3ypU6dcSyESr.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/song/20260924/64673584054273-EfNR9ACn4HndxjN1rZdkFN.flac",
+    "durationMs": 252470,
+    "instruments": [
+     "Lead Vocal (Female, Soulful, Powerful)",
+     "Backing Vocals",
+     "Electric Piano",
+     "Drum Kit",
+     "Bass Guitar",
+     "Brass Section",
+     "Electric Guitar",
+     "Synth Pad"
+    ],
+    "genres": [
+     "R&B",
+     "Christmas",
+     "Jazz Fusion",
+     "Soul"
+    ],
+    "tags": [
+     "holiday",
+     "warm",
+     "festive",
+     "nostalgic",
+     "uplifting",
+     "groovy",
+     "smooth",
+     "celebratory",
+     "feel-good"
+    ]
+   }
+  ]
+ }
+}

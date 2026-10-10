@@ -1,0 +1,71 @@
+{
+ "root": "Christmas/_blind_raw",
+ "model": "mureka-9.5",
+ "describe": false,
+ "families": [
+  {
+   "key": "Jazz-95",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 58 BPM, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+   "model": "mureka-9.5",
+   "n": 2
+  },
+  {
+   "key": "Jazz-9",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 58 BPM, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+   "model": "mureka-9",
+   "n": 2
+  },
+  {
+   "key": "Classical-95",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, largo 56 BPM, concert hall, acoustic, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+   "model": "mureka-9.5",
+   "n": 2
+  },
+  {
+   "key": "Classical-9",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, largo 56 BPM, concert hall, acoustic, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+   "model": "mureka-9",
+   "n": 2
+  },
+  {
+   "key": "Acoustic-95",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+   "model": "mureka-9.5",
+   "n": 2
+  },
+  {
+   "key": "Acoustic-9",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+   "model": "mureka-9",
+   "n": 2
+  },
+  {
+   "key": "Lounge-95",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+   "model": "mureka-9.5",
+   "n": 2
+  },
+  {
+   "key": "Lounge-9",
+   "playlist": "raw",
+   "kind": "instrumental",
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+   "model": "mureka-9",
+   "n": 2
+  }
+ ]
+}

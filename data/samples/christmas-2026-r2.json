@@ -1,0 +1,160 @@
+{
+ "root": "Christmas/Round 2",
+ "model": "mureka-9.5",
+ "describe": true,
+ "families": [
+  {
+   "key": "CL3",
+   "playlist": "Christmas Classical",
+   "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL3-M9",
+   "playlist": "Christmas Classical",
+   "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+   "model": "mureka-9",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL3-M8",
+   "playlist": "Christmas Classical",
+   "prompt": "christmas music, classical orchestral christmas, live symphony orchestra recording, real lush legato strings, celesta and harp, soft tubular chimes, gentle french horns, slow and tender, adagio 62 BPM, magical snowy night, concert hall acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no electronic], [no pop]",
+   "model": "mureka-8",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "CL4",
+   "playlist": "Christmas Classical",
+   "prompt": "christmas music, classical chamber music, real string quartet live recording, warm violin and cello, harp, soft celesta, carol-like melody, slow and peaceful, andante 66 BPM, candlelit winter evening, natural room acoustics, [no vocals], [no choir], [no singing], [no drums], [no synth], [no pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J3",
+   "playlist": "Christmas Jazz",
+   "prompt": "christmas music, slow christmas jazz ballad, real piano trio, soft sleigh bells throughout, celesta accents, warm upright bass, gentle brushed drums, carol-like melody, 72 BPM, snowy night by the fireplace, [no vocals], [no choir], [no singing], [no synth], [no saxophone]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "J4",
+   "playlist": "Christmas Jazz",
+   "prompt": "christmas music, relaxed christmas jazz, real vibraphone and glockenspiel melody, jazz guitar, upright bass, soft brushes, sleigh bells, warm and cozy, slow swing 80 BPM, holiday hotel lobby, [no vocals], [no choir], [no singing], [no synth], [no bossa nova]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L3",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas music, slow chillout, real nylon guitar, soft real piano, gentle sleigh bells, celesta sparkle, soft brushed percussion, warm upright bass, cozy and relaxed, 72 BPM, winter hotel bar, [no vocals], [no choir], [no singing], [no synth lead], [no electronic drums], [no saxophone], [no smooth jazz]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "L4",
+   "playlist": "Christmas Lounge",
+   "prompt": "christmas music, downtempo chill, slow soft beat, real piano chords, music box celesta melody, gentle sleigh bells, warm bass, soft string pad, dreamy snowfall, 76 BPM, [no vocals], [no choir], [no singing], [no synth lead], [no saxophone], [no rhodes], [no smooth jazz]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P3",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "christmas music, festive instrumental, live studio band recording, real piano melody, real sleigh bells, real glockenspiel, upright bass, real drum kit with brushes, warm 1950s holiday record, natural analog sound, cheerful, 100 BPM, [no vocals], [no choir], [no singing], [no synth], [no drum machine], [no electronic]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "P4",
+   "playlist": "Christmas Pop Instrumental",
+   "prompt": "christmas music, acoustic pop instrumental, real acoustic guitar strumming, real piano, sleigh bells, celesta, light live drums, warm strings, cheerful and cozy, 104 BPM, [no vocals], [no choir], [no singing], [no synth], [no drum machine], [no anime], [no j-pop]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H3",
+   "playlist": "Christmas House",
+   "prompt": "christmas music, festive deep house, sleigh bells on every beat, real piano chords, celesta melody, jingling bell percussion, warm sub bass, soft kick, organic and warm, 120 BPM, luxury retail, [no vocals], [no choir], [no singing], [no synth lead], [no plucky synth], [no chiptune], [no video game]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "H4",
+   "playlist": "Christmas House",
+   "prompt": "christmas music, soulful house, real piano stabs, live strings, sleigh bells groove, glockenspiel accents, warm bass guitar, soft four-on-the-floor, 118 BPM, festive and elegant, [no vocals], [no choir], [no singing], [no synth lead], [no chiptune], [no saxophone]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "A3",
+   "playlist": "Christmas Acoustic",
+   "prompt": "christmas music, solo piano christmas carol style, gentle carol melody, soft music box celesta, faint sleigh bells, warm and nostalgic, 68 BPM, snowy evening by the fireplace, [no vocals], [no choir], [no singing], [no drums], [no synth]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "A4",
+   "playlist": "Christmas Acoustic",
+   "prompt": "christmas music, fingerpicked acoustic guitar, christmas carol style melody, soft glockenspiel and sleigh bells, gentle chimes, warm and intimate, 76 BPM, winter cabin, [no vocals], [no choir], [no singing], [no drums], [no synth]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "VA",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "female",
+   "lyrics": "[Intro]\n\n[Verse]\nFirst snow on the harbor, lights across the bay\nI wrapped the little presents that you left the other day\n\n[Verse]\nEvery carol on the corner sounds a little like your name\nThe cold is getting softer, but it's never quite the same\n\n[Chorus]\nSo come home slow, come home tonight\nThrough the falling white\nI'll leave the porch light burning\nTill the morning light\n\n[Verse]\nThe tree is small this winter, but it's shining bright\nOne silver star is waiting at the top for you tonight\n\n[Chorus]\nSo come home slow, come home tonight\nThrough the falling white\nI'll leave the porch light burning\nTill the morning light\n\n[Outro]\nCome home slow",
+   "prompt": "christmas music, slow piano ballad, low breathy female alto vocal, intimate and tender, real piano, soft strings, gentle sleigh bells, 68 BPM",
+   "n": 2
+  },
+  {
+   "key": "VB",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "male",
+   "lyrics": "[Verse]\nPut a ribbon on the evening, pour a little cheer\nEvery window on the boulevard is glowing gold this year\nThe band is playing softly and the snow is drifting down\nSo dance with me, my darling, it's the sweetest night in town\n\n[Verse]\nWear that velvet scarf you bought in Paris long ago\nWe'll waltz across the ballroom while the candles burn low\nThe clock is nearly midnight and the bells are ringing clear\nI've got everything I wished for, 'cause you're standing right here\n\n[Bridge]\nMistletoe and moonlight, a fire burning low\nNowhere else I'd rather be, nowhere else to go\n\n[Verse]\nPut a ribbon on the evening, let the old year disappear\nI've got everything I wished for, 'cause you're standing right here\n\n[Outro]\nStanding right here",
+   "prompt": "christmas music, classic swing crooner, rich male baritone vocal, live big band, warm brass, walking upright bass, brushed drums, sleigh bells, 112 BPM swing",
+   "n": 2
+  },
+  {
+   "key": "VC",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "female",
+   "lyrics": "[Chorus]\nSnowball fights in the city park\nHot cocoa kisses after dark\nWrap me up and spin me round and round\nChristmas is coming to our part of town\n\n[Verse]\nMailman's bringing cards from far away\nGrandma's baking cookies all the day\nRed and green on every single door\nI can't wait a minute anymore\n\n[Chorus]\nSnowball fights in the city park\nHot cocoa kisses after dark\nWrap me up and spin me round and round\nChristmas is coming to our part of town\n\n[Verse]\nSkating on the river, hand in hand\nSnowflakes falling like a marching band\nEvery little star is shining bright\nOh, it's gonna be a magic night\n\n[Bridge]\nHey, hey, don't you know\nSanta's checking lists out in the snow\n\n[Chorus]\nSnowball fights in the city park\nHot cocoa kisses after dark\nWrap me up and spin me round and round\nChristmas is coming to our part of town\n\n[Outro]\nChristmas is coming, Christmas is coming",
+   "prompt": "christmas music, 1960s girl group pop, high bright female soprano vocal, handclaps, sleigh bells, glockenspiel, tambourine, live band, joyful and bouncy, 150 BPM",
+   "n": 2
+  },
+  {
+   "key": "VD",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "male",
+   "lyrics": "[Verse]\nWoodsmoke on the hillside, lanterns in the lane\nMy old truck is loaded and I'm heading home again\nPine trees in the headlights, frost upon the glass\nEvery mile is shorter now, the years go by so fast\n\n[Chorus]\nOh, the road leads home at Christmas\nWhere the kitchen window glows\nWhere my mother's humming softly\nAnd the river's white with snow\n\n[Instrumental]\n\n[Verse]\nBrother's in the doorway with the same old crooked grin\nDad is splitting firewood, says come on, come on in\nLittle ones are dreaming underneath the patchwork quilt\nOf all the snowy castles that tomorrow will be built\n\n[Chorus]\nOh, the road leads home at Christmas\nWhere the kitchen window glows\nWhere my mother's humming softly\nAnd the river's white with snow\n\n[Outro]\nThe road leads home",
+   "prompt": "christmas music, acoustic folk, warm male tenor vocal, fingerpicked acoustic guitar, soft harmonica, sleigh bells, upright bass, nostalgic and heartfelt, 92 BPM",
+   "n": 2
+  },
+  {
+   "key": "VE",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "lyrics": "[Verse]\nTell me what you're wishing for\nUnderneath the winter moon\nI don't need a thing at all\nJust a little more of you\n\n[Verse]\nShopping bags and paper chains\nRunning late through falling snow\nYou just smile and take my hand\nLike you've always known\n\n[Chorus]\nIt's our Christmas, you and me\nEvery light on every tree\nEvery bell in every tower\nRings for us this very hour\n\n[Verse]\nFrosted windows, silver streets\nCarols drifting from the square\nEvery corner of this town\nFeels like home when you are there\n\n[Chorus]\nIt's our Christmas, you and me\nEvery light on every tree\nEvery bell in every tower\nRings for us this very hour\n\n[Bridge]\nAnd if the snow keeps falling down\nWe'll stay right here, we won't make a sound\n\n[Chorus]\nIt's our Christmas, you and me\nEvery light on every tree\nEvery bell in every tower\nRings for us this very hour",
+   "prompt": "christmas music, romantic pop duet, male and female duet vocals trading verses, piano, acoustic guitar, strings, sleigh bells, warm mid-tempo, 100 BPM",
+   "n": 2
+  },
+  {
+   "key": "VF",
+   "playlist": "Christmas Pop Vocal",
+   "kind": "song",
+   "gender": "female",
+   "lyrics": "[Verse]\nCandles in the window, cinnamon and wine\nEverybody's gathered and the table's looking fine\nUncle's telling stories that we've heard a hundred times\nNobody is minding, we just laugh until we cry\n\n[Pre-Chorus]\nHold me a little closer\nLet the whole world wait\n\n[Chorus]\nThat holiday feeling, deep down in my soul\nWarmer than the fire, brighter than the gold\nThat holiday feeling, never let it go\nOh, never let it go\n\n[Verse]\nMama's in the kitchen humming an old tune\nSnow is on the rooftop, silver in the moon\n\n[Pre-Chorus]\nHold me a little closer\nLet the whole world wait\n\n[Chorus]\nThat holiday feeling, deep down in my soul\nWarmer than the fire, brighter than the gold\nThat holiday feeling, never let it go\nOh, never let it go\n\n[Bridge]\nOh-oh, oh-oh, let it shine\nOh-oh, oh-oh, all through the night\n\n[Chorus]\nThat holiday feeling, deep down in my soul\nWarmer than the fire, brighter than the gold\nThat holiday feeling, never let it go\nOh, never let it go",
+   "prompt": "christmas music, soulful r&b, powerful female soul vocal with runs, warm electric piano, real bass guitar, soft drums, sleigh bells, gospel warmth, 78 BPM",
+   "n": 2
+  }
+ ]
+}

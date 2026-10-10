@@ -1,0 +1,301 @@
+{
+ "CL5": {
+  "key": "CL5",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162668245876737",
+  "prompt": "classical christmas, mozart style chamber orchestra, elegant and romantic, graceful violin melody, strings, woodwinds, harpsichord, celesta and sleigh bells accents, moderato 72 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no guitar], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL5-1.mp3",
+    "songId": "162668342214657",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-FhkD28dMNcsgC5NLYbE7Qb.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-BRtP9cYzKwT5pp29kK11ua.flac",
+    "durationMs": 172590
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL5-2.mp3",
+    "songId": "162668342214658",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-BDKJQ7fXEmdGqZ24mRqWii.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-FyDPu8wqzKq7SyE32UsUbc.flac",
+    "durationMs": 174430
+   }
+  ]
+ },
+ "CL6": {
+  "key": "CL6",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162668247908353",
+  "prompt": "classical christmas, tchaikovsky nutcracker ballet style, romantic orchestra, celesta sparkle, pizzicato strings, harp, flute and oboe, warm french horns, lush romantic strings, andante 68 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL6-1.mp3",
+    "songId": "162668340248578",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-UHncJ9L4LUYBKLA68TaBbe.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-MX25D6xhN51HWF7YYP1EQ4.flac",
+    "durationMs": 156910
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL6-2.mp3",
+    "songId": "162668340248579",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Y6p4QZy3fCynSujzZNScBc.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-7BgegqyR9zC2pfEvWXuMfS.flac",
+    "durationMs": 181470
+   }
+  ]
+ },
+ "CL7": {
+  "key": "CL7",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "162668247973889",
+  "prompt": "classical christmas, romantic era, chopin style tender piano with string orchestra, warm and romantic, soft celesta, snowy winter night, adagio 64 BPM, concert hall, acoustic, [no vocals], [no choir], [no synths], [no jazz], [no drums], [no pop]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL7-1.mp3",
+    "songId": "162668350603265",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-CrZm8HkgdbudngsdWWr438.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-PbULA7XCUdz28tT3vCsFjv.flac",
+    "durationMs": 177910
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Classical/Christmas Classical Sample CL7-2.mp3",
+    "songId": "162668350603266",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-WsEYmbkP6Pe5Fdrm1tfqNq.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-3ypS9Bkbpu1r3wKBTsd7dE.flac",
+    "durationMs": 173950
+   }
+  ]
+ },
+ "J5": {
+  "key": "J5",
+  "playlist": "Christmas Jazz",
+  "status": "succeeded",
+  "genId": "162668245680129",
+  "prompt": "christmas music, jazz piano trio playing christmas carol melodies, jingle bells and sleigh bells, celesta and glockenspiel accents, warm upright bass, brushed drums, festive and cozy, 84 BPM, [no vocals], [no choir], [no synth], [no bossa nova]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Jazz/Christmas Jazz Sample J5-1.mp3",
+    "songId": "162668371640321",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Feu6ohTStTM3LsNKurBght.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-VQws9ySPX3pQDCDk1mgixa.flac",
+    "durationMs": 182710
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Jazz/Christmas Jazz Sample J5-2.mp3",
+    "songId": "162668371640322",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-CYaUzEy2C7BMNJaKwYM1Qj.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-LX5tosLDRwU7WswE1MG2tZ.flac",
+    "durationMs": 197430
+   }
+  ]
+ },
+ "J6": {
+  "key": "J6",
+  "playlist": "Christmas Jazz",
+  "status": "succeeded",
+  "genId": "162668245876738",
+  "prompt": "christmas big band jazz instrumental, festive swing, muted trumpets, warm trombones, sleigh bells, glockenspiel, piano, walking bass, brushed drums, joyful holiday, 96 BPM, [no vocals], [no choir], [no synth], [no bossa nova]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Jazz/Christmas Jazz Sample J6-1.mp3",
+    "songId": "162668365283329",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-5X8rehZ2zfrvajMGm326Kr.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Rn6DuhhdHkmGwnsWEskL6x.flac",
+    "durationMs": 206030
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Jazz/Christmas Jazz Sample J6-2.mp3",
+    "songId": "162668365283330",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-FvAHPpo4ncfTRsTXDsGF58.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-WRVnzo4nhyNt4DDoVe29dy.flac",
+    "durationMs": 191790
+   }
+  ]
+ },
+ "L5": {
+  "key": "L5",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "162668365414401",
+  "prompt": "christmas music, cinematic winter chill, soft slow downtempo beat, warm lush strings, harp, music box and celesta melody, gentle sleigh bells, soft piano accents, cozy and magical, 70 BPM, [no vocals], [no choir], [no saxophone], [no nylon guitar], [no guitar], [no bossa nova], [no smooth jazz], [no jazz], [no synth lead]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Lounge/Christmas Lounge Sample L5-1.mp3",
+    "songId": "162668478595073",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-V5Ggh3MJHXfXnZahU6c7mq.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-P2tg893SryBdt9zkHBSzNS.flac",
+    "durationMs": 157990
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Lounge/Christmas Lounge Sample L5-2.mp3",
+    "songId": "162668478595074",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-WfMkEwzwaUnFBKMLvVFaDh.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-RagmgiRj34RWno8gyzpAQN.flac",
+    "durationMs": 172550
+   }
+  ]
+ },
+ "L5-M9": {
+  "key": "L5-M9",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "162668365479937",
+  "prompt": "christmas music, cinematic winter chill, soft slow downtempo beat, warm lush strings, harp, music box and celesta melody, gentle sleigh bells, soft piano accents, cozy and magical, 70 BPM, [no vocals], [no choir], [no saxophone], [no nylon guitar], [no guitar], [no bossa nova], [no smooth jazz], [no jazz], [no synth lead]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Lounge/Christmas Lounge Sample L5-M9-1.mp3",
+    "songId": "162668474531842",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-9ZPdKJkYmhsmctYimaGeCY.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HWatQCDuEi9YCmd2MAqgAW.flac",
+    "durationMs": 146470
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Lounge/Christmas Lounge Sample L5-M9-2.mp3",
+    "songId": "162668474531843",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-8hcQ5LXy3o5ZJZLY2HjFav.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-PrrmGjsWh5vknZSSjKK6Fc.flac",
+    "durationMs": 198430
+   }
+  ]
+ },
+ "P5": {
+  "key": "P5",
+  "playlist": "Christmas Pop Instrumental",
+  "status": "succeeded",
+  "genId": "162668367511553",
+  "prompt": "christmas pop instrumental, modern pop band, bright electric guitar, real drums pop beat, piano, sleigh bells, glockenspiel melody, uplifting and catchy, 112 BPM, [no vocals], [no choir], [no jazz], [no swing], [no bossa nova], [no synth lead]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P5-1.mp3",
+    "songId": "162668474269699",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HkhENqGrDBi5PNtXHV1nDF.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-N1S8coXyoMB9hyKRLa9PfZ.flac",
+    "durationMs": 186590
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P5-2.mp3",
+    "songId": "162668474269700",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-BEiipsq4tz47sU5gSSQciC.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-TbpC8gwsthvrLW25y9SFts.flac",
+    "durationMs": 195550
+   }
+  ]
+ },
+ "P6": {
+  "key": "P6",
+  "playlist": "Christmas Pop Instrumental",
+  "status": "succeeded",
+  "genId": "162668436586497",
+  "prompt": "christmas pop rock instrumental, 1980s holiday pop, jangly electric guitar, sleigh bells, tubular bells, bright piano, driving drums, joyful, 126 BPM, [no vocals], [no choir], [no jazz], [no swing], [no saxophone], [no bossa nova]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P6-1.mp3",
+    "songId": "162668543475714",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-JeZPW6PynJghjJ44TQKias.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HAfy9oexCwSpPStnYiuJaJ.flac",
+    "durationMs": 178630
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Pop Instrumental/Christmas Pop Instrumental Sample P6-2.mp3",
+    "songId": "162668543475715",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-DoMH3SBkspnYAeLQ13Df3y.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-MjWhgC6cM7BFhMzmS3Yuen.flac",
+    "durationMs": 166230
+   }
+  ]
+ },
+ "A5": {
+  "key": "A5",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "162668457623553",
+  "prompt": "christmas music, new age solo piano, very slow and tender, rubato, music box celesta, soft distant sleigh bells, peaceful snowy night, 60 BPM, [no vocals], [no choir], [no jazz], [no swing], [no bossa nova], [no drums], [no bass]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Acoustic/Christmas Acoustic Sample A5-1.mp3",
+    "songId": "162668570804225",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Ac3trzeLtnfpPRouCVuBYH.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-TbijtSmWqdw1yEg7Nk47hz.flac",
+    "durationMs": 162470
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Acoustic/Christmas Acoustic Sample A5-2.mp3",
+    "songId": "162668570804226",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-5P5JuZJx3zrLr4SmzMVn4Z.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-hvTEKTbnE3MPXwNh5sFo9.flac",
+    "durationMs": 188670
+   }
+  ]
+ },
+ "A6": {
+  "key": "A6",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "162668507824129",
+  "prompt": "christmas folk instrumental, fingerpicked steel string acoustic guitar, soft glockenspiel, gentle sleigh bells, very slow and peaceful, 64 BPM, winter cabin, [no vocals], [no choir], [no jazz], [no bossa nova], [no nylon guitar], [no drums]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Acoustic/Christmas Acoustic Sample A6-1.mp3",
+    "songId": "162668625330177",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-JyxxyQRvgxxT2b6v3LZK2T.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-EyogFiNz6ysnNoF7a7H9Ek.flac",
+    "durationMs": 178670
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas Acoustic/Christmas Acoustic Sample A6-2.mp3",
+    "songId": "162668625330178",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-kThAXZVzh1PxszVCMDnS2.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-CTGmTnLGfkCMP3Pd4Vgsst.flac",
+    "durationMs": 187590
+   }
+  ]
+ },
+ "H5": {
+  "key": "H5",
+  "playlist": "Christmas House",
+  "status": "succeeded",
+  "genId": "162668508020738",
+  "prompt": "christmas music, festive deep house, glockenspiel and celesta lead melody, sleigh bells groove, pizzicato strings, tubular bells, warm sub bass, soft kick, 120 BPM, [no vocals], [no choir], [no piano lead], [no synth lead], [no chiptune]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas House/Christmas House Sample H5-1.mp3",
+    "songId": "162668617138178",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-B3wxyAueQB9X7LiLoaSrip.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-CaP8CZke1ceCP41xE19xP3.flac",
+    "durationMs": 187230
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas House/Christmas House Sample H5-2.mp3",
+    "songId": "162668617138179",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-XfyKraWmNenq2iX3MG7avh.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-3iUrCXPgPbX8zrKwAzNb9f.flac",
+    "durationMs": 217310
+   }
+  ]
+ },
+ "H6": {
+  "key": "H6",
+  "playlist": "Christmas House",
+  "status": "succeeded",
+  "genId": "162668549898242",
+  "prompt": "christmas music, soulful house, live strings lead melody, handbells, sleigh bells, marimba accents, deep warm bass, soft four-on-the-floor, 122 BPM, festive and elegant, [no vocals], [no choir], [no piano], [no synth lead], [no chiptune]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas House/Christmas House Sample H6-1.mp3",
+    "songId": "162668705153026",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-LJftpv1vMWepSWF5ta4Sqh.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-37xy5XbbugqKLv4fPpN6Aq.flac",
+    "durationMs": 202630
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 3/Christmas House/Christmas House Sample H6-2.mp3",
+    "songId": "162668705153027",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-Y5guvbcrSSUcSjw4gkc7rq.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260924/64673584054273-HyvVZR2iNThqEViZqhBber.flac",
+    "durationMs": 192470
+   }
+  ]
+ }
+}
