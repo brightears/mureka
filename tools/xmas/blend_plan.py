@@ -107,6 +107,11 @@ RECIPES = {
         (5, ['bellswell']), (5, [])]),
     'Acoustic': dict(tempo=None, insts={'handbells', 'handbellslow', 'piano', 'tubular', 'bowedvibes', 'harp'}, recipes=[
         (35, ['free_carol']), (20, ['free_carol']), (15, ['chimes']), (10, ['shimmer']), (10, ['harpfx']), (10, [])]),
+    # soft jazz trio: no sleigh bells, low/dark timbres only, more plain tracks, everything 2 dB under the clamp;
+    # free_fams = free-time families allowed on this tempo-synced genre (the bowed shimmer has no beat)
+    'Jazz Trio': dict(tempo=64, insts={'handbellslow', 'vibes', 'piano', 'harp', 'bowedvibes'}, free_fams={'shimmer'},
+                      gain_offset=-2.0, recipes=[
+        (35, ['frag']), (25, ['sparkle']), (5, ['shimmer']), (10, ['hook']), (5, ['frag', 'shimmer']), (20, [])]),
 }
 SLEIGH_OK = {'Lounge': ('eighths', 'sparse', 'quarters', 'build', 'fade', '_80bpm'),
              'Jazz': ('sparse', 'fade', 'build', 'quarters')}
@@ -118,8 +123,10 @@ def choose(cat, genre, sig, minor_base, i, rng, usage, recent):
     fams = rng.choices([r[1] for r in prof['recipes']], weights=w)[0]
     picks = []
     for fam in fams:
-        cands = [c for c in cat if family(c) == fam and (prof['tempo'] is None or c['tempo'] in (prof['tempo'], None))
-                 and (c['kind'] == 'free') == (prof['tempo'] is None)
+        free_ok = fam in prof.get('free_fams', ())
+        cands = [c for c in cat if family(c) == fam
+                 and (free_ok or ((prof['tempo'] is None or c['tempo'] in (prof['tempo'], None))
+                                  and (c['kind'] == 'free') == (prof['tempo'] is None)))
                  and (c['key'] is None or key_sig(c['file']) == sig)]
         if fam == 'sleigh':
             cands = [c for c in cands if c['tempo'] == prof['tempo'] and any(t in c['file'] for t in SLEIGH_OK.get(genre, ('',)))]
@@ -149,7 +156,7 @@ def plan(bases_dir, measure=True):
     cat = json.load(open(os.path.join(LIB, 'overlay_catalog.json')))
     out = []
     for pl in sorted(os.listdir(bases_dir)):
-        genre = next((g for g in RECIPES if g.lower() in pl.lower()), None)
+        genre = max((g for g in RECIPES if g.lower() in pl.lower()), key=len, default=None)  # 'Jazz Trio' beats 'Jazz'
         if not genre:
             continue
         rng, usage, recent = random.Random(pl), {}, {'carols': [], 'insts': []}
@@ -176,7 +183,7 @@ def plan(bases_dir, measure=True):
                 kind = pick['kind']
                 g = gain_for(base, os.path.join(LIB, pick['file']), kind) if measure else CLAMP[kind][1]
                 lo, hi = CLAMP[kind]
-                g = round(min(hi, max(lo, g + rng.uniform(-2.0, 0.5))), 1)  # a little level variety, never louder
+                g = round(min(hi, max(lo, g + rng.uniform(-2.0, 0.5))) + RECIPES[genre].get('gain_offset', 0.0), 1)  # a little level variety, never louder
                 layers.append(dict(overlay=pick['file'], gain_db=g, kind=kind, family=family(pick)))
             out.append(dict(playlist=pl, base=base, layers=layers))
             print(f"{tr[:44]:44} " + (' + '.join(f"{l['overlay'][:36]} ({l['gain_db']})" for l in layers) or '(plain, no layers)'))
