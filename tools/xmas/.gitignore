@@ -1,0 +1,7 @@
+__pycache__/
+# Pianist Transformer: third-party clone, venv, model weights and HF cache are fetched locally, not versioned
+pianist_transformer/repo/
+pianist_transformer/.venv/
+pianist_transformer/models/
+pianist_transformer/hf_home/
+pianist_transformer/test_out*.mid
