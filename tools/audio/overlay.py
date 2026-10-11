@@ -32,12 +32,12 @@ def dur(p):
     return float(subprocess.run(['ffprobe', '-v', 'quiet', '-show_entries', 'format=duration', '-of', 'csv=p=0', p],
                                 capture_output=True, text=True).stdout or 0)
 
-def main(base, ov, out, gain_db=-12.0, mode=None):
+def main(base, ov, out, gain_db=-12.0, mode=None, check_key=True):
     o_bpm, o_sig = meta(ov); mode = mode or ('loop' if o_bpm else 'free')
     x = ti.load(base); S = ti.spectrogram(x)
     bpm, first_beat, _ = ti.tempo_phase(S); key, kconf = ti.key(S)
     tonic, quality = key.split()
-    if o_sig is not None and signature(tonic, quality) != o_sig:
+    if check_key and o_sig is not None and signature(tonic, quality) != o_sig:
         return {'base': os.path.basename(base), 'skipped': f'key {key} does not match overlay'}
     D = dur(base); tmp = tempfile.mkdtemp()
     if mode == 'loop':
@@ -67,7 +67,8 @@ def main(base, ov, out, gain_db=-12.0, mode=None):
                     f'[0:a]loudnorm=I=-20,aresample=44100,aformat=channel_layouts=stereo[a];'
                     f'[1:a]loudnorm=I=-20,volume={gain_db}dB[b];'
                     f'[a][b]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-16:TP=-1.5',
-                    '-ab', '256k', out], check=True)
+                    '-ar', '44100', '-map_metadata', '0'] + (['-c:a', 'flac'] if out.lower().endswith('.flac') else ['-ab', '256k'])
+                   + [out], check=True)
     return {'base': os.path.basename(base), 'overlay': os.path.basename(ov), 'key': key, 'out': out, **info}
 
 if __name__ == '__main__':
