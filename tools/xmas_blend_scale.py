@@ -1,6 +1,6 @@
 """Christmas hybrid scale step: key-measure raw bases, pick keepers (C/F key families first), plan layers over ALL
 tracks (spares too), render blended FLACs, write a stage2-ready manifest (keepers first).
-Usage: <numpy-python> tools/xmas_blend_scale.py <slug> <Playlist Name> <keep_n> <blend_plan.py>"""
+Usage: <numpy-python> tools/xmas_blend_scale.py <slug> <Playlist Name> <keep_n> tools/xmas/blend_plan.py"""
 import json, os, subprocess, sys
 from concurrent.futures import ThreadPoolExecutor
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

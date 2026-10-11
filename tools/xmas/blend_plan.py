@@ -19,7 +19,8 @@ import json, os, random, subprocess, sys
 import numpy as np
 
 LIB = os.path.expanduser('~/Downloads/Christmas Ableton/overlays')
-MUREKA_AUDIO = '/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/tools/audio'
+# repo-relative (tools/xmas/blend_plan.py -> <repo>/tools/audio), so it works from main or any worktree
+MUREKA_AUDIO = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'tools', 'audio')
 SR, FRAME = 22050, 11025  # 0.5 s frames
 MARGIN = 8.0
 NOTE = {n: i for i, n in enumerate(['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B'])}
