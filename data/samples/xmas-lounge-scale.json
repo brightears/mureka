@@ -1,0 +1,16 @@
+{
+ "model": "mureka-9",
+ "title_genre": "christmas lounge chillhop",
+ "families": [
+  {
+   "key": "LC1-Aminor",
+   "prompt": "christmas chillhop, lo-fi hip hop, punchy dusty boom bap drums, vinyl crackle, tape hiss, warm electric piano chords, music box melody, sleigh bells, mellow and cozy, 80 BPM, in A minor, key of A minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+   "gens": 58
+  },
+  {
+   "key": "LC4-Dminor",
+   "prompt": "christmas lo-fi hip hop, laid-back head-nodding beat, crunchy dusty drums, felt piano chords, harp plucks, sleigh bells, cassette texture, nostalgic winter evening, 80 BPM, in D minor, key of D minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+   "gens": 57
+  }
+ ]
+}

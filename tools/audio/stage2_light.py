@@ -33,7 +33,7 @@ def clean(e):
     dur = float(subprocess.run(['ffprobe','-v','quiet','-show_entries','format=duration','-of','csv=p=0',e['flac']],
                                capture_output=True, text=True).stdout.strip() or 0)
     r = subprocess.run(['ffmpeg','-v','quiet','-y','-i',e['flac'],'-af',
-        f'afade=t=in:st=0:d=0.05,afade=t=out:st={max(dur-0.8,0):.2f}:d=0.8,loudnorm=I=-17.5:TP=-1.5:LRA=11',
+        f'afade=t=in:st=0:d={os.environ.get("FADE_IN", "0.05")},afade=t=out:st={max(dur-0.8,0):.2f}:d=0.8,loudnorm=I=-17.5:TP=-1.5:LRA=11',
         '-metadata',f'title={e["title"]}','-metadata','artist=BMAsia','-metadata',f'album={ALBUM}',
         '-metadata',f'genre={os.environ.get("GENRE_TAG","Country")}','-metadata','date=2026','-ar','44100','-acodec','flac', out])
     return out if r.returncode == 0 and os.path.exists(out) else None

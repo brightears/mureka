@@ -1,0 +1,16 @@
+{
+ "model": "mureka-9",
+ "title_genre": "christmas classical",
+ "families": [
+  {
+   "key": "CR2-Fmajor",
+   "prompt": "christmas classical, romantic, lush tender expressive strings, warm string orchestra, celesta and harp, soft tubular bells, very slow and peaceful, long legato phrases, largo 56 BPM, in F major, key of F major, concert hall, acoustic, [no choir], [no vocals], [no oohs], [no aahs], [no humming], [no drums], [no synths], [no jazz], [no fast runs]",
+   "gens": 58
+  },
+  {
+   "key": "CR2-Cmajor",
+   "prompt": "christmas classical, romantic, lush tender expressive strings, warm string orchestra, celesta and harp, soft tubular bells, very slow and peaceful, long legato phrases, largo 56 BPM, in C major, key of C major, concert hall, acoustic, [no choir], [no vocals], [no oohs], [no aahs], [no humming], [no drums], [no synths], [no jazz], [no fast runs]",
+   "gens": 57
+  }
+ ]
+}

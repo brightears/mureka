@@ -1,0 +1,2904 @@
+[
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/000__MU - Light Attic.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/001__MU - Soar Charcoal Circle.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/002__MU - Space Phrase.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/003__MU - Clover Round.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "godrest_vibes_free_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/004__MU - Elegant Refuge Magnificence.flac",
+  "layers": [
+   {
+    "overlay": "joy_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/005__MU - Trickling Dolphin.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/006__MU - Heart Vigor.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/007__MU - Rising Border.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Fmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/008__MU - Wintertime Salon.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbells_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/009__MU - Infinite Cavern.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/010__MU - Little Attic.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/011__MU - Glow Pastoral Tower.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Cmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/012__MU - Pewter Dimension.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_handbells_free_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/013__MU - Plum Reminiscence Study.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/014__MU - Amber Domain Cord.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/015__MU - Trendy Peninsula.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_harp_free_Cmaj.wav",
+    "gain_db": -16.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/016__MU - Beam Harmony.flac",
+  "layers": [
+   {
+    "overlay": "harpsweep_harp_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/017__MU - Enduring Atrium.flac",
+  "layers": [
+   {
+    "overlay": "ocome_vibes_free_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/018__MU - Sky Concerto.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/019__MU - Summit Serenity.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "godrest_vibes_free_Dmin.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/020__MU - Drift Understanding.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/021__MU - Autumn Presence.flac",
+  "layers": [
+   {
+    "overlay": "harpsweep_harp_free_Fmaj.wav",
+    "gain_db": -16.2,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/022__MU - Little Harmony Majesty.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/023__MU - Crystal Bistro.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/024__MU - Blessed Affection.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_vibes_free_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/025__MU - Moon Meadow.flac",
+  "layers": [
+   {
+    "overlay": "joy_harp_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/026__MU - New Day History.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_handbells_free_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/027__MU - Original Lake.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/028__MU - Rhythm Tale.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/029__MU - Holy Flowing Care.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_harp_free_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/030__MU - Heaven Forte.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/031__MU - Plain Bridge.flac",
+  "layers": [
+   {
+    "overlay": "ocome_handbells_free_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/032__MU - Inventive Ember Estate.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/033__MU - Creative Chime Bliss.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_vibes_free_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/034__MU - Low Enchanted Grove.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/035__MU - Beautiful Happiness Luminance.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/036__MU - Second Well.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Fmaj.wav",
+    "gain_db": -16.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/037__MU - Brilliant Marvel Quay.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/038__MU - Spring Understanding.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_vibes_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/039__MU - Beyond Rich Trio.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_harp_free_Cmaj.wav",
+    "gain_db": -14.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/040__MU - Crafting Bow.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbells_free_Cmaj.wav",
+    "gain_db": -12.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/041__MU - Whisper Nebula Woods.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/042__MU - Antique Boulder View.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/043__MU - Aqua Prairie True.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/044__MU - Light River.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/045__MU - Opal Lake.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/046__MU - Streaming Stratus.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_vibes_free_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/047__MU - Lower Rose Temple.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbells_free_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/048__MU - Sparkling Shaft.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_free_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/049__MU - Truth Sunstone Estate.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/050__MU - Flying Smoke.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_handbells_free_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/051__MU - Nice Port.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Cmaj.wav",
+    "gain_db": -15.6,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/052__MU - Gleaming Breeze.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -16.3,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_vibes_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/053__MU - Gold Wave.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbellslow_free_Fmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/054__MU - Figure Grandeur.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/055__MU - Fascination Circle Avenue.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_vibes_free_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/056__MU - Fern Stream.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/057__MU - Summer Plaza Below.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Amin.wav",
+    "gain_db": -12.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/058__MU - Style Magnificence.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/059__MU - Drop Parlor.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_harp_free_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/060__MU - Daylight Lodge.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "joy_handbells_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/061__MU - Jade Gorge.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_us_handbells_free_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/062__MU - Pure Awe.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Fmaj.wav",
+    "gain_db": -14.8,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/063__MU - Day Shrine.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_vibes_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/064__MU - Original Warmth.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/065__MU - Swirl Sanctuary Zone.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/066__MU - Coral Veranda.flac",
+  "layers": [
+   {
+    "overlay": "harpsweep_harp_free_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/067__MU - Wood Core Spark.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/068__MU - Height Glory.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_us_vibes_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/069__MU - Gradient Liveliness.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/070__MU - Comfortable Consciousness Fountain.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/071__MU - Kindness Upper Fascination.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Fmaj.wav",
+    "gain_db": -15.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/072__MU - Brightening Vapor.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_a_harp_free_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/073__MU - Evening Airiness.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_vibes_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/074__MU - Rustling Cumulus.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_free_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/075__MU - Mint Mode.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_free_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/076__MU - Lime Pure.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/077__MU - Sunlight Link.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/078__MU - Ascend Love.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/079__MU - Cool Gateway Knowledge.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/080__MU - Resonance Comfort.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/081__MU - Wandering Moss.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/082__MU - High Fantasy.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/083__MU - Lapis Bay.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_vibes_free_Cmaj.wav",
+    "gain_db": -15.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/084__MU - Copper Spring Contemporary.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_harp_free_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/085__MU - Gentle Companionship.flac",
+  "layers": [
+   {
+    "overlay": "ocome_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/086__MU - Fog Brook New.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/087__MU - Cool Vigor.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/088__MU - Natural Enduring Study.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/089__MU - Bamboo Span.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/090__MU - Leaf Wharf.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Fmaj.wav",
+    "gain_db": -17.6,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/091__MU - Radiating Puddle Clarity.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Fmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/092__MU - Summit Dock.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/093__MU - Twig Movement.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/094__MU - Milk Avenue.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/095__MU - Bright Tenderness Dock.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_harp_free_Cmaj.wav",
+    "gain_db": -16.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/096__MU - Lace Terminal.flac",
+  "layers": [
+   {
+    "overlay": "ocome_vibes_free_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/097__MU - Finding Plume Shining.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbells_free_Fmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/098__MU - Aqua Threshold.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/099__MU - Short Passage Valuable.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/100__MU - Starlight Club Vision.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/101__MU - Sunlight Vitality Consciousness.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_vibes_free_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/102__MU - Bounce Mildness.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_harp_free_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/103__MU - Seahorse Landscape.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_free_Amin.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/104__MU - Ether Pulse.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbells_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/105__MU - Prism Carol.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/106__MU - Span Tranquility Plume.flac",
+  "layers": [
+   {
+    "overlay": "ocome_vibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/107__MU - Helix Sunstone Rise.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/108__MU - Always Spirit.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/109__MU - Moonlight Ravine.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/110__MU - Precious Curiosity Reflection.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/111__MU - Calm Glacier.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/112__MU - Lower Studio.flac",
+  "layers": [
+   {
+    "overlay": "joy_harp_free_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/113__MU - Good Vintage Village.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/114__MU - Boulder Gentle Mazurka.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/115__MU - Sophisticated Reflection.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_b_handbells_free_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/116__MU - Starlight Cafe.flac",
+  "layers": [
+   {
+    "overlay": "ocome_handbells_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/117__MU - Mindfulness Golden Hour Happiness.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/118__MU - Evening Below Utopia.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/119__MU - Waxing Hideaway.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_free_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/120__MU - Vibrant Glade Glimmer.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.4,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_b_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/121__MU - Muted Trail.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/122__MU - Night Museum.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbells_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/123__MU - Under Love.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/124__MU - Everlasting Dock.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/125__MU - Fawn Cottage.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/126__MU - Rhythm Eddy Garden.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_a_vibes_free_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/127__MU - Sharp Bend Cheer.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_vibes_free_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/128__MU - Daylight Window.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/129__MU - Puddle Manor.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_vibes_free_Cmaj.wav",
+    "gain_db": -16.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/130__MU - Moss Meadow.flac",
+  "layers": [
+   {
+    "overlay": "joy_harp_free_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/131__MU - Chic Thicket.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_b_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/132__MU - Bend Vitality.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/133__MU - Milk Flash.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/134__MU - Cream Skyline Fog.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/135__MU - Full Moon Ridge.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/136__MU - Glide Hope.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/137__MU - Week Companionship.flac",
+  "layers": [
+   {
+    "overlay": "harpsweep_harp_free_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/138__MU - Ray Performance.flac",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/139__MU - Dawn Apple Power.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_harp_free_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/140__MU - Rising Shaft.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/141__MU - Moon Room.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Cmaj.wav",
+    "gain_db": -17.9,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/142__MU - Waxing Creek Outline.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbells_free_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/143__MU - Classy Salon Site.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/144__MU - Raw Gallery.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/145__MU - Beneath Spring Eden.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_harp_free_Cmaj.wav",
+    "gain_db": -15.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/146__MU - Sparrow Lane.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/147__MU - Timeless Gate.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/148__MU - Twig Legato Mirth.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Fmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/149__MU - Spring Well.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/150__MU - Turquoise Cycle.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Cmaj.wav",
+    "gain_db": -17.7,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/151__MU - Tangerine Rotate.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_harp_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/152__MU - Tide Instrumental Point.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/153__MU - Droplet Encore.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/154__MU - Yellow Circle.flac",
+  "layers": [
+   {
+    "overlay": "harpsweep_harp_free_Fmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/155__MU - Starlight Inn.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_vibes_free_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/156__MU - Fluttering Bamboo.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Amin.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/157__MU - Waving Zephyr.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_harp_free_Cmaj.wav",
+    "gain_db": -14.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/158__MU - Twirling Air.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_vibes_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/159__MU - Full Moon Arcade.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "joy_harp_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/160__MU - Peach Dock Glimmer.flac",
+  "layers": [
+   {
+    "overlay": "bellswell_handbells_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/161__MU - Eddy Staccato.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_vibes_free_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/162__MU - Luminous Pleasure Unity.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_harp_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/163__MU - Secluded Mirth.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_free_Amin.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/164__MU - Rising Landscape.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/165__MU - Opal Shore.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "godrest_vibes_free_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/166__MU - Starlight Corridor.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbells_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/167__MU - Teak Spiral.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/168__MU - Glimmer Connection.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_vibes_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/169__MU - Summertime Plaza.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/170__MU - Waning Cavern Link.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/171__MU - Unique Grove.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_a_harp_free_Fmaj.wav",
+    "gain_db": -14.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/172__MU - Aurora Opus.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/173__MU - Opal Right.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/174__MU - Emerald City.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_harp_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/175__MU - Springtime Estate.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/176__MU - Trail Serenity.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_free_Dmin.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/177__MU - Week Wisdom.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/178__MU - Droplet Crossing.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Cmaj.wav",
+    "gain_db": -12.4,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/179__MU - Outer Cinema.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbells_free_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/180__MU - Wood Veranda.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_uk_harp_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/181__MU - Secluded Fantasy.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_b_vibes_free_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/182__MU - Instant Pavilion.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_free_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/183__MU - Rising Love.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/184__MU - Stratus Coda.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_vibes_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/185__MU - Mineral Vista.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbellslow_free_Fmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/186__MU - Muted Garden.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/187__MU - Mild Vision.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_free_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/188__MU - Genesis Ease.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/189__MU - Crane Balcony.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/190__MU - Sheltered Refuge.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/191__MU - Serenity Searching Sand.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_harp_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/192__MU - Magic Hour Quietude.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/193__MU - Fresh Ocean.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbellslow_free_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/194__MU - Style Fellowship.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_handbells_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/195__MU - Refraction Grace.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Cmaj.wav",
+    "gain_db": -14.2,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/196__MU - Prism Twirling Space.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/197__MU - Illuminating Swan.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbellslow_free_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/198__MU - Elevated Dusk Cape.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_a_vibes_free_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/199__MU - Sun Gate.flac",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/200__MU - Essence Brilliance.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/201__MU - Rapid Room Curve.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_handbells_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/202__MU - Heron Opera.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "silentnight_a_vibes_free_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/203__MU - Expansive Fellowship.flac",
+  "layers": [
+   {
+    "overlay": "chimes_handbells_free_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/204__MU - Sunstone Whisper Manner.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.8,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/205__MU - Pastel Tint Net.flac",
+  "layers": [
+   {
+    "overlay": "harprolling_harp_free_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/206__MU - Dove Crescendo.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/207__MU - Magenta Window.flac",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Fmaj.wav",
+    "gain_db": -17.4,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/208__MU - Snug Fantasy.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/209__MU - Mellow Shore.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/210__MU - First Light Sense Puddle.flac",
+  "layers": [
+   {
+    "overlay": "chimes_single_tubular_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/211__MU - Month Ridge.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_handbells_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/212__MU - Swift Path.flac",
+  "layers": [
+   {
+    "overlay": "ochristmastree_handbellslow_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/213__MU - Rope Heritage Area.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/214__MU - Crescent Fellowship.flac",
+  "layers": [
+   {
+    "overlay": "joy_harp_free_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/215__MU - Crystal Shade Road.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_a_handbells_free_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/216__MU - Century Path.flac",
+  "layers": [
+   {
+    "overlay": "awayinamanger_us_vibes_free_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/217__MU - Eclipse Sense.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.2,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ochristmastree_vibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/218__MU - Humming Gem.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/219__MU - Cyan Palace.flac",
+  "layers": [
+   {
+    "overlay": "silentnight_b_vibes_free_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/220__MU - Vanilla Soar.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_harp_free_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/221__MU - Safe Glee.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "ocome_vibes_free_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/222__MU - Area Sandstone Quay.flac",
+  "layers": [
+   {
+    "overlay": "chimes_toll_tubular_free_Cmaj.wav",
+    "gain_db": -17.6,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/223__MU - Linen Spark.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_free_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/224__MU - Keen Frost Cottage.flac",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "awayinamanger_uk_handbells_free_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/225__MU - Flash Gleam Etude.flac",
+  "layers": [
+   {
+    "overlay": "chimes_vibes_free_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/226__MU - Beyond Bistro.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/227__MU - Remote Balcony.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/228__MU - Crescent Origin Majesty.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-classical/Christmas Classical/229__MU - Offering Orchid.flac",
+  "layers": []
+ }
+]
