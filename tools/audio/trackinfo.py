@@ -30,7 +30,7 @@ def tempo_phase(S, lo=60, hi=150):
     while bpm > hi: bpm /= 2
     period = fps * 60 / bpm
     offs = np.arange(int(period))
-    score = [flux[np.arange(o, len(flux), period).astype(int)].sum() for o in offs]
+    score = [flux[np.minimum(np.arange(o, len(flux), period).astype(int), len(flux) - 1)].sum() for o in offs]
     return round(bpm, 1), round(float(offs[int(np.argmax(score))]) / fps, 3), round(float(ac[best]), 2)
 
 def key(S):

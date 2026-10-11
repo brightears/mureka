@@ -1,0 +1,94 @@
+{
+ "TJ1-Fmajor": {
+  "key": "TJ1-Fmajor",
+  "playlist": "Christmas Soft Jazz Trio",
+  "status": "succeeded",
+  "genId": "165706209492993",
+  "prompt": "christmas jazz, soft piano trio, intimate acoustic piano melody, warm upright bass, very soft brushed drums, gentle and tender, carol-like chords, slow, 64 BPM, in F major, key of F major, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ1-Fmajor-1.mp3",
+    "songId": "165706356293633",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-WWxwUePdaaWewDQn5mcD4r.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-Ksiquk7vdRwWR6XiGPTWgh.flac",
+    "durationMs": 171630
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ1-Fmajor-2.mp3",
+    "songId": "165706356293634",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-2u7vLToWhLEJCfnjivd3YB.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-JJkRFBWUm7tmzLMBkzfDHw.flac",
+    "durationMs": 194750
+   }
+  ]
+ },
+ "TJ2-Cmajor": {
+  "key": "TJ2-Cmajor",
+  "playlist": "Christmas Soft Jazz Trio",
+  "status": "succeeded",
+  "genId": "165706209624065",
+  "prompt": "christmas jazz trio ballad, soft piano with upright bass and brushes, warm late-night jazz club, relaxed and peaceful, gentle swing feel, 64 BPM, in C major, key of C major, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ2-Cmajor-1.mp3",
+    "songId": "165706350002177",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-MYu86XMf6DFUecN7NCviyd.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-8Cxo6AE5UFnLyRHdWfa6uv.flac",
+    "durationMs": 220150
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ2-Cmajor-2.mp3",
+    "songId": "165706350002178",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-YBJMjgTgkejn2ayGmBNsaj.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-EdcSgmW8EbTcb9H5YcD7zp.flac",
+    "durationMs": 221310
+   }
+  ]
+ },
+ "TJ3-Dminor": {
+  "key": "TJ3-Dminor",
+  "playlist": "Christmas Soft Jazz Trio",
+  "status": "succeeded",
+  "genId": "165706209624066",
+  "prompt": "christmas jazz, gentle piano trio, soft bluesy chords, upright bass, brushed snare, cozy fireplace, slow and relaxed, 64 BPM, in D minor, key of D minor, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ3-Dminor-1.mp3",
+    "songId": "165706349936642",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-5mJHEFPwYLHZABCgjxmv5y.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-TneJE4Fccu3r1d2igEMRFC.flac",
+    "durationMs": 192950
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ3-Dminor-2.mp3",
+    "songId": "165706349936643",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-36Kc8ESiztXJXR2ZJP8q98.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-F89ni2PMk2nF533XtPSPes.flac",
+    "durationMs": 199470
+   }
+  ]
+ },
+ "TJ4-Aminor": {
+  "key": "TJ4-Aminor",
+  "playlist": "Christmas Soft Jazz Trio",
+  "status": "succeeded",
+  "genId": "165706209427457",
+  "prompt": "christmas jazz, soft piano trio nocturne, wistful and warm, upright bass, feather-light brushed drums, snowy night, slow, 64 BPM, in A minor, key of A minor, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ4-Aminor-1.mp3",
+    "songId": "165706324967425",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-RkWesf7gw6PgLXi2kXXWA4.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-wb1xjkdBNUFSnWVcj52k4.flac",
+    "durationMs": 164190
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ4-Aminor-2.mp3",
+    "songId": "165706324967426",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-jApXQmLR5N3e9HDXA9CQo.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-LwN5TEjccwjx2WfdqK9Mdh.flac",
+    "durationMs": 183790
+   }
+  ]
+ }
+}

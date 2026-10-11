@@ -1,0 +1,35 @@
+{
+ "root": "Christmas/Round 8 - soft jazz trio",
+ "model": "mureka-9",
+ "describe": false,
+ "families": [
+  {
+   "key": "TJ1-Fmajor",
+   "playlist": "Christmas Soft Jazz Trio",
+   "prompt": "christmas jazz, soft piano trio, intimate acoustic piano melody, warm upright bass, very soft brushed drums, gentle and tender, carol-like chords, slow, 64 BPM, in F major, key of F major, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "TJ2-Cmajor",
+   "playlist": "Christmas Soft Jazz Trio",
+   "prompt": "christmas jazz trio ballad, soft piano with upright bass and brushes, warm late-night jazz club, relaxed and peaceful, gentle swing feel, 64 BPM, in C major, key of C major, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "TJ3-Dminor",
+   "playlist": "Christmas Soft Jazz Trio",
+   "prompt": "christmas jazz, gentle piano trio, soft bluesy chords, upright bass, brushed snare, cozy fireplace, slow and relaxed, 64 BPM, in D minor, key of D minor, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+   "kind": "instrumental",
+   "n": 2
+  },
+  {
+   "key": "TJ4-Aminor",
+   "playlist": "Christmas Soft Jazz Trio",
+   "prompt": "christmas jazz, soft piano trio nocturne, wistful and warm, upright bass, feather-light brushed drums, snowy night, slow, 64 BPM, in A minor, key of A minor, [no vocals], [no vibraphone], [no saxophone], [no guitar], [no strings], [no fast runs]",
+   "kind": "instrumental",
+   "n": 2
+  }
+ ]
+}
