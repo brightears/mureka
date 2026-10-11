@@ -766,7 +766,9 @@ export function generateUniqueTitle(genre: string, _mood?: string, _atmosphere?:
   while (attempts < maxAttempts) {
     const baseTitle = generateSingleTitle(genre);
     const fullTitle = `${titlePrefix} - ${baseTitle}`;
-    const titleKey = fullTitle.toLowerCase();
+    // Key on the base title only: the catalog strips prefixes at upload, so
+    // uniqueness must hold across prefixes ("MU - X" and "BM - X" collide).
+    const titleKey = baseTitle.toLowerCase();
 
     if (!usedTitles.has(titleKey)) {
       usedTitles.add(titleKey);
@@ -782,7 +784,7 @@ export function generateUniqueTitle(genre: string, _mood?: string, _atmosphere?:
   const timestamp = Date.now().toString(36);
   const baseTitle = generateSingleTitle(genre);
   const uniqueTitle = `${titlePrefix} - ${baseTitle} ${timestamp}`;
-  usedTitles.add(uniqueTitle.toLowerCase());
+  usedTitles.add(`${baseTitle} ${timestamp}`.toLowerCase());
   saveUsedTitles();
 
   console.warn(`Warning: Had to use timestamp suffix after ${maxAttempts} attempts. Consider expanding vocabulary.`);

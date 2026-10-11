@@ -1,0 +1,35 @@
+{
+ "root": "Christmas/_key_test",
+ "model": "mureka-9",
+ "describe": false,
+ "families": [
+  {
+   "key": "J8-key",
+   "playlist": "key test",
+   "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 58 BPM, in F major, key of F major, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+   "n": 2,
+   "asked": "F major"
+  },
+  {
+   "key": "CL8-key",
+   "playlist": "key test",
+   "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, largo 56 BPM, concert hall, acoustic, in G major, key of G major, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+   "n": 2,
+   "asked": "G major"
+  },
+  {
+   "key": "A7-key",
+   "playlist": "key test",
+   "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, in D major, key of D major, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+   "n": 2,
+   "asked": "D major"
+  },
+  {
+   "key": "LH1-key",
+   "playlist": "key test",
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, in A minor, key of A minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+   "n": 2,
+   "asked": "A minor"
+  }
+ ]
+}

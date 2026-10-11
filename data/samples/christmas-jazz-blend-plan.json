@@ -1,0 +1,3133 @@
+[
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/000__MU - Spring Chant.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_vibes_64bpm_Cmaj.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/001__MU - Spring Pergola Evident.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/002__MU - Mint Glow Mindfulness.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/003__MU - Theater Suite Belonging.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/004__MU - Sheltered Loft.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/005__MU - Prism Organic Sax.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/006__MU - Speedy Vintage Porch.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/007__MU - Granite Concerto.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/008__MU - Ladybug Vapor Mirth.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/009__MU - Plain Contentment.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/010__MU - Meteor Power.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/011__MU - Metal Twilight.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/012__MU - Twilight Window.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/013__MU - Adjacent Bistro.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/014__MU - Trumpet Will.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/015__MU - Hour Castle Fulfillment.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/016__MU - Gate Chord.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/017__MU - Clear Peal Rose.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/018__MU - Cerulean Prairie.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/019__MU - Museum Interlude.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/020__MU - Fuchsia Carol.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/021__MU - Cool Tale.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/022__MU - Everlasting Prelude Taste.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/023__MU - Magenta Creek.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Amin.wav",
+    "gain_db": -15.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/024__MU - Void Chord Den.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -15.3,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/025__MU - Heather Hope.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/026__MU - Magical Magnificence.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_vibes_64bpm_Fmaj.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/027__MU - Idyllic Lagoon.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/028__MU - Vine Recollection.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/029__MU - Lofty Wild Seed.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/030__MU - Peak Samba.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/031__MU - Apparent Dune.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/032__MU - Plain Terminal.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/033__MU - Latin Outer Connection.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/034__MU - Awakening Determination.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/035__MU - Strong Bridge.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/036__MU - Ocean Tempo.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/037__MU - Granite Tower.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/038__MU - Drums Resolve Rock.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/039__MU - Lapis Lullaby.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -15.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/040__MU - Ring Free Trail.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/041__MU - Platinum Ensemble.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/042__MU - Yellow Track Cathedral.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Fmaj.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/043__MU - Bar Theater.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/044__MU - Graphite Alley Power.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/045__MU - Hot Scale.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/046__MU - Flash River.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/047__MU - Heritage Eddy Blue.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/048__MU - Latin Feel Desert.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_vibes_64bpm_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/049__MU - Lark Memory.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_64bpm_Amin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/050__MU - Bop Gorge.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/051__MU - Curve Pastel Window.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/052__MU - Equinox Happiness Great.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_64bpm_Dmin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/053__MU - Sandstone Cafe.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -16.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/054__MU - Ruby Paradise.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/055__MU - Elevated Funky.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/056__MU - Blue Setting.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/057__MU - Wintertime Sea Blend.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/058__MU - Ripple Harlem Pleasure.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/059__MU - Cellar Solo.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/060__MU - Aqua Legato.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/061__MU - Bop Power.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/062__MU - Bebop Refraction Recollection.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/063__MU - Cool Bliss.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/064__MU - City Happiness.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/065__MU - Pure Entire Life.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/066__MU - Animation Apparent Resolve.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/067__MU - Skyline Overture Glow.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/068__MU - Oak Purple Suite.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/069__MU - Mature Bliss.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/070__MU - Pale Concerto Pretty.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/071__MU - Dove Salmon Doorway.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/072__MU - Tulip Ignite Ravine.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/073__MU - Near Magical Atrium.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_64bpm_Amin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/074__MU - Radiance Fulfillment Library.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/075__MU - Bridge Round.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -14.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/076__MU - Sophisticated Track.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/077__MU - Temple Butterfly Swing.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/078__MU - Float Balcony Living.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/079__MU - Cool Session.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/080__MU - Dawn Fair.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/081__MU - Maple Rhapsody.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/082__MU - Iris Glee.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/083__MU - Rural Splendor.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_64bpm_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/084__MU - Tint Helix Pavilion.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -16.6,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/085__MU - Shower Waxing Calm.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/086__MU - Dusk Vision.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/087__MU - Mauve Foyer.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/088__MU - Utter Chic Ensemble.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/089__MU - Mild Museum.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/090__MU - Wind Understanding Alive.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/091__MU - Moonlight Sun Bond.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/092__MU - Unique Desert.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/093__MU - Seahorse Scope Cheer.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/094__MU - Light Retreat.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/095__MU - Cool Swirl.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/096__MU - Cosmos Vision.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/097__MU - Beneath Sweet Life.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/098__MU - Elevated Trio.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/099__MU - Aurora Story Bass.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/100__MU - Night Lounge.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/101__MU - Rotate Vapor Marina.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/102__MU - Cloud Affection.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/103__MU - Midnight Reef.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/104__MU - Gate Nocturne.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/105__MU - Quiet Island Corner.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/106__MU - Sunlight Point Canyon.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Amin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/107__MU - Year Vitality Perception.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/108__MU - Strong Recollection Vibration.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/109__MU - Seahorse Free Drift.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/110__MU - Summit Note.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -17.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/111__MU - Tone Forest.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/112__MU - Late Discovery.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_64bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/113__MU - Crystal Groove.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -15.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/114__MU - Brass Retreat.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/115__MU - Lounge Villa.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/116__MU - Cord Central Bond.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_64bpm_Amin.wav",
+    "gain_db": -16.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/117__MU - Vanilla Note.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/118__MU - Soft Clean Kiosk.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/119__MU - Coast Tone.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/120__MU - Cozy Spin.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/121__MU - Salmon Beat.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/122__MU - Copper Tempo.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/123__MU - Clear Mildness Reminiscence.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/124__MU - Summit Planet Parlor.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_64bpm_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/125__MU - Mood Reflection.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/126__MU - Turquoise Atrium.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/127__MU - Rise Border.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/128__MU - Slow Soul Sparrow.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/129__MU - Orange Tango.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/130__MU - Rose Friendship.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/131__MU - Beyond Set.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/132__MU - Dawn Reflection.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/133__MU - Lounge Voice.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_vibes_64bpm_Cmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/134__MU - Magic Hour Vista.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_vibes_64bpm_Cmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/135__MU - Blaze Safe Concerto.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_64bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/136__MU - Night Buzz Porch.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -16.1,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/137__MU - Boulevard Hum.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/138__MU - Salon Movement.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/139__MU - Moment Bebop Bliss.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -14.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/140__MU - Era Threshold.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/141__MU - Emerald Instrumental.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/142__MU - Set Groove.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/143__MU - Paradise Waltz.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_vibes_64bpm_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/144__MU - Pure Well.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/145__MU - Daybreak Inn.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/146__MU - Ascend Landscape.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_vibes_64bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/147__MU - Living Setting.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/148__MU - Visible Opus.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_64bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/149__MU - Sparkle Cafe Fair.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_64bpm_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/150__MU - Rich Full Moon Paradise.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/151__MU - Neighboring Serenity.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/152__MU - Magical Ocean.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/153__MU - Grand Twilight Passage.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/154__MU - Platinum Cantata.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/155__MU - Dusty Chant.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_vibes_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/156__MU - Dusty Opera Twilight.flac",
+  "layers": [
+   {
+    "overlay": "joy_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/157__MU - Week Trail.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/158__MU - Lofty Remembrance.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_64bpm_Amin.wav",
+    "gain_db": -17.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/159__MU - True Apricot Oasis.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/160__MU - Creative Rhapsody.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_handbells_64bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/161__MU - Waning Tundra Tie.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/162__MU - Diamond Corner Etude.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/163__MU - Waterfall Comfortable Groove.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/164__MU - Piano Unity.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_vibes_64bpm_Cmaj.wav",
+    "gain_db": -14.8,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/165__MU - Jellyfish Resonance.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Amin.wav",
+    "gain_db": -15.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/166__MU - Waterfall Choir.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/167__MU - Glow Power.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/168__MU - Classic Station.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/169__MU - Contour Patio Happiness.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/170__MU - Grand Right Devotion.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Amin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/171__MU - Scene Part.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/172__MU - Fusion Touch Path.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/173__MU - Vault Cradle.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/174__MU - Authentic Coast.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/175__MU - Solo Indigo Tempo.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/176__MU - Fawn Soar.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_64bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/177__MU - Mineral Delight.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/178__MU - Form Smooth Knowledge.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/179__MU - Visible Region.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/180__MU - Absolute Piano Marvel.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/181__MU - Clay Knowledge.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/182__MU - Quarter Current Sweetness.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/183__MU - Turn Cabin.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/184__MU - Snow Lullaby.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/185__MU - Afternoon Parlor.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/186__MU - Graceful Moment Curiosity.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/187__MU - Evening Suite.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/188__MU - Helix Road.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/189__MU - Emerald Border.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/190__MU - Bubble Glass Part.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/191__MU - Ballroom Overture.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/192__MU - Fast Fusion.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/193__MU - Aged Waterfall.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/194__MU - Sweet Attic.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/195__MU - Perfect Tango.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/196__MU - Simple Dock.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/197__MU - Perfect Lightness Knowledge.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/198__MU - Sunstone Orchard.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/199__MU - Crystal Diminuendo.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/200__MU - Ladybug Pulse.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_64bpm_Amin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/201__MU - Savanna Bolero.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/202__MU - Sand Sweet Swing.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/203__MU - Evening Courtyard.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/204__MU - Powerful Duo.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/205__MU - Distance Inlet.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_handbellslow_64bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/206__MU - Drums Will.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/207__MU - Morning Dawn Thicket.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/208__MU - Ground Atrium.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_b_vibes_64bpm_Cmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/209__MU - Radiant Stream.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/210__MU - Panorama Spirit Concert.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/211__MU - Night Aspiration.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Amin.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/212__MU - Current Flow.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/213__MU - Bronze Aria Refuge.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_handbellslow_64bpm_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/214__MU - Fair Loop Cabin.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/215__MU - Spot Basement.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_vibes_64bpm_Fmaj.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/216__MU - Evening Grace Wave.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/217__MU - Midday Softness.flac",
+  "layers": [
+   {
+    "overlay": "joy_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/218__MU - Dawn Parlor.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/219__MU - Afternoon Rhythm.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/220__MU - Lofty Scale Harbor.flac",
+  "layers": [
+   {
+    "overlay": "hark_b_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/221__MU - Cherished Summit.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_frag_vibes_64bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/222__MU - Twilight Mountain.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/223__MU - Steel Bridge.flac",
+  "layers": [
+   {
+    "overlay": "ocome_frag_piano_64bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/224__MU - Stem Glory.flac",
+  "layers": [
+   {
+    "overlay": "joy_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/225__MU - Deer Grandeur Wish.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/226__MU - Waning Monastery.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_64bpm_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_fade_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/227__MU - Untamed Swing.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_64bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/228__MU - Plume Glow Ripple.flac",
+  "layers": [
+   {
+    "overlay": "ocome_refrain_handbells_64bpm_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Jazz",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-jazz/Christmas Jazz/229__MU - Forever Tenderness.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells_quarters_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ }
+]

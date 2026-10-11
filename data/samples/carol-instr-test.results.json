@@ -1,0 +1,26 @@
+{
+ "silent-night": [
+  {
+   "task_id": "165507737321474",
+   "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-JP6mqMFfJb3hiYtNLbzc6v.mp3",
+   "file": "/Users/benorbe/Downloads/Christmas/Carol Tests/silent-night C-melody-instrumental-1.mp3"
+  },
+  {
+   "task_id": "165507737321474",
+   "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-M1NibUxZ13wjF7T5rQGhxw.mp3",
+   "file": "/Users/benorbe/Downloads/Christmas/Carol Tests/silent-night C-melody-instrumental-2.mp3"
+  }
+ ],
+ "jingle-bells": [
+  {
+   "task_id": "165507741515778",
+   "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-NDjHapxipDFEabK4NsAbHu.mp3",
+   "file": "/Users/benorbe/Downloads/Christmas/Carol Tests/jingle-bells C-melody-instrumental-1.mp3"
+  },
+  {
+   "task_id": "165507741515778",
+   "url": "https://cdn.mureka.ai/cos-prod/open/song/20261010/64673584054273-W5Zf4ehqTgPMR6beXkF6LZ.mp3",
+   "file": "/Users/benorbe/Downloads/Christmas/Carol Tests/jingle-bells C-melody-instrumental-2.mp3"
+  }
+ ]
+}

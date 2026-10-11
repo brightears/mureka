@@ -1,0 +1,116 @@
+[
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ1-Fmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ1-Fmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ2-Cmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_64bpm_Amin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ2-Cmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "ocome_frag_vibes_64bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_build_64bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ3-Dminor-1.mp3",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_64bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ3-Dminor-2.mp3",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_64bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ4-Aminor-1.mp3",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_64bpm_Amin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_64bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Soft Jazz Trio",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 8 - soft jazz trio/Christmas Soft Jazz Trio/Christmas Soft Jazz Trio Sample TJ4-Aminor-2.mp3",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_64bpm_Amin.wav",
+    "gain_db": -16.5,
+    "kind": "phrase",
+    "family": "frag"
+   }
+  ]
+ }
+]

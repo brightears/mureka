@@ -1,0 +1,235 @@
+[
+ {
+  "playlist": "Christmas Acoustic",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC1-Cmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "chimes_descend_tubular_free_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "chimes"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Acoustic",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC1-Cmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "harpglissup_harp_free_Cmaj.wav",
+    "gain_db": -14.6,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Acoustic",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC2-Fmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "harpcascade_harp_free_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "free",
+    "family": "harpfx"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Acoustic",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC2-Fmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "shimmer_subdominant_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "free",
+    "family": "shimmer"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR1-Cmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "bellswell_vibes_free_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "free",
+    "family": "bellswell"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR1-Cmajor-2.mp3",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR2-Fmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "godrest_handbells_free_Dmin.wav",
+    "gain_db": -12.7,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Classical",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR2-Fmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "shimmer_tonic_bowedvibes_free_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "free",
+    "family": "shimmer"
+   },
+   {
+    "overlay": "godrest_vibes_free_Amin.wav",
+    "gain_db": -12.8,
+    "kind": "free",
+    "family": "free_carol"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC1-Aminor-1.mp3",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC1-Aminor-2.mp3",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC2-Cmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC2-Cmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "hark_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC3-Fmajor-1.mp3",
+  "layers": [
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC3-Fmajor-2.mp3",
+  "layers": [
+   {
+    "overlay": "jinglebells_a_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC4-Dminor-1.mp3",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -17.9,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC4-Dminor-2.mp3",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ }
+]

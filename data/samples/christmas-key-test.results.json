@@ -1,0 +1,94 @@
+{
+ "J8-key": {
+  "key": "J8-key",
+  "playlist": "key test",
+  "status": "succeeded",
+  "genId": "163533690109953",
+  "prompt": "christmas jazz ballad, romantic, piano trio with very soft brushes, vibraphone melody, sleigh bells, celesta, carol-like hymn chords, half-time feel, very slow and peaceful, sparse, long sustained notes, gentle, 58 BPM, in F major, key of F major, [no swing], [no walking bass], [no saxophone], [no vocals], [no bossa nova], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample J8-key-1.mp3",
+    "songId": "163533803487233",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-42EHGzL2cfqiWDCh5QCzWb.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-QPeBoY1ji3zZVrW6xiLHp3.flac",
+    "durationMs": 153630
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample J8-key-2.mp3",
+    "songId": "163533803487234",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-J6HjMpFKQ3ZXqiUnfZdMHV.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-7ftZ7an4mJDPVNSVsSBJZu.flac",
+    "durationMs": 188790
+   }
+  ]
+ },
+ "CL8-key": {
+  "key": "CL8-key",
+  "playlist": "key test",
+  "status": "succeeded",
+  "genId": "163533690044417",
+  "prompt": "christmas classical lullaby, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, romantic, very slow and peaceful, sparse, long sustained notes, gentle, largo 56 BPM, concert hall, acoustic, in G major, key of G major, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample CL8-key-1.mp3",
+    "songId": "163533801390081",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-8X1agBWMMUyQKkqLjgu3yA.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-VRgdgXuLJi6yk3mr2tpvkr.flac",
+    "durationMs": 203270
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample CL8-key-2.mp3",
+    "songId": "163533801390082",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-HXzJWN3CSiK4dquY2VjWD3.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-N6C9jUEB1CmURNyqFwM9k1.flac",
+    "durationMs": 168270
+   }
+  ]
+ },
+ "A7-key": {
+  "key": "A7-key",
+  "playlist": "key test",
+  "status": "succeeded",
+  "genId": "163533688012801",
+  "prompt": "christmas acoustic, solo piano, music box celesta lead melody, soft wordless choir aahs, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, in D major, key of D major, [no jazz], [no drums], [no lyrics], [no lead vocals]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample A7-key-1.mp3",
+    "songId": "163533794967553",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-Hhi6bsTQh7byeLxXWicDf4.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-UG5vF11jDz34UXUKX1KCiM.flac",
+    "durationMs": 157030
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample A7-key-2.mp3",
+    "songId": "163533794967554",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-NaRAfgZtH9sgFGvuqYKjbp.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-YCUtwbuwAEC2kCT4yRvbmA.flac",
+    "durationMs": 159710
+   }
+  ]
+ },
+ "LH1-key": {
+  "key": "LH1-key",
+  "playlist": "key test",
+  "status": "succeeded",
+  "genId": "163533690175489",
+  "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano chords, celesta and music box melody, sleigh bells, vinyl crackle, cozy and minimal, 72 BPM, in A minor, key of A minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone], [no busy arrangement]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample LH1-key-1.mp3",
+    "songId": "163533790904321",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-KYQEVHNdH9GXLRgnuYTqsg.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-ANkzcNSgPPZYQBWNZp37Pa.flac",
+    "durationMs": 147030
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/_key_test/key test/key test Sample LH1-key-2.mp3",
+    "songId": "163533790904322",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-DDzw1WYjQv86AUd7i2D79C.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20260929/64673584054273-E3HkyQNuUhBdFv6nFChPbD.flac",
+    "durationMs": 157670
+   }
+  ]
+ }
+}

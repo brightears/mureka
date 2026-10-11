@@ -1,0 +1,53 @@
+{
+  "id": "japanese-contemporary-ambient",
+  "name": "Japanese Contemporary Zen Ambient",
+  "description": "Modern zen ambient with warm pads, sparse koto accents and soft chimes — approved direction C of the Japanese Contemporary Instrumental playlist (82 BPM, tranquil, spacious)",
+  "type": "instrumental",
+
+  "genres": [
+    "japanese ambient contemporary"
+  ],
+
+  "subGenres": [
+    "minimal modern textures spacious",
+    "modern zen ambient spacious",
+    "minimal ambient modern gentle"
+  ],
+
+  "moods": [
+    "tranquil and modern",
+    "floating and serene",
+    "calm and spacious",
+    "serene and minimal"
+  ],
+
+  "tempos": [
+    { "label": "relaxed", "minBpm": 80, "maxBpm": 84 }
+  ],
+
+  "instruments": [
+    "warm evolving synth pad soft",
+    "koto plucked sparse accents",
+    "soft chimes gentle",
+    "warm pad sustained gentle",
+    "soft bell tones sparse"
+  ],
+
+  "useCases": [
+    "modern tokyo art gallery",
+    "contemporary hotel lounge",
+    "modern japanese spa lounge"
+  ],
+
+  "atmospheres": [],
+
+  "negativePrompts": [
+    "no vocals",
+    "no drums",
+    "no beats",
+    "no percussion",
+    "no jazz",
+    "no saxophone",
+    "no folk"
+  ]
+}

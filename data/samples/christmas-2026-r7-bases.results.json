@@ -1,0 +1,186 @@
+{
+ "AC1-Cmajor": {
+  "key": "AC1-Cmajor",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "165701943820290",
+  "prompt": "christmas acoustic, solo piano, music box celesta lead melody, gentle sleigh bells, tubular bells, carol-like hymn chords, very slow and peaceful, sparse, long sustained notes, gentle, 60 BPM, in C major, key of C major, [no choir], [no vocals], [no oohs], [no aahs], [no humming], [no jazz], [no drums]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC1-Cmajor-1.mp3",
+    "songId": "165702057197569",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-5Ua9bxLcDvDxRwspUc5NKC.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-KjcuUEckpxW5oCDALsfm2c.flac",
+    "durationMs": 172790
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC1-Cmajor-2.mp3",
+    "songId": "165702057197570",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-FZRjur5brCGd4RnwypgZKL.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-QeRjjPrmDmm62pBpnAu5fx.flac",
+    "durationMs": 168910
+   }
+  ]
+ },
+ "AC2-Fmajor": {
+  "key": "AC2-Fmajor",
+  "playlist": "Christmas Acoustic",
+  "status": "succeeded",
+  "genId": "165701943885825",
+  "prompt": "christmas acoustic, fingerpicked steel string guitar, glockenspiel lead melody, handbells, soft sleigh bells, winter lullaby, very slow and peaceful, sparse, long sustained notes, gentle, 62 BPM, in F major, key of F major, [no choir], [no vocals], [no oohs], [no aahs], [no humming], [no jazz], [no bossa nova], [no drums]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC2-Fmajor-1.mp3",
+    "songId": "165702074040321",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-2FBuscHpVM6w86aGTSaTsa.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-7KaH2R7Fmy1DGia1tYt4ma.flac",
+    "durationMs": 174750
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Acoustic/Christmas Acoustic Sample AC2-Fmajor-2.mp3",
+    "songId": "165702074040322",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-9SYo77r8r6mLPMYYC4CsLA.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-H3NnBwqZ1tzcacEvmYSLTk.flac",
+    "durationMs": 194270
+   }
+  ]
+ },
+ "CR1-Cmajor": {
+  "key": "CR1-Cmajor",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "165701944016899",
+  "prompt": "christmas classical lullaby, romantic, lush tender expressive strings, soft string orchestra, celesta lead melody, harp, soft wordless choir aahs, tubular bells, very slow and peaceful, long legato phrases, largo 56 BPM, in C major, key of C major, concert hall, acoustic, [no lyrics], [no lead vocals], [no drums], [no synths], [no jazz], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR1-Cmajor-1.mp3",
+    "songId": "165702069911553",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-RAm4fgKZAiwpnZ5U9u6rhM.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-EzwkS9G2JEUzx2DLdjS162.flac",
+    "durationMs": 205430
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR1-Cmajor-2.mp3",
+    "songId": "165702069911554",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-V7anSW6CwxdoDkpzKe81kE.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-3fQCUggmLzjTBfDGDbcdEk.flac",
+    "durationMs": 174190
+   }
+  ]
+ },
+ "CR2-Fmajor": {
+  "key": "CR2-Fmajor",
+  "playlist": "Christmas Classical",
+  "status": "succeeded",
+  "genId": "165701944082435",
+  "prompt": "christmas classical, romantic, lush tender expressive strings, warm string orchestra, celesta and harp, soft tubular bells, very slow and peaceful, long legato phrases, largo 56 BPM, in F major, key of F major, concert hall, acoustic, [no choir], [no vocals], [no oohs], [no aahs], [no humming], [no drums], [no synths], [no jazz], [no fast runs]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR2-Fmajor-1.mp3",
+    "songId": "165702057328643",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-48yGqfwg5aA6amkcYX5wz7.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-2JUbeGRUWu7YWD3jXt2SqB.flac",
+    "durationMs": 175230
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Classical/Christmas Classical Sample CR2-Fmajor-2.mp3",
+    "songId": "165702057328644",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-Bh9LxWYiFKjtgeSh95inMX.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-CsdwZoGtDwXAThu83kaUyG.flac",
+    "durationMs": 181710
+   }
+  ]
+ },
+ "LC1-Aminor": {
+  "key": "LC1-Aminor",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "165701945982977",
+  "prompt": "christmas chillhop, lo-fi hip hop, punchy dusty boom bap drums, vinyl crackle, tape hiss, warm electric piano chords, music box melody, sleigh bells, mellow and cozy, 80 BPM, in A minor, key of A minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC1-Aminor-1.mp3",
+    "songId": "165702052872194",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-2L3TfHmJ1bDzCe6VNeNTK2.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-HkK8yUUmCpR1SSxW4qei8Q.flac",
+    "durationMs": 154590
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC1-Aminor-2.mp3",
+    "songId": "165702052872195",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-FvHDnYgPiRQpJ8t43e5pf2.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-3mXyGmAPGMWcCdBURHXwBz.flac",
+    "durationMs": 158190
+   }
+  ]
+ },
+ "LC2-Cmajor": {
+  "key": "LC2-Cmajor",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "165702061522945",
+  "prompt": "christmas lofi beats, jazzy lo-fi hip hop, swung lazy drums, warm upright bass, muted guitar chords, glockenspiel melody, rain and vinyl texture, cozy, 80 BPM, in C major, key of C major, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC2-Cmajor-1.mp3",
+    "songId": "165702180798465",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-A2oxm1fDYxYGyCgKfgh5be.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-EKtDv54wuPmzv3bcVq6EAt.flac",
+    "durationMs": 205110
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC2-Cmajor-2.mp3",
+    "songId": "165702180798466",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-LKPtjr9tdosJogTTGXXbfB.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-2TAEsP3iMj1M8h3S6bwKCU.flac",
+    "durationMs": 204990
+   }
+  ]
+ },
+ "LC3-Fmajor": {
+  "key": "LC3-Fmajor",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "165702084395009",
+  "prompt": "christmas chillhop, mellow lo-fi beat, soft kick and snare, warm pads, kalimba and celesta melody, sleigh bell shuffle, tape warble, dreamy, 80 BPM, in F major, key of F major, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC3-Fmajor-1.mp3",
+    "songId": "165702195675137",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-XMviaRyhSHeFTjDogdrcrw.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-KZojbNJ7SEWdLbsXib2Jvm.flac",
+    "durationMs": 157630
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC3-Fmajor-2.mp3",
+    "songId": "165702195675138",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-MqkVUZK4m8YHHbcdr6Jj6r.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-AdQWBRYoM8qDADiAGYBeyJ.flac",
+    "durationMs": 150070
+   }
+  ]
+ },
+ "LC4-Dminor": {
+  "key": "LC4-Dminor",
+  "playlist": "Christmas Lounge",
+  "status": "succeeded",
+  "genId": "165702084526082",
+  "prompt": "christmas lo-fi hip hop, laid-back head-nodding beat, crunchy dusty drums, felt piano chords, harp plucks, sleigh bells, cassette texture, nostalgic winter evening, 80 BPM, in D minor, key of D minor, [no vocals], [no orchestra], [no strings], [no synth lead], [no saxophone]",
+  "tracks": [
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC4-Dminor-1.mp3",
+    "songId": "165702203867137",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-YP1LbU4AnvNpzp4sgHmNYT.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-Daw7oF2dHZo6RhCwTQeRm1.flac",
+    "durationMs": 164550
+   },
+   {
+    "file": "/Users/benorbe/Downloads/Christmas/Round 7 - revised bases/Christmas Lounge/Christmas Lounge Sample LC4-Dminor-2.mp3",
+    "songId": "165702203867138",
+    "url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-Hpq86TpDRPRzb4BCPe8WAK.mp3",
+    "flac_url": "https://cdn.mureka.ai/cos-prod/open/instrumental/20261011/64673584054273-RuzphXDCWJAXcyqcUpUnSW.flac",
+    "durationMs": 175230
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "root": "Christmas/Round 5 - Christmas layers",
+ "jobs": [
+  {
+   "name": "Lounge LH1-1 + soft bells",
+   "mode": "layer",
+   "input": "~/Downloads/Christmas/Round 4/Christmas Lounge/Christmas Lounge Sample LH1-1.mp3",
+   "generate_type": "Percussion",
+   "prompt": "soft sleigh bells and gentle chimes, christmas, sparse and subtle"
+  },
+  {
+   "name": "Lounge LH1-1 + celesta",
+   "mode": "layer",
+   "input": "~/Downloads/Christmas/Round 4/Christmas Lounge/Christmas Lounge Sample LH1-1.mp3",
+   "generate_type": "Keyboard",
+   "prompt": "celesta and music box, gentle christmas melody, sparse, soft"
+  },
+  {
+   "name": "Classical CL9-1 + bells",
+   "mode": "layer",
+   "input": "~/Downloads/Christmas/Round 4/Christmas Classical/Christmas Classical Sample CL9-1.mp3",
+   "generate_type": "Percussion",
+   "prompt": "soft tubular bells and gentle sleigh bells, christmas, sparse and subtle"
+  },
+  {
+   "name": "Jazz J8-1 + sleigh bells",
+   "mode": "layer",
+   "input": "~/Downloads/Christmas/Round 4/Christmas Jazz/Christmas Jazz Sample J8-1.mp3",
+   "generate_type": "Percussion",
+   "prompt": "soft sleigh bells, christmas, subtle, brushed"
+  },
+  {
+   "name": "Acoustic A7-1 + celesta",
+   "mode": "layer",
+   "input": "~/Downloads/Christmas/Round 4/Christmas Acoustic/Christmas Acoustic Sample A7-1.mp3",
+   "generate_type": "Keyboard",
+   "prompt": "celesta and music box, gentle christmas melody, sparse, soft"
+  },
+  {
+   "name": "Classical - Silent Night (carol)",
+   "mode": "arrange",
+   "input": "data/melodies/silent-night-musicbox-x3.mp3",
+   "generate_type": "Instrumental",
+   "prompt": "christmas classical, romantic string orchestra, harp, soft celesta, very slow and peaceful, sparse, long sustained notes, concert hall"
+  },
+  {
+   "name": "Jazz - Silent Night (carol)",
+   "mode": "arrange",
+   "input": "data/melodies/silent-night-musicbox-x3.mp3",
+   "generate_type": "Instrumental",
+   "prompt": "christmas jazz ballad, romantic piano trio, very soft brushes, upright bass, gentle sleigh bells, slow and peaceful, no swing"
+  },
+  {
+   "name": "Acoustic - Silent Night (carol)",
+   "mode": "arrange",
+   "input": "data/melodies/silent-night-musicbox-x3.mp3",
+   "generate_type": "Instrumental",
+   "prompt": "christmas acoustic, soft piano and fingerpicked steel string guitar, gentle, very slow and peaceful"
+  },
+  {
+   "name": "Lounge - Jingle Bells (carol)",
+   "mode": "arrange",
+   "input": "data/melodies/jingle-bells-musicbox-slow-x3.mp3",
+   "generate_type": "Instrumental",
+   "prompt": "christmas chillhop, minimal lo-fi hip hop beat, soft dusty drums, warm electric piano, gentle sleigh bells, cozy and minimal"
+  },
+  {
+   "name": "Jazz - Jingle Bells (carol)",
+   "mode": "arrange",
+   "input": "data/melodies/jingle-bells-musicbox-slow-x3.mp3",
+   "generate_type": "Instrumental",
+   "prompt": "christmas jazz, romantic piano trio ballad, soft brushes, upright bass, slow and cozy, no swing"
+  }
+ ]
+}

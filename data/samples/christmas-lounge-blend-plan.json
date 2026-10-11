@@ -1,0 +1,3889 @@
+[
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/000__MU - Inviting Crescendo.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/001__MU - Trumpet Bay.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/002__MU - Equinox Paradise.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Cmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/003__MU - Orchard Scope Security.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/004__MU - Soft Beauty.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/005__MU - Current Sun Diminuendo.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Dmin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/006__MU - Dawn Veranda Spring.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/007__MU - Limestone Phrase.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/008__MU - Dawn Dune.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_harp_80bpm_Fmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/009__MU - Reflection Panorama.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/010__MU - Large Tempo.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/011__MU - Great Flash Spirit.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/012__MU - Glowing Smooth Trio.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/013__MU - Waxing Manor.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/014__MU - Month Cape.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/015__MU - Way Stream.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/016__MU - Way Discovery Understanding.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/017__MU - Permanent Cricket.flac",
+  "layers": [
+   {
+    "overlay": "ocome_verse_vibes_80bpm_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/018__MU - Funky Night.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/019__MU - Jump Veranda.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/020__MU - Milk Concert.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/021__MU - Fog Feel.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/022__MU - Beginning Study Sparkling.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Dmin.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/023__MU - Chain Awakening Bistro.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/024__MU - Otter Set.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/025__MU - Sunrise Awe Terminal.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/026__MU - Gateway Beauty.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/027__MU - Location Terminal Soft.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/028__MU - Mode Lane.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Amin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/029__MU - Navy Warmth Ascend.flac",
+  "layers": [
+   {
+    "overlay": "hark_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/030__MU - Terminal Intuition.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/031__MU - Beyond Vocal.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/032__MU - Snow Twist.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/033__MU - Mode Basement.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Dmin.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/034__MU - Everlasting Recollection.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Amin.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/035__MU - New Moon Cavern Authentic.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/036__MU - Corner Animation.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/037__MU - Deep Crescendo.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/038__MU - Navy Aria.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/039__MU - Friendly Sun Exit.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/040__MU - Airy Ballad.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -15.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/041__MU - Fluid Parlor.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/042__MU - Twilight Outer Fugue.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/043__MU - Island Curiosity.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/044__MU - Shaft Spiral.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_harp_80bpm_Fmaj.wav",
+    "gain_db": -17.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/045__MU - Month Recollection.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/046__MU - Teak Intuition.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/047__MU - Setting Bliss.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/048__MU - Crisp Cricket Attic.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/049__MU - Sparkling Ensemble.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -16.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/050__MU - Swan Olive Symphony.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/051__MU - Boulevard Parlor.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/052__MU - Raised Plaza.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/053__MU - Crescent Wisdom.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/054__MU - Spirit Fusion.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/055__MU - Bar Ring.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/056__MU - Cathedral Strength.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -17.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/057__MU - Peach Relaxation.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/058__MU - Full Moon Parlor.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Dmin.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/059__MU - Below Cicada.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/060__MU - Lavender Starfish Phrase.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/061__MU - Spirit Jasmine Zone.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/062__MU - Earth Street.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/063__MU - Willow Moment Liveliness.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/064__MU - Heart Acoustic.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/065__MU - Cove Peace.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/066__MU - Corner Afro Duo.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/067__MU - Drums Radiant Chamber.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/068__MU - Atmosphere Gradient.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/069__MU - Midday Vigor.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/070__MU - Dusk Dock.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/071__MU - Polished Glow.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -17.7,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/072__MU - Platinum Part.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/073__MU - Piano Minuet.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/074__MU - Radiant Crossing.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/075__MU - Connection Shore.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Amin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/076__MU - Garden Wish.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/077__MU - Trendy Violet Ballad.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Amin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/078__MU - Dusty Delight Nostalgia.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/079__MU - Inlet Leaf Majesty.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/080__MU - Beginning Magnificence Priceless.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/081__MU - Chiffon Finale.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/082__MU - Quartz Lightness.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/083__MU - Late Wonder.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_harp_80bpm_Cmaj.wav",
+    "gain_db": -17.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/084__MU - Soul Tower.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/085__MU - Origin Sense Gallery.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Fmaj.wav",
+    "gain_db": -16.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/086__MU - Gradual Foam Zephyr.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/087__MU - Rain Sax.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Amin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/088__MU - Cerulean Phrase.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/089__MU - Foam Bounce.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/090__MU - Chrome Animation Glee.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/091__MU - Lime Serenade.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/092__MU - Elegant Terminal Mood.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Amin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/093__MU - Club Latin.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/094__MU - Circle Parlor.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Amin.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/095__MU - Golden Hour Chapel.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/096__MU - Area String Reef.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/097__MU - Bop Steady Legato.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/098__MU - Marble Opus.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Dmin.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/099__MU - Garnet Session.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -14.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/100__MU - Lovely Savanna.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/101__MU - Quarter Woodland.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/102__MU - Span Glacier Fine.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/103__MU - Junction Ambition.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/104__MU - Village Arch.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/105__MU - Ancient Pleasure Gazebo.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/106__MU - Everlasting Crane Awe.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/107__MU - Urban Height.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/108__MU - Well Harmony.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Dmin.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/109__MU - Bar Vine.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/110__MU - Summertime Tale.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/111__MU - Infinite Fellowship.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/112__MU - Bop Spot Ridge.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/113__MU - Jump Crescent Recollection.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/114__MU - Modern Ocean.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Cmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/115__MU - City Day Cellar.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -18.5,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/116__MU - Spring Shadow.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -18.5,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/117__MU - Night Peak.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/118__MU - Ground Creek.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/119__MU - Vanilla Festivity.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/120__MU - Second Quietude.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/121__MU - Salmon Fusion Space.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/122__MU - Golden Hour Way.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/123__MU - Trumpet Carol.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/124__MU - Boulevard Terminal Valor.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/125__MU - Circle Murmur Clover.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/126__MU - Big Salon.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/127__MU - Dragonfly Second Nook.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/128__MU - Eclipse Cabin Love.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Amin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/129__MU - Satin Club Tranquility.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/130__MU - Sparkle Wisdom Boulevard.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/131__MU - Mood Symphony.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/132__MU - Summit Courtyard.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_harp_80bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/133__MU - Soft Gust.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -16.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/134__MU - Firefly Just.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/135__MU - Amethyst Rondo.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -14.6,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/136__MU - Avenue Seed Gallery.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Amin.wav",
+    "gain_db": -14.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/137__MU - Genuine Twilight Chapel.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Amin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/138__MU - Root Spirit.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/139__MU - Nightfall Bistro.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/140__MU - Jasper Nocturne.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/141__MU - Legend Nightfall Serenity.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/142__MU - Onyx Hymn.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/143__MU - Cool Swing.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Amin.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/144__MU - Port Acceptance.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/145__MU - Navy Elegance.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/146__MU - Ocean Shelter.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/147__MU - Priceless Starfish Elegance.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/148__MU - Cord Still Dragonfly.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/149__MU - Puddle Outline.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/150__MU - Cyan Wonder.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/151__MU - Solstice Jubilation.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/152__MU - Rich Piano.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -18.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/153__MU - Free Feel Kiosk.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/154__MU - Spirit Clearing.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/155__MU - Private Salmon.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_harp_80bpm_Fmaj.wav",
+    "gain_db": -17.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/156__MU - Pergola Festivity.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/157__MU - Utopia Determination Wonder.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/158__MU - Clean Daybreak Tranquility.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/159__MU - Frame Tradition Gleam.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Amin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/160__MU - Taste Bounce.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/161__MU - Complete Terminal.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.8,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/162__MU - Clay Set.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/163__MU - Sage Fantasia.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -18.9,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/164__MU - Essence Bistro.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/165__MU - Flow Profile.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/166__MU - Swing Cicada.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/167__MU - Alcove Tie Shimmer.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/168__MU - Manor Celebration.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/169__MU - Beam Float.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Dmin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/170__MU - Whirl Prism.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/171__MU - Private Movement.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/172__MU - Unrefined Wave.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Amin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/173__MU - Mighty Staccato Root.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Dmin.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/174__MU - Grand Pavilion.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_harp_80bpm_Cmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/175__MU - Plain Tango.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/176__MU - Everlasting Theme Chamber.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/177__MU - Sacred Gradual Encore.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/178__MU - Pattern Morning Forest.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/179__MU - Cheer Night Quietude.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_handbells_80bpm_Amin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/180__MU - Holy Mint.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/181__MU - Iron Knowledge.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Cmaj.wav",
+    "gain_db": -14.3,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/182__MU - Suite Celebration Cord.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/183__MU - Hot Corner.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/184__MU - Fleet Sun.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/185__MU - Dawn Chamber.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/186__MU - Comet Sparkle.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Amin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/187__MU - Cool Quarter.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Cmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/188__MU - Bistro Blend.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/189__MU - Infinite Liveliness.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_vibes_80bpm_Amin.wav",
+    "gain_db": -13.7,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/190__MU - Mahogany Relaxation.flac",
+  "layers": [
+   {
+    "overlay": "hark_frag_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/191__MU - Void Hue.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -13.2,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/192__MU - Smooth Station.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/193__MU - Hill Smoothness.flac",
+  "layers": [
+   {
+    "overlay": "godrest_vibes_80bpm_Amin.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/194__MU - Intense Cosmos.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_b_handbells_80bpm_Amin.wav",
+    "gain_db": -12.5,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/195__MU - Chiffon History.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_ostinato_vibes_80bpm_Amin.wav",
+    "gain_db": -12.1,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/196__MU - Feel Waltz Vitality.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Fmaj.wav",
+    "gain_db": -14.7,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/197__MU - Century Foyer.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -15.6,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/198__MU - Leaf Ascend.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/199__MU - Quartet Halo.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Fmaj.wav",
+    "gain_db": -13.1,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/200__MU - Inventive Fog.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/201__MU - Holy Bee.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Fmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/202__MU - Mild Setting.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_call_harp_80bpm_Fmaj.wav",
+    "gain_db": -17.8,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/203__MU - Cobalt Finale.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_piano_80bpm_Dmin.wav",
+    "gain_db": -13.4,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/204__MU - Fountain Ring.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.9,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/205__MU - Quartet Gem.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/206__MU - Valor Inn Reflection.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_piano_80bpm_Amin.wav",
+    "gain_db": -15.9,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/207__MU - Wonder Sweet Porch.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Fmaj.wav",
+    "gain_db": -12.7,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/208__MU - Historic Corridor.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/209__MU - Hot Glowing Fountain.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/210__MU - Cabin Softness.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_fall_harp_80bpm_Cmaj.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells5_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/211__MU - Classic Fondness Togetherness.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells3_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/212__MU - Secret Inlet Sacred.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Cmaj.wav",
+    "gain_db": -12.2,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/213__MU - Vintage Cafe.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells5_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/214__MU - Village Constellation.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -13.3,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells_quarters_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/215__MU - Island History.flac",
+  "layers": [
+   {
+    "overlay": "godrest_frag_handbellslow_80bpm_Dmin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_call_handbells_80bpm_Fmaj.wav",
+    "gain_db": -13.6,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/216__MU - Ether Blue Hour Acceptance.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_piano_80bpm_Fmaj.wav",
+    "gain_db": -13.9,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/217__MU - Mineral Downtown.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_vibes_80bpm_Cmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/218__MU - Intense Beach Sympathy.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_a_handbellslow_80bpm_Cmaj.wav",
+    "gain_db": -12.4,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells3_fade_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/219__MU - Instant Airiness.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_handbellslow_80bpm_Amin.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sparkle_twinkle_harp_80bpm_Cmaj.wav",
+    "gain_db": -12.6,
+    "kind": "phrase",
+    "family": "sparkle"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/220__MU - Muted Prelude Nimble.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_vibes_80bpm_Cmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/221__MU - Bright Modern Prairie.flac",
+  "layers": [
+   {
+    "overlay": "godrest_handbells_80bpm_Amin.wav",
+    "gain_db": -13.8,
+    "kind": "phrase",
+    "family": "hook"
+   },
+   {
+    "overlay": "sleighbells3_build_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/222__MU - Large Bossa.flac",
+  "layers": [
+   {
+    "overlay": "carolbells_frag_vibes_80bpm_Dmin.wav",
+    "gain_db": -13.5,
+    "kind": "phrase",
+    "family": "frag"
+   },
+   {
+    "overlay": "sleighbells_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/223__MU - Uptown Way.flac",
+  "layers": [
+   {
+    "overlay": "jinglebells_flip_b_piano_80bpm_Fmaj.wav",
+    "gain_db": -12.0,
+    "kind": "phrase",
+    "family": "flip"
+   },
+   {
+    "overlay": "sleighbells6_build_80bpm.wav",
+    "gain_db": -18.7,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/224__MU - Red Mindfulness.flac",
+  "layers": [
+   {
+    "overlay": "sparkle_twinkle_handbells_80bpm_Fmaj.wav",
+    "gain_db": -13.0,
+    "kind": "phrase",
+    "family": "sparkle"
+   },
+   {
+    "overlay": "sleighbells6_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/225__MU - Tender Constellation.flac",
+  "layers": []
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/226__MU - Garnet Carol Sparkle.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells3_eighths_80bpm.wav",
+    "gain_db": -18.8,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/227__MU - Short Variation.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells6_sparse_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/228__MU - Natural Improvisation.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_eighths_80bpm.wav",
+    "gain_db": -19.0,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ },
+ {
+  "playlist": "Christmas Lounge",
+  "base": "/Users/benorbe/Projects/Mureka Music/.claude/worktrees/mureka-cli-setup-c53146/output/tracks/_plan/christmas-lounge/Christmas Lounge/229__MU - Helix Cove.flac",
+  "layers": [
+   {
+    "overlay": "sleighbells5_build_80bpm.wav",
+    "gain_db": -18.6,
+    "kind": "loop",
+    "family": "sleigh"
+   }
+  ]
+ }
+]
